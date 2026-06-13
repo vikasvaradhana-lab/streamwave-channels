@@ -1,8 +1,8 @@
 [
   {
-    "name": "BBC Earth (1080p)",
+    "name": "INWILD (1080p)",
     "country": "UK",
-    "stream": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+    "stream": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
     "yt": null
   },
   {
@@ -187,9 +187,9 @@
     "yt": null
   },
   {
-    "name": "INWILD (1080p)",
+    "name": "BBC Earth (1080p)",
     "country": "UK",
-    "stream": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+    "stream": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
     "yt": null
   },
   {
