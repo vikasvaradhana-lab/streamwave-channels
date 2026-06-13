@@ -1,0 +1,302 @@
+[
+  {
+    "name": "BBC Earth (1080p)",
+    "country": "UK",
+    "stream": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Autentic Travel (1080p)",
+    "country": "DE",
+    "stream": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Asianet Middle East (576p)",
+    "country": "IN",
+    "stream": "https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Asianet Movies (576p)",
+    "country": "IN",
+    "stream": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Asianet Plus (396p)",
+    "country": "IN",
+    "stream": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Asianet News",
+    "country": "IN",
+    "stream": "https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8",
+    "yt": "s0LLVQeMmtU"
+  },
+  {
+    "name": "Big TV 24x7 (576i)",
+    "country": "IN",
+    "stream": "https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Reporter TV",
+    "country": "IN",
+    "stream": "https://segment.yuppcdn.net/050522/reporter/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "24 News",
+    "country": "IN",
+    "stream": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8",
+    "yt": "1wECsnGZcfc"
+  },
+  {
+    "name": "News Malayalam 24x7",
+    "country": "IN",
+    "stream": "https://cdn-3.pishow.tv/live/1629/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "News18 Kerala",
+    "country": "IN",
+    "stream": "https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Janam TV",
+    "country": "IN",
+    "stream": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8",
+    "yt": "T9Ol2JHqKlM"
+  },
+  {
+    "name": "Manorama News",
+    "country": "IN",
+    "stream": "https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8",
+    "yt": "tgBTspqA5nY"
+  },
+  {
+    "name": "Mathrubhumi News",
+    "country": "IN",
+    "stream": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8",
+    "yt": "YGEgelAiUf0"
+  },
+  {
+    "name": "MediaoneTV Live",
+    "country": "IN",
+    "stream": "https://cdn-3.pishow.tv/live/1481/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Kerala Vision News 24x7",
+    "country": "IN",
+    "stream": "https://mumt03.tangotv.in/KERALAVISION/index.m3u8",
+    "yt": null
+  },
+  {
+    "name": "KITE Victers (Kerala)",
+    "country": "IN",
+    "stream": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Star Sports 1 HD (1080p)",
+    "country": "IN",
+    "stream": "http://103.253.18.58:8000/play/a00m",
+    "yt": null
+  },
+  {
+    "name": "Star Sports 1 Hindi (576p)",
+    "country": "IN",
+    "stream": "http://103.253.18.58:8000/play/a03o",
+    "yt": null
+  },
+  {
+    "name": "Republic World",
+    "country": "IN",
+    "stream": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "NDTV 24x7 (720p)",
+    "country": "IN",
+    "stream": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8",
+    "yt": null
+  },
+  {
+    "name": "NDTV India",
+    "country": "IN",
+    "stream": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+    "yt": "MN8p-Vrn6G0"
+  },
+  {
+    "name": "News18 India",
+    "country": "IN",
+    "stream": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Aaj Tak",
+    "country": "IN",
+    "stream": "https://feeds.intoday.in/master.m3u8",
+    "yt": "Nq2wYlWFucg"
+  },
+  {
+    "name": "India Today (720p)",
+    "country": "IN",
+    "stream": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Times Now Navbharat",
+    "country": "IN",
+    "stream": "https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8",
+    "yt": "77qMaUtV030"
+  },
+  {
+    "name": "News Nation",
+    "country": "IN",
+    "stream": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Zee News (1080p)",
+    "country": "IN",
+    "stream": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Zee Business (720p)",
+    "country": "IN",
+    "stream": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Mirror Now (720p)",
+    "country": "IN",
+    "stream": "https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "DD India (1080p)",
+    "country": "IN",
+    "stream": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8",
+    "yt": null
+  },
+  {
+    "name": "INWILD (1080p)",
+    "country": "UK",
+    "stream": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Adventure Earth (1080p)",
+    "country": "DE",
+    "stream": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Journy (720p)",
+    "country": "US",
+    "stream": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8?ads.vf=QFdKH3fCQ5m",
+    "yt": null
+  },
+  {
+    "name": "Disney XD (720p)",
+    "country": "US",
+    "stream": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
+    "yt": null
+  },
+  {
+    "name": "NickToons",
+    "country": "US",
+    "stream": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Kartoon Channel (1080p)",
+    "country": "US",
+    "stream": "https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Pluto TV Retro Toons",
+    "country": "US",
+    "stream": "https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8",
+    "yt": null
+  },
+  {
+    "name": "ToonGoggles (720p)",
+    "country": "US",
+    "stream": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "ducktv (720p)",
+    "country": "US",
+    "stream": "https://jmp2.uk/stvp-ESBC4700001GR",
+    "yt": null
+  },
+  {
+    "name": "Mr. Bean Anime (1080p)",
+    "country": "UK",
+    "stream": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Tastemade (1080p)",
+    "country": "US",
+    "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "TV5MONDE Chefs (1080p)",
+    "country": "FR",
+    "stream": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
+    "yt": null
+  },
+  {
+    "name": "In the Kitchen (720p)",
+    "country": "US",
+    "stream": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "DroneTV (1080p)",
+    "country": "US",
+    "stream": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om",
+    "yt": null
+  },
+  {
+    "name": "Maldives TV (720p)",
+    "country": "MV",
+    "stream": "https://lana.psm.mv/live/mtv.m3u8",
+    "yt": null
+  },
+  {
+    "name": "China Travel (1080p)",
+    "country": "CN",
+    "stream": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Beach TV Key West & Florida Keys (720p)",
+    "country": "US",
+    "stream": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Schladming-Dachstein TV (720p)",
+    "country": "AT",
+    "stream": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Zee Comedy Nation (1080p)",
+    "country": "IN",
+    "stream": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
+    "yt": null
+  }
+]
