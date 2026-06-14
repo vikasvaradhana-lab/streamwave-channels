@@ -133,18 +133,6 @@
     "yt": null
   },
   {
-    "name": "NDTV India",
-    "country": "IN",
-    "stream": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
-    "yt": "MN8p-Vrn6G0"
-  },
-  {
-    "name": "News18 India",
-    "country": "IN",
-    "stream": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8",
-    "yt": null
-  },
-  {
     "name": "India Today (720p)",
     "country": "IN",
     "stream": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
@@ -166,6 +154,18 @@
     "name": "NDTV English",
     "country": "IN",
     "stream": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "NDTV India",
+    "country": "IN",
+    "stream": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+    "yt": "MN8p-Vrn6G0"
+  },
+  {
+    "name": "News18 India",
+    "country": "IN",
+    "stream": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8",
     "yt": null
   },
   {
@@ -237,6 +237,18 @@
     "yt": null
   },
   {
+    "name": "Discovery_Asia HD",
+    "country": "IN",
+    "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Wild Earth",
+    "country": "UK",
+    "stream": "https://wildearth-plex.amagi.tv/master.m3u8",
+    "yt": null
+  },
+  {
     "name": "REAL WILD 🇬🇧",
     "country": "UK",
     "logo": "https://i.ibb.co/sRhcqHT/realwild.png",
@@ -267,12 +279,6 @@
     "country": "US",
     "logo": "https://business.insight.tv/wp-content/uploads/7521/01/Insight-TV-Logo-small-150x150.png",
     "stream": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
-    "yt": null
-  },
-  {
-    "name": "Journy (720p)",
-    "country": "US",
-    "stream": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8?ads.vf=QFdKH3fCQ5m",
     "yt": null
   },
   {
@@ -484,12 +490,6 @@
     "name": "In the Kitchen (720p)",
     "country": "US",
     "stream": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8",
-    "yt": null
-  },
-  {
-    "name": "DroneTV (1080p)",
-    "country": "US",
-    "stream": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om",
     "yt": null
   },
   {
