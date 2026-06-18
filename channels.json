@@ -111,6 +111,223 @@
       "cat": "News",
       "stream": "https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8",
       "yt": null
+    },
+    {
+      "name": "Wion News",
+      "logo": "",
+      "cat": "News",
+      "stream": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+      "yt": null
+    },
+    {
+      "name": "NDTV English",
+      "logo": "",
+      "cat": "News",
+      "stream": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Times Of India",
+      "logo": "",
+      "cat": "News",
+      "stream": "https://live.sli.ke/live/npnhm84gz9/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "BBC News",
+      "logo": "",
+      "cat": "News",
+      "stream": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
+      "yt": null
+    },
+    {
+      "name": "CNN (US)",
+      "logo": "",
+      "cat": "News",
+      "stream": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Sky News",
+      "logo": "",
+      "cat": "News",
+      "stream": "https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8",
+      "yt": null
+    },
+    {
+      "name": "France 24 English",
+      "logo": "",
+      "cat": "News",
+      "stream": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8",
+      "yt": null
+    },
+    {
+      "name": "DW English",
+      "logo": "https://i.ibb.co/7kNhrmW/dw-english-home-tv.png",
+      "cat": "News",
+      "stream": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "CNA News",
+      "logo": "",
+      "cat": "News",
+      "stream": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+      "yt": null
+    },
+    {
+      "name": "NHK World",
+      "logo": "",
+      "cat": "News",
+      "stream": "http://103.175.73.12:8080/live/417/417_0.m3u8",
+      "yt": null
+    },
+    {
+      "name": "FOX News (AU)",
+      "logo": "https://i.ibb.co/whc9vkT/download-5.png",
+      "cat": "News",
+      "stream": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8",
+      "yt": null
+    },
+    {
+      "name": "RT News (EN)",
+      "logo": "https://i.ibb.co/M7W5zRy/images.png",
+      "cat": "News",
+      "stream": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Iran International (EN)",
+      "logo": "",
+      "cat": "News",
+      "stream": "https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8",
+      "yt": null
+    },
+    {
+      "name": "T Global News (Canada)",
+      "logo": "",
+      "cat": "News",
+      "stream": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Breaking News",
+      "logo": "",
+      "cat": "News",
+      "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "CGTN",
+      "logo": "",
+      "cat": "News",
+      "stream": "https://0472.org/hls/cgtn.m3u8",
+      "yt": null
+    },
+    {
+      "name": "News Max 2",
+      "logo": "",
+      "cat": "News",
+      "stream": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "MediaoneTV Live",
+      "logo": null,
+      "cat": "News",
+      "stream": "https://cdn-3.pishow.tv/live/1481/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Kerala Vision News 24x7",
+      "logo": null,
+      "cat": "News",
+      "stream": "https://mumt03.tangotv.in/KERALAVISION/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Republic World",
+      "logo": null,
+      "cat": "News",
+      "stream": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "News18 India",
+      "logo": null,
+      "cat": "News",
+      "stream": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Times Now Navbharat",
+      "logo": null,
+      "cat": "News",
+      "stream": "https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8",
+      "yt": "77qMaUtV030"
+    },
+    {
+      "name": "News Nation",
+      "logo": null,
+      "cat": "News",
+      "stream": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "India Today (720p)",
+      "logo": null,
+      "cat": "News",
+      "stream": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "NDTV 24x7 (720p)",
+      "logo": null,
+      "cat": "News",
+      "stream": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Aaj Tak HD (1080p)",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png",
+      "cat": "News",
+      "stream": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Zee News (1080p)",
+      "logo": null,
+      "cat": "News",
+      "stream": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Zee Business (720p)",
+      "logo": null,
+      "cat": "News",
+      "stream": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Mirror Now (720p)",
+      "logo": null,
+      "cat": "News",
+      "stream": "https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "DD India (1080p)",
+      "logo": null,
+      "cat": "News",
+      "stream": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Zee Comedy Nation (1080p)",
+      "logo": null,
+      "cat": "News",
+      "stream": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
+      "yt": null
     }
   ],
   "Entertainment": [
@@ -227,12 +444,40 @@
       "yt": null
     },
     {
+      "name": "Colors Infinity SD",
+      "logo": "https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg",
+      "cat": "Entertainment",
+      "stream": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "FASHION ONE",
+      "logo": "https://i.ibb.co/9grLJCS/fone22.png",
+      "cat": "Entertainment",
+      "stream": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Digital Fashion",
+      "logo": "https://i.ibb.co/9grLJCS/fone22.png",
+      "cat": "Entertainment",
+      "stream": "http://115.187.41.216:8080/hls/digitalfashion/index.m3u8",
+      "yt": null
+    },
+    {
       "name": "Surya HD (Sun NXT)",
       "logo": "https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg",
       "cat": "Entertainment",
       "stream": "https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiI2dWc0ek5kZFNoLV85djE5MGNsM2dBIiwiayI6Imdsbk9EQkVuSmFUU3lVMFZRZ2RDWHcifV19"
+    },
+    {
+      "name": "NDTV India",
+      "logo": null,
+      "cat": "Entertainment",
+      "stream": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+      "yt": "MN8p-Vrn6G0"
     }
   ],
   "Movies": [
@@ -255,6 +500,90 @@
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png",
       "cat": "Movies",
       "stream": "https://cdn-3.pishow.tv/live/1530/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Zee Anmol TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",
+      "cat": "Movies",
+      "stream": "http://103.175.73.12:8080/live/256/256_0.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Zee Action",
+      "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png",
+      "cat": "Movies",
+      "stream": "http://103.175.73.12:8080/live/270/270_0.m3u8",
+      "yt": null
+    },
+    {
+      "name": "B4U Kadak",
+      "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png",
+      "cat": "Movies",
+      "stream": "https://cdn-2.pishow.tv/live/227/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Sheemaroo Bollywood",
+      "logo": "https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",
+      "cat": "Movies",
+      "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Goldmines",
+      "logo": "https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630",
+      "cat": "Movies",
+      "stream": "https://cdn-2.pishow.tv/live/1459/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Goldmines Bollywood",
+      "logo": "",
+      "cat": "Movies",
+      "stream": "http://103.175.73.12:8080/live/52/52_0.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Goldmines Movies",
+      "logo": "",
+      "cat": "Movies",
+      "stream": "https://cdn-2.pishow.tv/live/1461/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Goldmines Movies 2",
+      "logo": "",
+      "cat": "Movies",
+      "stream": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Manoranjan Prime",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s",
+      "cat": "Movies",
+      "stream": "http://103.175.73.12:8080/live/345/345_0.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Manoranjan Grend",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s",
+      "cat": "Movies",
+      "stream": "http://103.175.73.12:8080/live/19/19_0.m3u8",
+      "yt": null
+    },
+    {
+      "name": "The Movie Club",
+      "logo": "",
+      "cat": "Movies",
+      "stream": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Hinde Movies 3",
+      "logo": "",
+      "cat": "Movies",
+      "stream": "https://vods2.aynaott.com/hindimovies/index.m3u8",
       "yt": null
     },
     {
@@ -338,6 +667,13 @@
       "cat": "General",
       "stream": "https://cloudsavre.in.net/hls/stream.m3u8",
       "yt": null
+    },
+    {
+      "name": "KITE Victers (Kerala)",
+      "logo": null,
+      "cat": "General",
+      "stream": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
+      "yt": null
     }
   ],
   "Religious": [
@@ -405,6 +741,41 @@
       "cat": "Music",
       "stream": "https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8",
       "yt": null
+    },
+    {
+      "name": "9XM",
+      "logo": "",
+      "cat": "Music",
+      "stream": "http://103.175.73.12:8080/live/155/155_0.m3u8",
+      "yt": null
+    },
+    {
+      "name": "E24",
+      "logo": "",
+      "cat": "Music",
+      "stream": "http://103.175.73.12:8080/live/159/159_0.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Music India",
+      "logo": "",
+      "cat": "Music",
+      "stream": "http://103.175.73.12:8080/live/158/158_0.m3u8",
+      "yt": null
+    },
+    {
+      "name": "YRF Music HD",
+      "logo": "",
+      "cat": "Music",
+      "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Hindi Hits HD",
+      "logo": "",
+      "cat": "Music",
+      "stream": "http://146.59.253.52:8080/hindihitshd/index.m3u8",
+      "yt": null
     }
   ],
   "Lifestyle": [
@@ -413,6 +784,34 @@
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png",
       "cat": "Lifestyle",
       "stream": "https://cdn-3.pishow.tv/live/1123/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Tastemade (1080p)",
+      "logo": null,
+      "cat": "Lifestyle",
+      "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Authentic Travel (1080p)",
+      "logo": null,
+      "cat": "Lifestyle",
+      "stream": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "TV5MONDE Chefs (1080p)",
+      "logo": null,
+      "cat": "Lifestyle",
+      "stream": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
+      "yt": null
+    },
+    {
+      "name": "In the Kitchen (720p)",
+      "logo": null,
+      "cat": "Lifestyle",
+      "stream": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8",
       "yt": null
     }
   ],
@@ -430,6 +829,139 @@
       "cat": "Documentary",
       "stream": "http://149.71.34.166:8002/play/a012/index.m3u8",
       "yt": null
+    },
+    {
+      "name": "TravelXP 4K HDR",
+      "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",
+      "cat": "Documentary",
+      "stream": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+      "yt": null
+    },
+    {
+      "name": "REAL WILD 🇬🇧",
+      "logo": "https://i.ibb.co/sRhcqHT/realwild.png",
+      "cat": "Documentary",
+      "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "OUTDOOR CHANNEL 🇺🇸",
+      "logo": "https://i.ibb.co/jZ2NVqN/outdoorch.png",
+      "cat": "Documentary",
+      "stream": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "INSIGHT",
+      "logo": "https://business.insight.tv/wp-content/uploads/7521/01/Insight-TV-Logo-small-150x150.png",
+      "cat": "Documentary",
+      "stream": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Discovery_Asia HD",
+      "logo": "",
+      "cat": "Documentary",
+      "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Wild Earth",
+      "logo": "",
+      "cat": "Documentary",
+      "stream": "https://wildearth-plex.amagi.tv/master.m3u8",
+      "yt": null
+    },
+    {
+      "name": "ACCU WEATHER",
+      "logo": "",
+      "cat": "Documentary",
+      "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1",
+      "yt": null
+    },
+    {
+      "name": "Sochi 24 HD 🇷🇺",
+      "logo": "",
+      "cat": "Documentary",
+      "stream": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Discover Pakistan TV",
+      "logo": "",
+      "cat": "Documentary",
+      "stream": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Amazon SAT",
+      "logo": "",
+      "cat": "Documentary",
+      "stream": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Saudia Arabia",
+      "logo": "",
+      "cat": "Documentary",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "CGTN Document",
+      "logo": "",
+      "cat": "Documentary",
+      "stream": "https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8",
+      "yt": null
+    },
+    {
+      "name": "INWILD (1080p)",
+      "logo": null,
+      "cat": "Documentary",
+      "stream": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "BBC Earth (1080p)",
+      "logo": null,
+      "cat": "Documentary",
+      "stream": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Adventure Earth (1080p)",
+      "logo": null,
+      "cat": "Documentary",
+      "stream": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "China Travel (1080p)",
+      "logo": null,
+      "cat": "Documentary",
+      "stream": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Beach TV Key West & Florida Keys (720p)",
+      "logo": null,
+      "cat": "Documentary",
+      "stream": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Schladming-Dachstein TV (720p)",
+      "logo": null,
+      "cat": "Documentary",
+      "stream": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Maldives TV (720p)",
+      "logo": null,
+      "cat": "Documentary",
+      "stream": "https://lana.psm.mv/live/mtv.m3u8",
+      "yt": null
     }
   ],
   "Kids": [
@@ -441,12 +973,152 @@
       "yt": null
     },
     {
+      "name": "Zoo Moo",
+      "logo": "",
+      "cat": "Kids",
+      "stream": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Cartoon Network",
+      "logo": "",
+      "cat": "Kids",
+      "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "BBC Cbeebies",
+      "logo": "",
+      "cat": "Kids",
+      "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "PBS Kids",
+      "logo": "",
+      "cat": "Kids",
+      "stream": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Tom & Jerry TV",
+      "logo": "",
+      "cat": "Kids",
+      "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Doraemon TV",
+      "logo": "",
+      "cat": "Kids",
+      "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Oggy and the Cockroaches",
+      "logo": "",
+      "cat": "Kids",
+      "stream": "https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Jungle Book",
+      "logo": "https://i.imgur.com/ubZMeQv.jpg",
+      "cat": "Kids",
+      "stream": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
+      "yt": null
+    },
+    {
+      "name": "YTV",
+      "logo": "",
+      "cat": "Kids",
+      "stream": "https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8",
+      "yt": null
+    },
+    {
+      "name": "ZB Cartoon",
+      "logo": "",
+      "cat": "Kids",
+      "stream": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Rongeen TV",
+      "logo": "",
+      "cat": "Kids",
+      "stream": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Gopal Bhar TV",
+      "logo": "",
+      "cat": "Kids",
+      "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Bantul The Great",
+      "logo": "",
+      "cat": "Kids",
+      "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8",
+      "yt": null
+    },
+    {
       "name": "Kochu TV (Sun NXT)",
       "logo": "https://sund-images.sunnxt.com/194348/960x540_KochuTV_194348_9777cbfd-685b-4e06-a7cc-f2902c1874e8.jpg",
       "cat": "Kids",
       "stream": "https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJjMVQ3TXpzTVFWbThiRU04VGJFOUR3IiwiayI6Ii1faTBvUl9yOTlMdTBpZ3dCcGVSZGcifV19"
+    },
+    {
+      "name": "Disney XD (720p)",
+      "logo": null,
+      "cat": "Kids",
+      "stream": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "NickToons",
+      "logo": null,
+      "cat": "Kids",
+      "stream": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Mr. Bean Anime (1080p)",
+      "logo": null,
+      "cat": "Kids",
+      "stream": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Kartoon Channel (1080p)",
+      "logo": null,
+      "cat": "Kids",
+      "stream": "https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Pluto TV Retro Toons",
+      "logo": null,
+      "cat": "Kids",
+      "stream": "https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8",
+      "yt": null
+    },
+    {
+      "name": "ToonGoggles (720p)",
+      "logo": null,
+      "cat": "Kids",
+      "stream": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "ducktv (720p)",
+      "logo": null,
+      "cat": "Kids",
+      "stream": "https://jmp2.uk/stvp-ESBC4700001GR",
+      "yt": null
     }
   ],
   "Undefined": [
@@ -462,6 +1134,197 @@
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Shekinah.png",
       "cat": "Undefined",
       "stream": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+      "yt": null
+    }
+  ],
+  "Sports": [
+    {
+      "name": "FIFA+",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Real Madrid tv Football",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Redbull TV",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Sony Sports 1 HD 🇮🇳",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8",
+      "yt": null
+    },
+    {
+      "name": "PTV Sports pk HD",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
+      "yt": null
+    },
+    {
+      "name": "DD Sports",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Motor Vision",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
+      "yt": null
+    },
+    {
+      "name": "MuxIP-SportsFirst TV",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8",
+      "yt": null
+    },
+    {
+      "name": "A SPOR",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Bein Sports 1",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Bein Sports Direct 🇫🇷",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "TYC Sports HD",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "http://cdn.tv-rds.workers.dev/TYCSPT.m3u8",
+      "yt": null
+    },
+    {
+      "name": "D Sports",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Win Sports 🇧🇷",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "TRT Spor ⚽",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Bioscope Plus 🇧🇩",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://streamsportixa.ajmainearafat.workers.dev/live.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Somoy TV 🇧🇩",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
+      "yt": null
+    },
+    {
+      "name": "অস্ট্রেলিয়া 🆚 তুরস্ক",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://live05.msdht.app/live/08552895.m3u8",
+      "yt": null
+    },
+    {
+      "name": "FWC 2026 Football HD 1080p",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Max1",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "http://go8knm.optikl.ink/X/index.php/Besyria2/video.m3u8",
+      "yt": null
+    },
+    {
+      "name": "India A vs Afghanistan A Shamshad TV",
+      "logo": "",
+      "cat": "Sports",
+      "stream": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Star Sports 1 HD (1080p)",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "http://103.253.18.58:8000/play/a00m",
+      "yt": null
+    },
+    {
+      "name": "Star Sports 1 Hindi (576p)",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "http://103.253.18.58:8000/play/a03o",
+      "yt": null
+    },
+    {
+      "name": "Sony Sports 2 HD 🇮🇳",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Sony Sports 5 HD 🇮🇳",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Sony-Ten-Cricket HD",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8",
+      "yt": null
+    },
+    {
+      "name": "EuroSports HD 🇮🇳",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8",
       "yt": null
     }
   ]

@@ -132,9 +132,33 @@
     "yt": null
   },
   {
+    "name": "India Today (720p)",
+    "country": "IN",
+    "stream": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "NDTV English",
+    "country": "IN",
+    "stream": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+    "yt": null
+  },
+  {
     "name": "NDTV 24x7 (720p)",
     "country": "IN",
     "stream": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Times Of India",
+    "country": "IN",
+    "stream": "https://live.sli.ke/live/npnhm84gz9/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Wion News",
+    "country": "IN",
+    "stream": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
     "yt": null
   },
   {
@@ -150,15 +174,10 @@
     "yt": null
   },
   {
-    "name": "Aaj Tak",
+    "name": "Aaj Tak HD (1080p)",
     "country": "IN",
-    "stream": "https://feeds.intoday.in/master.m3u8",
-    "yt": "Nq2wYlWFucg"
-  },
-  {
-    "name": "India Today (720p)",
-    "country": "IN",
-    "stream": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png",
+    "stream": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
     "yt": null
   },
   {
@@ -198,6 +217,50 @@
     "yt": null
   },
   {
+    "name": "BBC News",
+    "country": "UK",
+    "stream": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
+    "yt": null
+  },
+  {
+    "name": "CNN (US)",
+    "country": "US",
+    "stream": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Sky News",
+    "country": "UK",
+    "stream": "https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8",
+    "yt": null
+  },
+  {
+    "name": "TravelXP 4K HDR",
+    "country": "IN",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",
+    "stream": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Discovery_Asia HD",
+    "country": "IN",
+    "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Wild Earth",
+    "country": "UK",
+    "stream": "https://wildearth-plex.amagi.tv/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "REAL WILD 🇬🇧",
+    "country": "UK",
+    "logo": "https://i.ibb.co/sRhcqHT/realwild.png",
+    "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8",
+    "yt": null
+  },
+  {
     "name": "BBC Earth (1080p)",
     "country": "UK",
     "stream": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
@@ -210,9 +273,35 @@
     "yt": null
   },
   {
-    "name": "Journy (720p)",
+    "name": "OUTDOOR CHANNEL 🇺🇸",
     "country": "US",
-    "stream": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8?ads.vf=QFdKH3fCQ5m",
+    "logo": "https://i.ibb.co/jZ2NVqN/outdoorch.png",
+    "stream": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "INSIGHT",
+    "country": "US",
+    "logo": "https://business.insight.tv/wp-content/uploads/7521/01/Insight-TV-Logo-small-150x150.png",
+    "stream": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "China Travel (1080p)",
+    "country": "CN",
+    "stream": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Beach TV Key West & Florida Keys (720p)",
+    "country": "US",
+    "stream": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Schladming-Dachstein TV (720p)",
+    "country": "AT",
+    "stream": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
     "yt": null
   },
   {
@@ -225,6 +314,61 @@
     "name": "NickToons",
     "country": "US",
     "stream": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Cartoon Network",
+    "country": "US",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Zoo Moo",
+    "country": "US",
+    "stream": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "BBC Cbeebies",
+    "country": "UK",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
+    "yt": null
+  },
+  {
+    "name": "PBS Kids",
+    "country": "US",
+    "stream": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Tom & Jerry TV",
+    "country": "US",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Doraemon TV",
+    "country": "JP",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Oggy and the Cockroaches",
+    "country": "FR",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Mr. Bean Anime (1080p)",
+    "country": "UK",
+    "stream": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Jungle Book",
+    "country": "US",
+    "logo": "https://i.imgur.com/ubZMeQv.jpg",
+    "stream": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
     "yt": null
   },
   {
@@ -252,9 +396,93 @@
     "yt": null
   },
   {
-    "name": "Mr. Bean Anime (1080p)",
-    "country": "UK",
-    "stream": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+    "name": "YTV",
+    "country": "CA",
+    "stream": "https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8",
+    "yt": null
+  },
+  {
+    "name": "ZB Cartoon",
+    "country": "IN",
+    "stream": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Rongeen TV",
+    "country": "IN",
+    "stream": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Gopal Bhar TV",
+    "country": "IN",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Bantul The Great",
+    "country": "IN",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8",
+    "yt": null
+  },
+  {
+    "name": "FIFA+",
+    "country": "US",
+    "stream": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Real Madrid tv Football",
+    "country": "ES",
+    "stream": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Redbull TV",
+    "country": "AT",
+    "stream": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Sony Sports 1 HD 🇮🇳",
+    "country": "IN",
+    "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Sony Sports 2 HD 🇮🇳",
+    "country": "IN",
+    "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Sony Sports 5 HD 🇮🇳",
+    "country": "IN",
+    "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Sony-Ten-Cricket HD",
+    "country": "IN",
+    "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8",
+    "yt": null
+  },
+  {
+    "name": "EuroSports HD 🇮🇳",
+    "country": "IN",
+    "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8",
+    "yt": null
+  },
+  {
+    "name": "PTV Sports pk HD",
+    "country": "PK",
+    "stream": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
+    "yt": null
+  },
+  {
+    "name": "DD Sports",
+    "country": "IN",
+    "stream": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8",
     "yt": null
   },
   {
@@ -270,33 +498,9 @@
     "yt": null
   },
   {
-    "name": "DroneTV (1080p)",
-    "country": "US",
-    "stream": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om",
-    "yt": null
-  },
-  {
     "name": "Maldives TV (720p)",
     "country": "MV",
     "stream": "https://lana.psm.mv/live/mtv.m3u8",
-    "yt": null
-  },
-  {
-    "name": "China Travel (1080p)",
-    "country": "CN",
-    "stream": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
-    "yt": null
-  },
-  {
-    "name": "Beach TV Key West & Florida Keys (720p)",
-    "country": "US",
-    "stream": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
-    "yt": null
-  },
-  {
-    "name": "Schladming-Dachstein TV (720p)",
-    "country": "AT",
-    "stream": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
     "yt": null
   },
   {
