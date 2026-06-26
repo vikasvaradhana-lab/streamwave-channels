@@ -1,20 +1,20 @@
 [
   {
-    "name": "Tastemade (1080p)",
-    "country": "US",
-    "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
+    "name": "TV5MONDE Chefs (1080p)",
+    "country": "FR",
+    "stream": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
     "yt": null
   },
   {
-    "name": "INWILD (1080p)",
+    "name": "Wild Earth",
     "country": "UK",
-    "stream": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+    "stream": "https://wildearth-plex.amagi.tv/master.m3u8",
     "yt": null
   },
   {
-    "name": "Authentic Travel (1080p)",
-    "country": "DE",
-    "stream": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+    "name": "Discovery_Asia HD",
+    "country": "IN",
+    "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
     "yt": null
   },
   {
@@ -32,6 +32,14 @@
     "logo": "https://sund-images.sunnxt.com/194385/640x360_SuryaMovies_194385_2d5dbc38-915d-4e41-b8b0-ea98ca6c88d3.jpg",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhMmU4enZjQ1R5MmltMExoRGNFX2lRIiwiayI6IkxvUmd4SDBfQVdrLUdUMjZXV09sNFEifV19"
+  },
+  {
+    "name": "Surya Comedy",
+    "logo": "https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg",
+    "cat": "Entertainment",
+    "stream": "https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJFVlk3QUtSclFfS2ctQTdQUXFUN2R3IiwiayI6Im02MG9yVzhqMjdrWHhqN21nUFpxSHcifV19"
   },
   {
     "name": "Surya HD (Sun NXT)",
@@ -114,10 +122,12 @@
     "yt": null
   },
   {
-    "name": "Kerala Vision News 24x7",
-    "country": "IN",
-    "stream": "https://mumt03.tangotv.in/KERALAVISION/index.m3u8",
-    "yt": null
+    "name": "Surya Music",
+    "logo": "https://sund-images.sunnxt.com/194338/640x360_SuryaMusic_194338_7fe35164-9a93-45ad-92a1-31126e592a84.jpg",
+    "cat": "Music",
+    "stream": "https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJKYUhTcE1QNFNMR3UyUkd0YVJfaU1nIiwiayI6IlBJc3MtR0VjTkQ1cUl4dHFuSHlMV0EifV19"
   },
   {
     "name": "KITE Victers (Kerala)",
@@ -126,15 +136,39 @@
     "yt": null
   },
   {
-    "name": "Star Sports 1 HD (1080p)",
-    "country": "IN",
-    "stream": "http://103.253.18.58:8000/play/a00m",
+    "name": "Star Sports 1 HD",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Star-Sports.webp",
+    "cat": "Sports",
+    "stream": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=le-beta&pass=maar-moj",
     "yt": null
   },
   {
-    "name": "Star Sports 1 Hindi (576p)",
-    "country": "IN",
-    "stream": "http://103.253.18.58:8000/play/a03o",
+    "name": "Willow FHD (DRM)",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WILLOW_2023_Primary-Stacked.png",
+    "cat": "Sports",
+    "stream": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJGM25DZTUwSGVqdWd5Y3didWFsTG53IiwiayI6InpGenp0NUtQdWVDaDdtcUxWbThLamcifV19"
+  },
+  {
+    "name": "Sky Cricket (HLS)",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/sky-sports-cricket.png",
+    "cat": "Sports",
+    "stream": "http://178.33.239.54:8080/503a/index.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Ten Cricket (HLS)",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Ten_Sports_Logo.png",
+    "cat": "Sports",
+    "stream": "https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Fox Cricket (HLS)",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/fox-cricket-logo-png_seeklogo-612614.png",
+    "cat": "Sports",
+    "stream": "https://foxenglish.pages.dev/playlist.m3u8",
     "yt": null
   },
   {
@@ -144,21 +178,27 @@
     "yt": null
   },
   {
+    "name": "Mirror Now (720p)",
+    "country": "IN",
+    "stream": "https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8",
+    "yt": null
+  },
+  {
     "name": "India Today (720p)",
     "country": "IN",
     "stream": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
     "yt": null
   },
   {
-    "name": "NDTV English",
-    "country": "IN",
-    "stream": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
-    "yt": null
-  },
-  {
     "name": "NDTV 24x7 (720p)",
     "country": "IN",
     "stream": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8",
+    "yt": null
+  },
+  {
+    "name": "NDTV English",
+    "country": "IN",
+    "stream": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
     "yt": null
   },
   {
@@ -217,12 +257,6 @@
     "yt": null
   },
   {
-    "name": "Mirror Now (720p)",
-    "country": "IN",
-    "stream": "https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8",
-    "yt": null
-  },
-  {
     "name": "DD India (1080p)",
     "country": "IN",
     "stream": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8",
@@ -254,15 +288,15 @@
     "yt": null
   },
   {
-    "name": "Discovery_Asia HD",
-    "country": "IN",
-    "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
+    "name": "Authentic Travel (1080p)",
+    "country": "DE",
+    "stream": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
     "yt": null
   },
   {
-    "name": "Wild Earth",
+    "name": "INWILD (1080p)",
     "country": "UK",
-    "stream": "https://wildearth-plex.amagi.tv/master.m3u8",
+    "stream": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
     "yt": null
   },
   {
@@ -498,9 +532,9 @@
     "yt": null
   },
   {
-    "name": "TV5MONDE Chefs (1080p)",
-    "country": "FR",
-    "stream": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
+    "name": "Tastemade (1080p)",
+    "country": "US",
+    "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
     "yt": null
   },
   {
