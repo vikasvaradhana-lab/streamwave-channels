@@ -136,32 +136,24 @@
     "yt": null
   },
   {
-    "name": "Star Sports 1 HD",
-    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Star-Sports.webp",
-    "cat": "Sports",
-    "stream": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=le-beta&pass=maar-moj",
-    "yt": null
-  },
-  {
-    "name": "Willow FHD (DRM)",
+    "name": "Willow Plus (HLS)",
     "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WILLOW_2023_Primary-Stacked.png",
     "cat": "Sports",
-    "stream": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJGM25DZTUwSGVqdWd5Y3didWFsTG53IiwiayI6InpGenp0NUtQdWVDaDdtcUxWbThLamcifV19"
-  },
-  {
-    "name": "Sky Cricket (HLS)",
-    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/sky-sports-cricket.png",
-    "cat": "Sports",
-    "stream": "http://178.33.239.54:8080/503a/index.m3u8",
+    "stream": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
     "yt": null
   },
   {
-    "name": "Ten Cricket (HLS)",
-    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Ten_Sports_Logo.png",
+    "name": "Star Sports 1 HD (1080p)",
+    "logo": null,
     "cat": "Sports",
-    "stream": "https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8",
+    "stream": "http://103.253.18.58:8000/play/a00m",
+    "yt": null
+  },
+  {
+    "name": "Star Sports 1 Hindi (576p)",
+    "logo": null,
+    "cat": "Sports",
+    "stream": "http://103.253.18.58:8000/play/a03o",
     "yt": null
   },
   {

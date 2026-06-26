@@ -1488,84 +1488,6 @@
       "yt": null
     },
     {
-      "name": "TNT Sports 1 (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/TNT_Sports_2024_vector_logo_black.svg_-scaled.png",
-      "cat": "Sports",
-      "stream": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiIwVVpZb08zcFRldkxRQk95Qld1bTBRIiwiayI6IllJT0tNWFlTZi0wT3J3T0tWWFhlRVEifV19"
-    },
-    {
-      "name": "TNT Sports 2 (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/TNT_Sports_2024_vector_logo_black.svg_-scaled.png",
-      "cat": "Sports",
-      "stream": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJDMW5PQnQ1MDdZVHk3YVhvSGEyNkV3IiwiayI6IlNPUzZTdGJDcGcwcjJsMXhvQVVJUkEifV19"
-    },
-    {
-      "name": "TNT Sports 3 (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/TNT_Sports_2024_vector_logo_black.svg_-scaled.png",
-      "cat": "Sports",
-      "stream": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJFa0UtTENoVno4V2M0UDVySU14eHlnIiwiayI6IkNOVmFqMV9KT3BOMS1iRExMaGM1eWcifV19"
-    },
-    {
-      "name": "TNT Sports 4 (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/TNT_Sports_2024_vector_logo_black.svg_-scaled.png",
-      "cat": "Sports",
-      "stream": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJWd3daOGI0MEVPVGtDYjVOeDVJX0t3IiwiayI6Im1rM3FpdktpcHdQZi1vcEhmcDdjVUEifV19"
-    },
-    {
-      "name": "DAZN Ringside (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/DAZN-Logo-scaled.png",
-      "cat": "Sports",
-      "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qgrbp3lt5t/out/v1/499bd988c5bb4ef59694158fae8f1adb/cenc.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJOUnhOcjNfZWF6dkdHMU94REkzSVVnIiwiayI6IlBmajRaaWdoTlRVZWVySGtLS09DX3cifV19"
-    },
-    {
-      "name": "beIN Sports Eng 1 (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
-      "cat": "Sports",
-      "stream": "https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJNMTJ0ZDRFSmxVVUQzTHNoM0pJQlh3IiwiayI6IkpMX1hYVU5zdjNNV2lpb3R6TlFDZ1EifV19"
-    },
-    {
-      "name": "beIN Sports Eng 2 (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
-      "cat": "Sports",
-      "stream": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJDMEstSm1UWDZCSFFUejVRVGdra3hRIiwiayI6InJpUUpBU080eHlyRlFFM0JVb1I4dUEifV19"
-    },
-    {
-      "name": "beIN Sports Eng 3 (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
-      "cat": "Sports",
-      "stream": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJlWlhISktFM1NPMlhDRUNvcTF1NXN3IiwiayI6Ilo3MnZIaUYxdWY5b0w4M3c0alZMSGcifV19"
-    },
-    {
-      "name": "beIN Sports 1 (HLS)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
-      "cat": "Sports",
-      "stream": "http://5.135.26.128/stream/bein/bein1/out/index.m3u8",
-      "yt": null
-    },
-    {
-      "name": "beIN Sports 2 (HLS)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
-      "cat": "Sports",
-      "stream": "http://5.135.26.128/stream/bein/bein2/out/index.m3u8",
-      "yt": null
-    },
-    {
       "name": "beIN Max 1 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
@@ -1650,33 +1572,11 @@
       "yt": null
     },
     {
-      "name": "Star Sports 1 HD",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Star-Sports.webp",
-      "cat": "Sports",
-      "stream": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=le-beta&pass=maar-moj",
-      "yt": null
-    },
-    {
       "name": "Fox Cricket (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/fox-cricket-logo-png_seeklogo-612614.png",
       "cat": "Sports",
       "stream": "https://foxenglish.pages.dev/playlist.m3u8",
       "yt": null
-    },
-    {
-      "name": "Sky Cricket (HLS)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/sky-sports-cricket.png",
-      "cat": "Sports",
-      "stream": "http://178.33.239.54:8080/503a/index.m3u8",
-      "yt": null
-    },
-    {
-      "name": "Willow FHD (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WILLOW_2023_Primary-Stacked.png",
-      "cat": "Sports",
-      "stream": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJGM25DZTUwSGVqdWd5Y3didWFsTG53IiwiayI6InpGenp0NUtQdWVDaDdtcUxWbThLamcifV19"
     },
     {
       "name": "Willow Plus (HLS)",
@@ -1686,14 +1586,6 @@
       "yt": null
     },
     {
-      "name": "ESPN HD (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/41lChb5QKL.png",
-      "cat": "Sports",
-      "stream": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJ1ME1SSzN0eTZjS0gyZzdON0lZR3B3IiwiayI6IktlUFNaNEVIOEtzTE5iWlRmSE5QS2cifV19"
-    },
-    {
       "name": "ESPNU (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/41lChb5QKL.png",
       "cat": "Sports",
@@ -1701,54 +1593,16 @@
       "yt": null
     },
     {
-      "name": "Ten Cricket (HLS)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Ten_Sports_Logo.png",
-      "cat": "Sports",
-      "stream": "https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8",
-      "yt": null
-    },
-    {
-      "name": "Ten Sports (HLS)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Ten_Sports_Logo.png",
-      "cat": "Sports",
-      "stream": "http://66.102.120.18:8000/play/a018/index.m3u8",
-      "yt": null
-    },
-    {
-      "name": "SporTV 1 (DRM)",
+      "name": "SporTV 1 HD (DRM)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/sport.png",
-      "cat": "Sports",
-      "stream": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJTN3pfTW9uVVY3VGRYYjNTRWlIZW1nIiwiayI6InhKQnJtcC1OMmp3SEpiM2JqRWwzTXcifV19"
-    },
-    {
-      "name": "SporTV 2 (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/sport.png",
-      "cat": "Sports",
-      "stream": "https://ablhv3zaaaaaaaammndourvrl7ioa.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJQZUFvNnZzN0xLXy13RHZod2NnWXN3IiwiayI6Imo3M1lxYTVuU0dscnNUNVVlN0NUX0EifV19"
-    },
-    {
-      "name": "TSN Sports 1 (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/tsn.jpg",
-      "cat": "Sports",
-      "stream": "https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJmcG4zTkhTTkNZeV9vdmU5NldqZFJBIiwiayI6Im1PcGdpTU1pTHBxNjloNVRlQVRXekEifV19"
-    },
-    {
-      "name": "SPOTV 1 HD (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/SPOTV.jpg",
       "cat": "Sports",
       "stream": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
       "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiI3SDdpZllOMlRrdUVYRWpNb3h5Tzd3IiwiayI6Im5BNUJrU0FfekxEOTQwN2ltWmtTbmcifV19"
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiI3SDdpZllOMlRrdUVYRWpNb3hZTzd3IiwiayI6Im5BNUJrU0FfekxEOTQwN2ltWmtTbmcifV19"
     },
     {
-      "name": "SPOTV 2 HD (DRM)",
-      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/SPOTV.jpg",
+      "name": "SporTV 2 HD (DRM)",
+      "logo": "https://apkfolder.io/wp-content/uploads/2026/01/sport.png",
       "cat": "Sports",
       "stream": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
       "yt": null,
