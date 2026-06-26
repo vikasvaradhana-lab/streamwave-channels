@@ -1303,310 +1303,806 @@
       "logo": "",
       "cat": "Sports",
       "stream": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Real Madrid tv Football",
       "logo": "",
       "cat": "Sports",
       "stream": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Redbull TV",
       "logo": "",
       "cat": "Sports",
       "stream": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Sony Sports 1 HD 🇮🇳",
       "logo": "",
       "cat": "Sports",
       "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "PTV Sports pk HD",
       "logo": "",
       "cat": "Sports",
-      "stream": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
-      "yt": null
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/PTV%20Sports",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "DD Sports",
       "logo": "",
       "cat": "Sports",
       "stream": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Motor Vision",
       "logo": "",
       "cat": "Sports",
       "stream": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "MuxIP-SportsFirst TV",
       "logo": "",
       "cat": "Sports",
       "stream": "https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "A SPOR",
       "logo": "",
       "cat": "Sports",
       "stream": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Bein Sports 1",
       "logo": "",
       "cat": "Sports",
-      "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
-      "yt": null
+      "stream": "http://5.135.26.128/stream/bein/bein1/out/index.m3u8",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Bein Sports Direct 🇫🇷",
       "logo": "",
       "cat": "Sports",
       "stream": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "TYC Sports HD",
       "logo": "",
       "cat": "Sports",
       "stream": "http://cdn.tv-rds.workers.dev/TYCSPT.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "D Sports",
       "logo": "",
       "cat": "Sports",
       "stream": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Win Sports 🇧🇷",
       "logo": "",
       "cat": "Sports",
       "stream": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "TRT Spor ⚽",
       "logo": "",
       "cat": "Sports",
       "stream": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Bioscope Plus 🇧🇩",
       "logo": "",
       "cat": "Sports",
       "stream": "https://streamsportixa.ajmainearafat.workers.dev/live.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Somoy TV 🇧🇩",
       "logo": "",
       "cat": "Sports",
       "stream": "http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "অস্ট্রেলিয়া 🆚 তুরস্ক",
       "logo": "",
       "cat": "Sports",
       "stream": "https://live05.msdht.app/live/08552895.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "FWC 2026 Football HD 1080p",
       "logo": "",
       "cat": "Sports",
       "stream": "https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live/index.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Max1",
       "logo": "",
       "cat": "Sports",
       "stream": "http://go8knm.optikl.ink/X/index.php/Besyria2/video.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "India A vs Afghanistan A Shamshad TV",
       "logo": "",
       "cat": "Sports",
       "stream": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Star Sports 1 HD (1080p)",
       "logo": null,
       "cat": "Sports",
-      "stream": "http://103.253.18.58:8000/play/a00m",
-      "yt": null
+      "stream": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=le-beta&pass=maar-moj",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Star Sports 1 Hindi (576p)",
       "logo": null,
       "cat": "Sports",
       "stream": "http://103.253.18.58:8000/play/a03o",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Sony Sports 2 HD 🇮🇳",
       "logo": null,
       "cat": "Sports",
       "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Sony Sports 5 HD 🇮🇳",
       "logo": null,
       "cat": "Sports",
       "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Sony-Ten-Cricket HD",
       "logo": null,
       "cat": "Sports",
       "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "EuroSports HD 🇮🇳",
       "logo": null,
       "cat": "Sports",
       "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "beIN Max 1 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
       "stream": "https://tmaxapp.site/beinmax1.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "beIN Max 2 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
       "stream": "https://tmaxapp.site/beinmax2.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "beIN Max 3 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
       "stream": "https://tmaxapp.site/beinmax3.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "beIN Max 4 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
       "stream": "https://tmaxapp.site/beinmax4.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "beIN Arabic 1 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
       "stream": "https://tmaxapp.site/beinarabic1.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "beIN Arabic 2 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
       "stream": "https://tmaxapp.site/beinarabic2.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "beIN Arabic 3 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
       "stream": "https://tmaxapp.site/beinarabic3.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "beIN Arabic 4 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
       "stream": "https://tmaxapp.site/beinarabic4.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "beIN Arabic 5 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
       "stream": "https://tmaxapp.site/beinarabic5.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "beIN Arabic 6 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
       "stream": "https://tmaxapp.site/beinarabic6.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "beIN Arabic 7 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
       "stream": "https://tmaxapp.site/beinarabic7.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "beIN Arabic 8 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
       "stream": "https://tmaxapp.site/beinarabic8.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Fox Cricket (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/fox-cricket-logo-png_seeklogo-612614.png",
       "cat": "Sports",
       "stream": "https://foxenglish.pages.dev/playlist.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "Willow Plus (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WILLOW_2023_Primary-Stacked.png",
       "cat": "Sports",
       "stream": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "ESPNU (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/41lChb5QKL.png",
       "cat": "Sports",
       "stream": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
-      "yt": null
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "SporTV 1 HD (DRM)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/sport.png",
       "cat": "Sports",
-      "stream": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
+      "stream": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
       "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiI3SDdpZllOMlRrdUVYRWpNb3hZTzd3IiwiayI6Im5BNUJrU0FfekxEOTQwN2ltWmtTbmcifV19"
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJTN3pfTW9uVVY3VGRYYjNTRWlIZW1nIiwiayI6InhKQnJtcC1OMmp3SEpiM2JqRWwzTXcifV19",
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     },
     {
       "name": "SporTV 2 HD (DRM)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/sport.png",
       "cat": "Sports",
-      "stream": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+      "stream": "https://ablhv3zaaaaaaaammndourvrl7ioa.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
       "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJmdXB5MWdkU1JhbWU0eVZXQTlXSVV3IiwiayI6ImFFanZZRmRWZWI5TlFWMnhBeUZUN1EifV19"
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJQZUFvNnZzN0xLXy13RHZod2NnWXN3IiwiayI6Imo3M1lxYTVuU0dscnNUNVVlN0NUX0EifV19",
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Willow HD",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Willow%20HD",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Willow HD 2",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Willow%20HD%202",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Ten Sports",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "http://66.102.120.18:8000/play/a018/index.m3u8",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "A Sports HD",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/A%20Sports%20HD",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sports Cricket",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sports%20Cricket",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sports Main Event",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sports%20Main%20Event",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sports Football",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sports%20Football",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sports Premier League",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sports%20Premier%20League",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sports Action",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sports%20Action",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sports Golf",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sports%20Golf",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sports F1",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sports%20F1",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sports Mix",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sports%20Mix",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sports Tennis",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sports%20Tennis",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sports Arena",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sports%20Plus",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "TNT Sports 1",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiIwVVpZb08zcFRldkxRQk95Qld1bTBRIiwiayI6IllJT0tNWFlTZi0wT3J3T0tWWFhlRVEifV19"
+    },
+    {
+      "name": "TNT Sports 2",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJDMW5PQnQ1MDdZVHk3YVhvSGEyNkV3IiwiayI6IlNPUzZTdGJDcGcwcjJsMXhvQVVJUkEifV19"
+    },
+    {
+      "name": "TNT Sports 3",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJFa0UtTENoVno4V2M0UDVySU14eHlnIiwiayI6IkNOVmFqMV9KT3BOMS1iRExMaGM1eWcifV19"
+    },
+    {
+      "name": "TNT Sports 4",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJWd3daOGI0MEVPVGtDYjVOeDVJX0t3IiwiayI6Im1rM3FpdktpcHdQZi1vcEhmcDdjVUEifV19"
+    },
+    {
+      "name": "Sky Sport NZ 1",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sport%20Nz%201",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sport NZ 2",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sport%20Nz%202",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sport NZ 3",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sport%20Nz%203",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sport NZ 4",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sport%20Nz%204",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sport NZ 5",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sport%20Nz%205",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sport NZ 6",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sport%206%20Nz",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sport NZ 7",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sport%20Nz%207",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sport NZ 8",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sport%20Nz%208",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sky Sport NZ 9",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sky%20Sport%20Nz%209",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "ESPN 1",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/ESPN%201",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "ESPN 2",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/ESPN%202",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Astro Cricket",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Astro%20Cricket",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Sony Sports 3 HD",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Sony%20Sports3",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "LaLiGA TV",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/LaLiGA",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Premier Sports 1",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Premier%20Sports%201",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Premier Sports 2",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Premier%20Sports%202",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Super Football",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Super%20Football",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
+    },
+    {
+      "name": "Super Premier League",
+      "logo": null,
+      "cat": "Sports",
+      "stream": "https://cricfy-proxy.keralive.workers.dev/channel/Super%20Premier%20League",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null
     }
   ]
 }
