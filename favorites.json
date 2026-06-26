@@ -136,32 +136,44 @@
     "yt": null
   },
   {
-    "name": "Willow Plus (HLS)",
-    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WILLOW_2023_Primary-Stacked.png",
+    "name": "Willow HD",
+    "logo": null,
     "cat": "Sports",
-    "stream": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
-    "yt": null
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "Willow HD",
+    "m3u_referer": "https://executeandship.com/"
   },
   {
     "name": "Star Sports 1 HD (1080p)",
     "logo": null,
     "cat": "Sports",
-    "stream": "http://103.253.18.58:8000/play/a00m",
-    "yt": null
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "Star Sports 1",
+    "m3u_referer": "https://executeandship.com/"
   },
   {
     "name": "Star Sports 1 Hindi (576p)",
     "logo": null,
     "cat": "Sports",
-    "stream": "http://103.253.18.58:8000/play/a03o",
-    "yt": null
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "Star Sports 1 Hindi",
+    "m3u_referer": "https://executeandship.com/"
   },
   {
     "name": "Fox Cricket (HLS)",
     "logo": "https://apkfolder.io/wp-content/uploads/2026/01/fox-cricket-logo-png_seeklogo-612614.png",
     "cat": "Sports",
-    "stream": "https://foxenglish.pages.dev/playlist.m3u8",
-    "yt": null
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "Fox Cricket 501 HD",
+    "m3u_referer": "https://executeandship.com/"
   },
   {
     "name": "Republic World",
@@ -514,8 +526,11 @@
   {
     "name": "PTV Sports pk HD",
     "country": "PK",
-    "stream": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
-    "yt": null
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "PTV Sports",
+    "m3u_referer": "https://executeandship.com/"
   },
   {
     "name": "DD Sports",
@@ -546,5 +561,122 @@
     "country": "IN",
     "stream": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
     "yt": null
+  },
+  {
+    "name": "Willow Plus (HLS)",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WILLOW_2023_Primary-Stacked.png",
+    "cat": "Sports",
+    "stream": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Ten Sports",
+    "logo": null,
+    "cat": "Sports",
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "Ten Sports",
+    "m3u_referer": "https://executeandship.com/"
+  },
+  {
+    "name": "Sky Sports Cricket",
+    "logo": null,
+    "cat": "Sports",
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "Sky Sports Cricket",
+    "m3u_referer": "https://executeandship.com/"
+  },
+  {
+    "name": "Sky Sports Main Event",
+    "logo": null,
+    "cat": "Sports",
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "Sky Sports Main Event",
+    "m3u_referer": "https://executeandship.com/"
+  },
+  {
+    "name": "Sky Sports Football",
+    "logo": null,
+    "cat": "Sports",
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "Sky Sports Football",
+    "m3u_referer": "https://executeandship.com/"
+  },
+  {
+    "name": "Sky Sports Premier League",
+    "logo": null,
+    "cat": "Sports",
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "Sky Sports Premier League",
+    "m3u_referer": "https://executeandship.com/"
+  },
+  {
+    "name": "TNT Sports 1",
+    "logo": null,
+    "cat": "Sports",
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "TNT 1",
+    "m3u_referer": "https://executeandship.com/"
+  },
+  {
+    "name": "TNT Sports 2",
+    "logo": null,
+    "cat": "Sports",
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "TNT 2",
+    "m3u_referer": "https://executeandship.com/"
+  },
+  {
+    "name": "ESPN 1",
+    "logo": null,
+    "cat": "Sports",
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "ESPN 1",
+    "m3u_referer": "https://executeandship.com/"
+  },
+  {
+    "name": "ESPN 2",
+    "logo": null,
+    "cat": "Sports",
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "ESPN 2",
+    "m3u_referer": "https://executeandship.com/"
+  },
+  {
+    "name": "A Sports HD",
+    "logo": null,
+    "cat": "Sports",
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "A Sports HD",
+    "m3u_referer": "https://executeandship.com/"
+  },
+  {
+    "name": "Astro Cricket",
+    "logo": null,
+    "cat": "Sports",
+    "stream": null,
+    "yt": null,
+    "m3u_source": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+    "m3u_match": "Astro Cricket",
+    "m3u_referer": "https://executeandship.com/"
   }
 ]
