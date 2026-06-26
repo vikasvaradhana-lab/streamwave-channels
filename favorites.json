@@ -166,10 +166,10 @@
     "m3u_referer": null
   },
   {
-    "name": "Fox Cricket (HLS)",
-    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/fox-cricket-logo-png_seeklogo-612614.png",
+    "name": "Sky Sports Cricket",
+    "logo": null,
     "cat": "Sports",
-    "stream": "https://cricfy-proxy.vikasvaradhana.workers.dev/channel/Fox%20Cricket%20501%20HD.m3u8",
+    "stream": "https://cricfy-proxy.vikasvaradhana.workers.dev/channel/Sky%20Sports%20Cricket.m3u8",
     "yt": null,
     "m3u_source": null,
     "m3u_match": null,
@@ -604,10 +604,10 @@
     "m3u_referer": null
   },
   {
-    "name": "Sky Sports Cricket",
-    "logo": null,
+    "name": "Fox Cricket (HLS)",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/fox-cricket-logo-png_seeklogo-612614.png",
     "cat": "Sports",
-    "stream": "https://cricfy-proxy.vikasvaradhana.workers.dev/channel/Sky%20Sports%20Cricket.m3u8",
+    "stream": "https://cricfy-proxy.vikasvaradhana.workers.dev/channel/Fox%20Cricket%20501%20HD.m3u8",
     "yt": null,
     "m3u_source": null,
     "m3u_match": null,
