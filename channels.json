@@ -737,6 +737,13 @@
       "cat": "Culture",
       "stream": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8",
       "yt": null
+    },
+    {
+      "name": "Safari TV (480p) [Not 24/7]",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png",
+      "cat": "Culture",
+      "stream": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+      "yt": null
     }
   ],
   "General": [
