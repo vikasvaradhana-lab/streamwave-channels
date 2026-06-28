@@ -137,9 +137,9 @@
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJKYUhTcE1QNFNMR3UyUkd0YVJfaU1nIiwiayI6IlBJc3MtR0VjTkQ1cUl4dHFuSHlMV0EifV19"
   },
   {
-    "name": "Zee Comedy Nation (1080p)",
+    "name": "KITE Victers (Kerala)",
     "country": "IN",
-    "stream": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
+    "stream": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
     "yt": null
   },
   {
@@ -585,9 +585,9 @@
     "yt": null
   },
   {
-    "name": "KITE Victers (Kerala)",
+    "name": "Zee Comedy Nation (1080p)",
     "country": "IN",
-    "stream": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
+    "stream": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
     "yt": null
   },
   {
