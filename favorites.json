@@ -34,23 +34,6 @@
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhMmU4enZjQ1R5MmltMExoRGNFX2lRIiwiayI6IkxvUmd4SDBfQVdrLUdUMjZXV09sNFEifV19"
   },
   {
-    "name": "Surya Comedy",
-    "logo": "https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg",
-    "cat": "Entertainment",
-    "stream": "https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJFVlk3QUtSclFfS2ctQTdQUXFUN2R3IiwiayI6Im02MG9yVzhqMjdrWHhqN21nUFpxSHcifV19"
-  },
-  {
-    "name": "Asianet SD (JioTV)",
-    "country": "IN",
-    "cat": "Entertainment",
-    "logo": "https://i.imgur.com/Wv7MOzg.png",
-    "stream": "https://alex4528.site/jplus/LI1iLILolOlliiL1lOi1io/manifest.mpd",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdocGFhbHBhV2xwYVdscGFRIiwiayI6Ing3ak9Ham9rNHZtMDBTU2RCQlZjU1EifV19"
-  },
-  {
     "name": "Asianet Movies SD (JioTV)",
     "country": "IN",
     "cat": "Movies",
@@ -67,6 +50,23 @@
     "stream": "https://alex4528.site/jplus/lOllOOOilOi1iiL1lO0I0i/manifest.mpd",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFlbHBhV2xwYVdscGFRIiwiayI6IlRMdVZTUzU3TkNwM0tJUHlJU1F4SncifV19"
+  },
+  {
+    "name": "Surya Comedy",
+    "logo": "https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg",
+    "cat": "Entertainment",
+    "stream": "https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJFVlk3QUtSclFfS2ctQTdQUXFUN2R3IiwiayI6Im02MG9yVzhqMjdrWHhqN21nUFpxSHcifV19"
+  },
+  {
+    "name": "Asianet SD (JioTV)",
+    "country": "IN",
+    "cat": "Entertainment",
+    "logo": "https://i.imgur.com/Wv7MOzg.png",
+    "stream": "https://alex4528.site/jplus/LI1iLILolOlliiL1lOi1io/manifest.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdocGFhbHBhV2xwYVdscGFRIiwiayI6Ing3ak9Ham9rNHZtMDBTU2RCQlZjU1EifV19"
   },
   {
     "name": "Surya HD (Sun NXT)",
@@ -198,14 +198,66 @@
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwNldscGFRIiwiayI6IjVpQ3BjTTZrZE1TUnJIaXVjYVRYWkEifV19"
   },
   {
-    "name": "Sky Sports Cricket",
-    "logo": null,
+    "name": "Sony Ten 1 HD (JioTV)",
+    "country": "IN",
     "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/Sky%20Sports%20Cricket.m3u8",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
+    "stream": "https://alex4528.site/jplus/LIOLlOI1oiOLiiiLlOio/manifest.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xvYVc1cGFRIiwiayI6IlVyUE9wRFh0SmRSRi1lcmtpRHh3QVEifV19"
+  },
+  {
+    "name": "Sony Ten 5 HD (JioTV)",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
+    "cat": "Sports",
+    "stream": "https://alex4528.site/jplus/O1i1ioI0oOOLiio1LIO0/manifest.mpd",
     "yt": null,
     "m3u_source": null,
     "m3u_match": null,
-    "m3u_referer": null
+    "m3u_referer": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscGFXcHBhV2xwYVdscGFHbHBhUSIsICJrIjogIk93QUdHRU5mY0MyMzJaRU5nbVZZU2cifV19"
+  },
+  {
+    "name": "Star Movies HD (JioTV)",
+    "country": "IN",
+    "cat": "Movies",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
+    "stream": "https://alex4528.site/jplus/oiIOlO0ILIOLiiL1lOllO0/manifest.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFHbHBhV2xwYVdscGFRIiwiayI6IjgyNWMxSUpTdk5EODJpdi1JZld6WlEifV19"
+  },
+  {
+    "name": "Star Movies Select HD (JioTV)",
+    "country": "IN",
+    "cat": "Movies",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
+    "stream": "https://alex4528.site/jplus/oOOLLOOLlOOLiiL1lOi1il/manifest.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYTJscGFRIiwiayI6ImF4YU50SkpCcDR3YlFqcTVvcFFKN3cifV19"
+  },
+  {
+    "name": "Nat Geo Wild HD (JioTV)",
+    "country": "IN",
+    "cat": "Documentary",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
+    "stream": "https://alex4528.site/jplus/O1lloi0IlOllii0IlO0Ioo/manifest.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2hwYVc1cGFXbHBhV2xwYVdscGFRIiwiayI6IndtZDhoMGlHNTQwa3NfdGxiRmMwNEEifV19"
+  },
+  {
+    "name": "Animal Planet HD English (JioTV)",
+    "country": "IN",
+    "cat": "Documentary",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
+    "stream": "https://alex4528.site/jplus/lOi1LO0ilOi1oo01LIio/manifest.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHA2V21KYVdscGFRIiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
+  },
+  {
+    "name": "BBC Earth (1080p)",
+    "country": "UK",
+    "stream": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+    "yt": null
   },
   {
     "name": "Republic World",
@@ -232,6 +284,12 @@
     "yt": null
   },
   {
+    "name": "Wion News",
+    "country": "IN",
+    "stream": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "yt": null
+  },
+  {
     "name": "NDTV English",
     "country": "IN",
     "stream": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
@@ -241,12 +299,6 @@
     "name": "Times Of India",
     "country": "IN",
     "stream": "https://live.sli.ke/live/npnhm84gz9/master.m3u8",
-    "yt": null
-  },
-  {
-    "name": "Wion News",
-    "country": "IN",
-    "stream": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
     "yt": null
   },
   {
@@ -343,12 +395,6 @@
     "yt": null
   },
   {
-    "name": "BBC Earth (1080p)",
-    "country": "UK",
-    "stream": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
-    "yt": null
-  },
-  {
     "name": "Adventure Earth (1080p)",
     "country": "DE",
     "stream": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
@@ -423,12 +469,6 @@
     "yt": null
   },
   {
-    "name": "Tom & Jerry TV",
-    "country": "US",
-    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8",
-    "yt": null
-  },
-  {
     "name": "Doraemon TV",
     "country": "JP",
     "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
@@ -444,13 +484,6 @@
     "name": "Mr. Bean Anime (1080p)",
     "country": "UK",
     "stream": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
-    "yt": null
-  },
-  {
-    "name": "Jungle Book",
-    "country": "US",
-    "logo": "https://i.imgur.com/ubZMeQv.jpg",
-    "stream": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
     "yt": null
   },
   {
@@ -475,6 +508,19 @@
     "name": "ducktv (720p)",
     "country": "US",
     "stream": "https://jmp2.uk/stvp-ESBC4700001GR",
+    "yt": null
+  },
+  {
+    "name": "Tom & Jerry TV",
+    "country": "US",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Jungle Book",
+    "country": "US",
+    "logo": "https://i.imgur.com/ubZMeQv.jpg",
+    "stream": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
     "yt": null
   },
   {
@@ -532,66 +578,6 @@
     "m3u_referer": null
   },
   {
-    "name": "Sony Sports 1 HD 🇮🇳",
-    "country": "IN",
-    "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "Sony Sports 2 HD 🇮🇳",
-    "country": "IN",
-    "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "Sony Sports 5 HD 🇮🇳",
-    "country": "IN",
-    "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "Sony-Ten-Cricket HD",
-    "country": "IN",
-    "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "EuroSports HD 🇮🇳",
-    "country": "IN",
-    "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "PTV Sports pk HD",
-    "country": "PK",
-    "stream": "http://140.245.252.161:3000/channel/PTV%20Sports.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "DD Sports",
-    "country": "IN",
-    "stream": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8",
-    "yt": null
-  },
-  {
     "name": "Tastemade (1080p)",
     "country": "US",
     "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
@@ -614,188 +600,5 @@
     "country": "IN",
     "stream": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
     "yt": null
-  },
-  {
-    "name": "Willow HD",
-    "logo": null,
-    "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/Willow%20HD.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "Ten Sports",
-    "logo": null,
-    "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/Ten%20Sports.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "Fox Cricket (HLS)",
-    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/fox-cricket-logo-png_seeklogo-612614.png",
-    "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/Fox%20Cricket%20501%20HD.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "Sky Sports Main Event",
-    "logo": null,
-    "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/Sky%20Sports%20Main%20Event.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "Sky Sports Football",
-    "logo": null,
-    "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/Sky%20Sports%20Football.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "Sky Sports Premier League",
-    "logo": null,
-    "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/Sky%20Sports%20Premier%20League.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "TNT Sports 1",
-    "logo": null,
-    "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/TNT%201.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "TNT Sports 2",
-    "logo": null,
-    "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/TNT%202.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "ESPN 1",
-    "logo": null,
-    "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/ESPN%201.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "ESPN 2",
-    "logo": null,
-    "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/ESPN%202.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "A Sports HD",
-    "logo": null,
-    "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/A%20Sports%20HD.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "Astro Cricket",
-    "logo": null,
-    "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/Astro%20Cricket.m3u8",
-    "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
-  },
-  {
-    "name": "Star Movies HD (JioTV)",
-    "country": "IN",
-    "cat": "Movies",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
-    "stream": "https://alex4528.site/jplus/oiIOlO0ILIOLiiL1lOllO0/manifest.mpd",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFHbHBhV2xwYVdscGFRIiwiayI6IjgyNWMxSUpTdk5EODJpdi1JZld6WlEifV19"
-  },
-  {
-    "name": "Star Movies Select HD (JioTV)",
-    "country": "IN",
-    "cat": "Movies",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
-    "stream": "https://alex4528.site/jplus/oOOLLOOLlOOLiiL1lOi1il/manifest.mpd",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYTJscGFRIiwiayI6ImF4YU50SkpCcDR3YlFqcTVvcFFKN3cifV19"
-  },
-  {
-    "name": "Pogo Malayalam (JioTV)",
-    "country": "IN",
-    "cat": "Kids",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Mal.png",
-    "stream": "https://alex4528.site/jplus/LIiLOOOilO0IlOIolO0IlO/manifest.mpd",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHB1V2xvYVdscGFRIiwiayI6InpvMlNYMmMzQTRNMi1DRHVUZE5xUXcifV19"
-  },
-  {
-    "name": "Cartoon Network Malayalam (JioTV)",
-    "country": "IN",
-    "cat": "Kids",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNMalayalam.png",
-    "stream": "https://alex4528.site/jplus/LILLoo0Ioii1lOIolO0Ioi/manifest.mpd",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHB1V2xwaVdscGFRIiwiayI6IlEtVENRLUNIRm5HdlZkNE5uRmNZdHcifV19"
-  },
-  {
-    "name": "Nat Geo Wild HD (JioTV)",
-    "country": "IN",
-    "cat": "Documentary",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
-    "stream": "https://alex4528.site/jplus/O1lloi0IlOllii0IlO0Ioo/manifest.mpd",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2hwYVc1cGFXbHBhV2xwYVdscGFRIiwiayI6IndtZDhoMGlHNTQwa3NfdGxiRmMwNEEifV19"
-  },
-  {
-    "name": "Animal Planet HD English (JioTV)",
-    "country": "IN",
-    "cat": "Documentary",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
-    "stream": "https://alex4528.site/jplus/lOi1LO0ilOi1oo01LIio/manifest.mpd",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHA2V21KYVdscGFRIiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
-  },
-  {
-    "name": "Sony Ten 1 HD (JioTV)",
-    "country": "IN",
-    "cat": "Sports",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "stream": "https://alex4528.site/jplus/LIOLlOI1oiOLiiiLlOio/manifest.mpd",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xvYVc1cGFRIiwiayI6IlVyUE9wRFh0SmRSRi1lcmtpRHh3QVEifV19"
   }
 ]

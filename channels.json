@@ -1342,22 +1342,6 @@
       "cat": "Kids",
       "stream": "https://jmp2.uk/stvp-ESBC4700001GR",
       "yt": null
-    },
-    {
-      "name": "Pogo Malayalam (JioTV)",
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Mal.png",
-      "cat": "Kids",
-      "stream": "https://alex4528.site/jplus/LIiLOOOilO0IlOIolO0IlO/manifest.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHB1V2xvYVdscGFRIiwiayI6InpvMlNYMmMzQTRNMi1DRHVUZE5xUXcifV19"
-    },
-    {
-      "name": "Cartoon Network Malayalam (JioTV)",
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNMalayalam.png",
-      "cat": "Kids",
-      "stream": "https://alex4528.site/jplus/LILLoo0Ioii1lOIolO0Ioi/manifest.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHB1V2xwaVdscGFRIiwiayI6IlEtVENRLUNIRm5HdlZkNE5uRmNZdHcifV19"
     }
   ],
   "Undefined": [
@@ -2188,6 +2172,17 @@
       "stream": "https://alex4528.site/jplus/LIOLlOI1oiOLiiiLlOio/manifest.mpd",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xvYVc1cGFRIiwiayI6IlVyUE9wRFh0SmRSRi1lcmtpRHh3QVEifV19"
+    },
+    {
+      "name": "Sony Ten 5 HD (JioTV)",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
+      "cat": "Sports",
+      "stream": "https://alex4528.site/jplus/O1i1ioI0oOOLiio1LIO0/manifest.mpd",
+      "yt": null,
+      "m3u_source": null,
+      "m3u_match": null,
+      "m3u_referer": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscGFXcHBhV2xwYVdscGFHbHBhUSIsICJrIjogIk93QUdHRU5mY0MyMzJaRU5nbVZZU2cifV19"
     }
   ]
 }
