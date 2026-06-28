@@ -745,6 +745,22 @@
       "stream": "https://livestream.sunnxt.com/1c02547243c041eea5dab1c343018e90/UdayaMoviesB_IN_index.mpd",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJ0TnZfdFJlQ1J6S3BWY29DM1dxczJRIiwiayI6Imc4S3FLVVpETHgzdGZBU2Vfbm4tN3cifV19"
+    },
+    {
+      "name": "Star Movies HD (JioTV)",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
+      "cat": "Movies",
+      "stream": "https://alex4528.site/jplus/oiIOlO0ILIOLiiL1lOllO0/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFHbHBhV2xwYVdscGFRIiwiayI6IjgyNWMxSUpTdk5EODJpdi1JZld6WlEifV19"
+    },
+    {
+      "name": "Star Movies Select HD (JioTV)",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
+      "cat": "Movies",
+      "stream": "https://alex4528.site/jplus/oOOLLOOLlOOLiiL1lOi1il/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYTJscGFRIiwiayI6ImF4YU50SkpCcDR3YlFqcTVvcFFKN3cifV19"
     }
   ],
   "Culture": [
@@ -1153,6 +1169,22 @@
       "cat": "Documentary",
       "stream": "https://lana.psm.mv/live/mtv.m3u8",
       "yt": null
+    },
+    {
+      "name": "Nat Geo Wild HD (JioTV)",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
+      "cat": "Documentary",
+      "stream": "https://alex4528.site/jplus/O1lloi0IlOllii0IlO0Ioo/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2hwYVc1cGFXbHBhV2xwYVdscGFRIiwiayI6IndtZDhoMGlHNTQwa3NfdGxiRmMwNEEifV19"
+    },
+    {
+      "name": "Animal Planet HD English (JioTV)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
+      "cat": "Documentary",
+      "stream": "https://alex4528.site/jplus/lOi1LO0ilOi1oo01LIio/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHA2V21KYVdscGFRIiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
     }
   ],
   "Kids": [
@@ -1310,6 +1342,22 @@
       "cat": "Kids",
       "stream": "https://jmp2.uk/stvp-ESBC4700001GR",
       "yt": null
+    },
+    {
+      "name": "Pogo Malayalam (JioTV)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Mal.png",
+      "cat": "Kids",
+      "stream": "https://alex4528.site/jplus/LIiLOOOilO0IlOIolO0IlO/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHB1V2xvYVdscGFRIiwiayI6InpvMlNYMmMzQTRNMi1DRHVUZE5xUXcifV19"
+    },
+    {
+      "name": "Cartoon Network Malayalam (JioTV)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNMalayalam.png",
+      "cat": "Kids",
+      "stream": "https://alex4528.site/jplus/LILLoo0Ioii1lOIolO0Ioi/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHB1V2xwaVdscGFRIiwiayI6IlEtVENRLUNIRm5HdlZkNE5uRmNZdHcifV19"
     }
   ],
   "Undefined": [
@@ -1543,12 +1591,12 @@
       "name": "Star Sports 1 HD (1080p)",
       "logo": null,
       "cat": "Sports",
-      "stream": "https://alex4528.site/jplus/lOLLoO1ilOOLiiL1lOllio/manifest.mpd",
+      "stream": "https://alex4528.site/jplus/oiIOO0iLlOlliiL1lOlloi/manifest.mpd",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
       "m3u_referer": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYVdscGFRIiwiayI6IkxWYkxid2VuVzVyX0ZsMVRTdUtfeEEifV19"
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV3RwYVdscGFXbHJhV2xwYVdscGFRIiwiayI6ImhaYVZCMjVuX3BZWU5yVmsyMjFvbkEifV19"
     },
     {
       "name": "Star Sports 2 HD (1080p)",
@@ -2132,6 +2180,14 @@
       "m3u_source": null,
       "m3u_match": null,
       "m3u_referer": null
+    },
+    {
+      "name": "Sony Ten 1 HD (JioTV)",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
+      "cat": "Sports",
+      "stream": "https://alex4528.site/jplus/LIOLlOI1oiOLiiiLlOio/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xvYVc1cGFRIiwiayI6IlVyUE9wRFh0SmRSRi1lcmtpRHh3QVEifV19"
     }
   ]
 }
