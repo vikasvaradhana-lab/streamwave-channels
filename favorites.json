@@ -42,6 +42,33 @@
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJFVlk3QUtSclFfS2ctQTdQUXFUN2R3IiwiayI6Im02MG9yVzhqMjdrWHhqN21nUFpxSHcifV19"
   },
   {
+    "name": "Asianet SD (JioTV)",
+    "country": "IN",
+    "cat": "Entertainment",
+    "logo": "https://i.imgur.com/Wv7MOzg.png",
+    "stream": "https://alex4528.site/jplus/LI1iLILolOlliiL1lOi1io/manifest.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdocGFhbHBhV2xwYVdscGFRIiwiayI6Ing3ak9Ham9rNHZtMDBTU2RCQlZjU1EifV19"
+  },
+  {
+    "name": "Asianet Movies SD (JioTV)",
+    "country": "IN",
+    "cat": "Movies",
+    "logo": "https://i.imgur.com/cps67hs.png",
+    "stream": "https://alex4528.site/jplus/LIlll0OLlOlliiL1LIi1lO/manifest.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhYmxwYVdscGFXbHBhV2xwYVdscGFRIiwiayI6IjFaSlNEdW8yRlFlbVBKU185NW5mdGcifV19"
+  },
+  {
+    "name": "Asianet Plus SD (JioTV)",
+    "country": "IN",
+    "cat": "Entertainment",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
+    "stream": "https://alex4528.site/jplus/lOllOOOilOi1iiL1lO0I0i/manifest.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFlbHBhV2xwYVdscGFRIiwiayI6IlRMdVZTUzU3TkNwM0tJUHlJU1F4SncifV19"
+  },
+  {
     "name": "Surya HD (Sun NXT)",
     "country": "IN",
     "stream": "https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd",
@@ -154,23 +181,21 @@
   },
   {
     "name": "Star Sports 1 HD (1080p)",
-    "logo": null,
+    "country": "IN",
     "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/Star%20Sports%201.m3u8",
+    "logo": null,
+    "stream": "https://alex4528.site/jplus/lOLLoO1ilOOLiiL1lOllio/manifest.mpd",
     "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYVdscGFRIiwiayI6IkxWYkxid2VuVzVyX0ZsMVRTdUtfeEEifV19"
   },
   {
-    "name": "Star Sports 1 Hindi (576p)",
-    "logo": null,
+    "name": "Star Sports 2 HD (1080p)",
+    "country": "IN",
     "cat": "Sports",
-    "stream": "http://140.245.252.161:3000/channel/Star%20Sports%201%20Hindi.m3u8",
+    "logo": null,
+    "stream": "https://alex4528.site/jplus/O1i1OI0ioiOLiiL1lOll0i/manifest.mpd",
     "yt": null,
-    "m3u_source": null,
-    "m3u_match": null,
-    "m3u_referer": null
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwNldscGFRIiwiayI6IjVpQ3BjTTZrZE1TUnJIaXVjYVRYWkEifV19"
   },
   {
     "name": "Sky Sports Cricket",
