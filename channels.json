@@ -343,7 +343,7 @@
       "name": "Asianet SD (JioTV)",
       "logo": "https://i.imgur.com/Wv7MOzg.png",
       "cat": "Entertainment",
-      "stream": "https://alex4528.site/jplus/LI1iLILolOlliiL1lOi1io/manifest.mpd",
+      "stream": "http://140.245.252.161:3000/jiotv/LI1iLILolOlliiL1lOi1io/manifest.mpd",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdocGFhbHBhV2xwYVdscGFRIiwiayI6Ing3ak9Ham9rNHZtMDBTU2RCQlZjU1EifV19"
     },
@@ -351,7 +351,7 @@
       "name": "Asianet Plus SD (JioTV)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
       "cat": "Entertainment",
-      "stream": "https://alex4528.site/jplus/lOllOOOilOi1iiL1lO0I0i/manifest.mpd",
+      "stream": "http://140.245.252.161:3000/jiotv/lOllOOOilOi1iiL1lO0I0i/manifest.mpd",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFlbHBhV2xwYVdscGFRIiwiayI6IlRMdVZTUzU3TkNwM0tJUHlJU1F4SncifV19"
     },
@@ -605,7 +605,7 @@
       "name": "Asianet Movies SD (JioTV)",
       "logo": "https://i.imgur.com/cps67hs.png",
       "cat": "Movies",
-      "stream": "https://alex4528.site/jplus/LIlll0OLlOlliiL1LIi1lO/manifest.mpd",
+      "stream": "http://140.245.252.161:3000/jiotv/LIlll0OLlOlliiL1LIi1lO/manifest.mpd",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhYmxwYVdscGFXbHBhV2xwYVdscGFRIiwiayI6IjFaSlNEdW8yRlFlbVBKU185NW5mdGcifV19"
     },
@@ -750,7 +750,7 @@
       "name": "Star Movies HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
       "cat": "Movies",
-      "stream": "https://alex4528.site/jplus/oiIOlO0ILIOLiiL1lOllO0/manifest.mpd",
+      "stream": "http://140.245.252.161:3000/jiotv/oiIOlO0ILIOLiiL1lOllO0/manifest.mpd",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFHbHBhV2xwYVdscGFRIiwiayI6IjgyNWMxSUpTdk5EODJpdi1JZld6WlEifV19"
     },
@@ -758,7 +758,7 @@
       "name": "Star Movies Select HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
       "cat": "Movies",
-      "stream": "https://alex4528.site/jplus/oOOLLOOLlOOLiiL1lOi1il/manifest.mpd",
+      "stream": "http://140.245.252.161:3000/jiotv/oOOLLOOLlOOLiiL1lOi1il/manifest.mpd",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYTJscGFRIiwiayI6ImF4YU50SkpCcDR3YlFqcTVvcFFKN3cifV19"
     }
@@ -1174,7 +1174,7 @@
       "name": "Nat Geo Wild HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
       "cat": "Documentary",
-      "stream": "https://alex4528.site/jplus/O1lloi0IlOllii0IlO0Ioo/manifest.mpd",
+      "stream": "http://140.245.252.161:3000/jiotv/O1lloi0IlOllii0IlO0Ioo/manifest.mpd",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2hwYVc1cGFXbHBhV2xwYVdscGFRIiwiayI6IndtZDhoMGlHNTQwa3NfdGxiRmMwNEEifV19"
     },
@@ -1182,7 +1182,7 @@
       "name": "Animal Planet HD English (JioTV)",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
       "cat": "Documentary",
-      "stream": "https://alex4528.site/jplus/lOi1LO0ilOi1oo01LIio/manifest.mpd",
+      "stream": "http://140.245.252.161:3000/jiotv/lOi1LO0ilOi1oo01LIio/manifest.mpd",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHA2V21KYVdscGFRIiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
     }
@@ -1575,7 +1575,7 @@
       "name": "Star Sports 1 HD (1080p)",
       "logo": null,
       "cat": "Sports",
-      "stream": "https://alex4528.site/jplus/oiIOO0iLlOlliiL1lOlloi/manifest.mpd",
+      "stream": "http://140.245.252.161:3000/jiotv/oiIOO0iLlOlliiL1lOlloi/manifest.mpd",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -1586,7 +1586,7 @@
       "name": "Star Sports 2 HD (1080p)",
       "logo": null,
       "cat": "Sports",
-      "stream": "https://alex4528.site/jplus/O1i1OI0ioiOLiiL1lOll0i/manifest.mpd",
+      "stream": "http://140.245.252.161:3000/jiotv/O1i1OI0ioiOLiiL1lOll0i/manifest.mpd",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -2169,7 +2169,7 @@
       "name": "Sony Ten 1 HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
       "cat": "Sports",
-      "stream": "https://alex4528.site/jplus/LIOLlOI1oiOLiiiLlOio/manifest.mpd",
+      "stream": "http://140.245.252.161:3000/jiotv/LIOLlOI1oiOLiiiLlOio/manifest.mpd",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xvYVc1cGFRIiwiayI6IlVyUE9wRFh0SmRSRi1lcmtpRHh3QVEifV19"
     },
@@ -2177,7 +2177,7 @@
       "name": "Sony Ten 5 HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
       "cat": "Sports",
-      "stream": "https://alex4528.site/jplus/O1i1ioI0oOOLiio1LIO0/manifest.mpd",
+      "stream": "http://140.245.252.161:3000/jiotv/O1i1ioI0oOOLiio1LIO0/manifest.mpd",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
