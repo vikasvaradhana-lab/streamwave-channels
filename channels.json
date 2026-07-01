@@ -489,12 +489,11 @@
       "yt": null
     },
     {
-      "name": "Surya HD (Sun NXT)",
-      "logo": "https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg",
+      "name": "Surya HD",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png",
       "cat": "Entertainment",
-      "stream": "https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiI2dWc0ek5kZFNoLV85djE5MGNsM2dBIiwiayI6Imdsbk9EQkVuSmFUU3lVMFZRZ2RDWHcifV19"
+      "stream": "http://103.180.212.191:3500/live/900.m3u8",
+      "yt": null
     },
     {
       "name": "NDTV India",
@@ -715,12 +714,11 @@
       "yt": null
     },
     {
-      "name": "Surya Movies (Sun NXT)",
-      "logo": "https://sund-images.sunnxt.com/194385/640x360_SuryaMovies_194385_2d5dbc38-915d-4e41-b8b0-ea98ca6c88d3.jpg",
+      "name": "Surya Movies",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Movies.png",
       "cat": "Movies",
-      "stream": "https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhMmU4enZjQ1R5MmltMExoRGNFX2lRIiwiayI6IkxvUmd4SDBfQVdrLUdUMjZXV09sNFEifV19"
+      "stream": "http://103.180.212.191:3500/live/1754.m3u8",
+      "yt": null
     },
     {
       "name": "KTV",
@@ -970,11 +968,10 @@
     },
     {
       "name": "Surya Music",
-      "logo": "https://sund-images.sunnxt.com/194338/640x360_SuryaMusic_194338_7fe35164-9a93-45ad-92a1-31126e592a84.jpg",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png",
       "cat": "Music",
-      "stream": "https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJKYUhTcE1QNFNMR3UyUkd0YVJfaU1nIiwiayI6IlBJc3MtR0VjTkQ1cUl4dHFuSHlMV0EifV19"
+      "stream": "http://103.180.212.191:3500/live/747.m3u8",
+      "yt": null
     },
     {
       "name": "Udaya Music",
@@ -1287,12 +1284,11 @@
       "yt": null
     },
     {
-      "name": "Kochu TV (Sun NXT)",
-      "logo": "https://sund-images.sunnxt.com/194348/960x540_KochuTV_194348_9777cbfd-685b-4e06-a7cc-f2902c1874e8.jpg",
+      "name": "Kochu TV",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",
       "cat": "Kids",
-      "stream": "https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJjMVQ3TXpzTVFWbThiRU04VGJFOUR3IiwiayI6Ii1faTBvUl9yOTlMdTBpZ3dCcGVSZGcifV19"
+      "stream": "http://103.180.212.191:3500/live/556.m3u8",
+      "yt": null
     },
     {
       "name": "Disney XD (720p)",
@@ -1575,23 +1571,21 @@
       "name": "Star Sports 1 HD (1080p)",
       "logo": null,
       "cat": "Sports",
-      "stream": "https://alex4528.site/jplus/oiIOO0iLlOlliiL1lOlloi/manifest.mpd",
+      "stream": "https://xfireflix.my.id/nefl.php?id=955660.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
-      "m3u_referer": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV3RwYVdscGFXbHJhV2xwYVdscGFRIiwiayI6ImhaYVZCMjVuX3BZWU5yVmsyMjFvbkEifV19"
+      "m3u_referer": null
     },
     {
       "name": "Star Sports 2 HD (1080p)",
       "logo": null,
       "cat": "Sports",
-      "stream": "https://alex4528.site/jplus/O1i1OI0ioiOLiiL1lOll0i/manifest.mpd",
+      "stream": "https://xfireflix.my.id/nefl.php?id=955661.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
-      "m3u_referer": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwNldscGFRIiwiayI6IjVpQ3BjTTZrZE1TUnJIaXVjYVRYWkEifV19"
+      "m3u_referer": null
     },
     {
       "name": "Sony Sports 2 HD 🇮🇳",
@@ -2183,6 +2177,66 @@
       "m3u_match": null,
       "m3u_referer": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscGFXcHBhV2xwYVdscGFHbHBhUSIsICJrIjogIk93QUdHRU5mY0MyMzJaRU5nbVZZU2cifV19"
+    }
+  ],
+  "Malayalam": [
+    {
+      "name": "Pogo Malayalam",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",
+      "cat": "Malayalam",
+      "stream": "http://103.180.212.191:3500/live/3033.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Cartoon Network Malayalam",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",
+      "cat": "Malayalam",
+      "stream": "http://103.180.212.191:3500/live/3036.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Discovery Kids Malayalam",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",
+      "cat": "Malayalam",
+      "stream": "http://103.180.212.191:3500/live/3448.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Nick Malayalam",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Malayalam.png",
+      "cat": "Malayalam",
+      "stream": "http://103.180.212.191:3500/live/1340.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Sonic Malayalam",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png",
+      "cat": "Malayalam",
+      "stream": "http://103.180.212.191:3500/live/1344.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Discovery HD Malayalam",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDMal.png",
+      "cat": "Malayalam",
+      "stream": "http://103.180.212.191:3500/live/3431.m3u8",
+      "yt": null
+    }
+  ],
+  "Test Channels": [
+    {
+      "name": "IN: Asianet HD",
+      "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/08bc2d3365bf4d2a63baee707fb7d929.png",
+      "cat": "Test Channels",
+      "stream": "https://xfireflix.my.id/nefl.php?id=499607.m3u8",
+      "yt": null
+    },
+    {
+      "name": "IN: Asianet Movies HD",
+      "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/40dc04d8126e441dff6e15e17312b881.png",
+      "cat": "Test Channels",
+      "stream": "https://xfireflix.my.id/nefl.php?id=499608.m3u8",
+      "yt": null
     }
   ]
 }
