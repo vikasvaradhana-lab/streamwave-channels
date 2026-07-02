@@ -2225,6 +2225,20 @@
   ],
   "Test Channels": [
     {
+      "name": "IN: Asianet HD",
+      "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/08bc2d3365bf4d2a63baee707fb7d929.png",
+      "cat": "Test Channels",
+      "stream": "https://xfireflix.my.id/nefl.php?id=499607.m3u8",
+      "yt": null
+    },
+    {
+      "name": "IN: Asianet Movies HD",
+      "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/40dc04d8126e441dff6e15e17312b881.png",
+      "cat": "Test Channels",
+      "stream": "https://xfireflix.my.id/nefl.php?id=499608.m3u8",
+      "yt": null
+    },
+    {
       "name": "Asianet HD( J+ IND)",
       "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/08bc2d3365bf4d2a63baee707fb7d929.png",
       "cat": "Test Channels",
