@@ -2225,18 +2225,60 @@
   ],
   "Test Channels": [
     {
-      "name": "IN: Asianet HD",
+      "name": "Asianet HD( J+ IND)",
       "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/08bc2d3365bf4d2a63baee707fb7d929.png",
       "cat": "Test Channels",
-      "stream": "https://xfireflix.my.id/nefl.php?id=499607.m3u8",
-      "yt": null
+      "stream": "https://alex4528.site/jplus/oiOLLO0LlO0IO0I1lOIo/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscGFXbHBhV2xyYVdscHFXbHBhUSIsICJrIjogIml2a0QyMVBudHA1dUhKb0VjUjY5WWcifV19"
     },
     {
-      "name": "IN: Asianet Movies HD",
+      "name": "Asianet Movies HD( J+ IND)",
       "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/40dc04d8126e441dff6e15e17312b881.png",
       "cat": "Test Channels",
-      "stream": "https://xfireflix.my.id/nefl.php?id=499608.m3u8",
-      "yt": null
+      "stream": "https://alex4528.site/jplus/LI1iiilolOi1O0o1O1O0/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscGFXbHBhV2xxYVdscGFibHBhUSIsICJrIjogIndHWlNycFBCYUJUYTF3Q09oTWNYSFEifV19"
+    },
+    {
+      "name": "Asianet Plus( J+ IND)",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
+      "cat": "Test Channels",
+      "stream": "https://alex4528.site/jplus/lOllOOOilOi1iiL1lO0I0i/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscGFXbHBhZWxwYVdscGFXbHBhUSIsICJrIjogIlRMdVZTUzU3TkNwM0tJUHlJU1F4SncifV19"
+    },
+    {
+      "name": "Asianet( J+ IND)",
+      "logo": "https://i.imgur.com/Wv7MOzg.png",
+      "cat": "Test Channels",
+      "stream": "https://alex4528.site/jplus/LI1iLILolOlliiL1lOi1io/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscGFXaHBhYWxwYVdscGFXbHBhUSIsICJrIjogIng3ak9Ham9rNHZtMDBTU2RCQlZjU1EifV19"
+    },
+    {
+      "name": "Asianet Movies( J+ IND)",
+      "logo": "https://i.imgur.com/cps67hs.png",
+      "cat": "Test Channels",
+      "stream": "https://alex4528.site/jplus/LIlll0OLlOlliiL1LIi1lO/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYWJscGFXbHBhV2xwYVdscGFXbHBhUSIsICJrIjogIjFaSlNEdW8yRlFlbVBKU185NW5mdGcifV19"
+    },
+    {
+      "name": "Star Sports 1 HD( J+ IND)",
+      "logo": null,
+      "cat": "Test Channels",
+      "stream": "https://alex4528.site/jplus/oiIOO0iLlOlliiL1lOlloi/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVd0cGFXbHBhV2xyYVdscGFXbHBhUSIsICJrIjogImhaYVZCMjVuX3BZWU5yVmsyMjFvbkEifV19"
+    },
+    {
+      "name": "Star Sports 2 HD( J+ IND)",
+      "logo": null,
+      "cat": "Test Channels",
+      "stream": "https://alex4528.site/jplus/lOLLl0OLLIlliiloO1llO0/manifest.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscWFXbHBhV2xwNldscGFXbHBhUSIsICJrIjogIjlYOGl5Nk1uT2M1NzZ4LXJQejBHQ3cifV19"
     }
   ]
 }
