@@ -9,6 +9,17 @@
     <link rel="manifest" href="manifest.json">
     <link rel="stylesheet" href="css/style.css">
     <script>
+        // Force unregister service worker to prevent cached index.html/app.js from blocking updates
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.getRegistrations().then(registrations => {
+                for (let r of registrations) {
+                    r.unregister().then(() => {
+                        console.log('Unregistered service worker, reloading...');
+                        window.location.reload();
+                    });
+                }
+            });
+        }
         if (typeof module === 'object') {
             window.nodeModule = module;
             delete module;
