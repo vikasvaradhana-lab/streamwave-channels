@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline' 'unsafe-eval' data: blob:; script-src * 'unsafe-inline' 'unsafe-eval' data: blob:; connect-src * 'unsafe-inline' 'unsafe-eval' data: blob:; img-src * data: blob: 'unsafe-inline'; media-src * data: blob: 'unsafe-inline'; style-src * 'unsafe-inline';">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>StreamWave by Vikas</title>
+    <meta name="theme-color" content="#0B0E14">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="css/style.css">
+    <script>
+        if (typeof module === 'object') {
+            window.nodeModule = module;
+            delete module;
+        }
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.13"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mpegts.js@1.7.3/dist/mpegts.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/shaka-player@4.11.2/dist/shaka-player.compiled.js"></script>
+    <!-- Sortable.min.js removed (L1) — was loaded but never used -->
+    <script>
+        if (window.nodeModule) {
+            module = window.nodeModule;
+        }
+    </script>
+    <!-- FocusManager Engine for Android TV D-Pad -->
+    <script src="js/focusManager.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#6C5CE7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2" ry="2"></rect><polyline points="17 2 12 7 7 2"></polyline></svg>
+                <h1>StreamWave<br><span style="font-size: 0.6em; font-weight: 400; color: #a0a0b0;">by M Vikas Vijayan</span></h1>
+                <button id="closeSidebar" class="close-sidebar">&times;</button>
+            </div>
+            <div class="search-container">
+                <button id="searchButton" class="search-trigger-btn" data-focus-zone="TOP_CONTROLS" tabindex="0">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="margin-right:8px; vertical-align:middle;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                    Search Channels
+                </button>
+                <input type="text" id="searchInput" class="hidden" data-focus-zone="TOP_CONTROLS" placeholder="Search channels..." autocomplete="off">
+                <div style="display: flex; gap: 10px;">
+                    <button id="standbyButton" class="standby-btn mt-2" data-focus-zone="TOP_CONTROLS" style="flex:1;" tabindex="0">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+                        Standby
+                    </button>
+                    <button id="exitButton" class="exit-btn mt-2" data-focus-zone="TOP_CONTROLS" style="flex:1;" tabindex="0">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg>
+                        Exit
+                    </button>
+                </div>
+            </div>
+            <div class="channel-list" id="channelList">
+                <!-- Channels injected by JS -->
+            </div>
+        </aside>
+
+        <!-- Main Player Area -->
+        <main class="player-area">
+            <div class="mobile-header">
+                <button id="menuToggle" class="menu-toggle">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+                </button>
+                <h2 id="mobileChannelName">StreamWave by M Vikas Vijayan</h2>
+            </div>
+            <div class="player-container">
+                <div id="loading" class="loading-overlay hidden">
+                    <div class="loader"></div>
+                </div>
+                
+                <!-- TV-Style Numeric Channel Overlay -->
+                <div id="numericOverlay" class="numeric-tuning-overlay">
+                    <div class="ch-number" id="numericOverlayNumber">CH 1</div>
+                    <div class="ch-name" id="numericOverlayName">Channel Name</div>
+                    <div class="tuning-indicator">Tuning...</div>
+                </div>
+                
+                <!-- Video Element for HLS -->
+                <video id="videoPlayer" class="video-player hidden" controls controlslist="nofullscreen" autoplay playsinline tabindex="0"></video>
+                
+                <!-- Iframe for YouTube -->
+                <iframe id="ytPlayer" class="yt-player hidden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen tabindex="0"></iframe>
+                
+                <!-- Empty State -->
+                <div id="emptyState" class="empty-state">
+                    <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="empty-icon"><rect x="2" y="7" width="20" height="15" rx="2" ry="2"></rect><polyline points="17 2 12 7 7 2"></polyline></svg>
+                    <h2>Welcome to StreamWave by M Vikas Vijayan</h2>
+                    <h3 style="margin-top: 10px;">Select a channel from the menu to start streaming</h3>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Black Screen Standby Overlay -->
+    <div id="standbyOverlay" class="standby-overlay hidden" tabindex="0"></div>
+    
+    <!-- Context Options Popup -->
+    <div id="channelPopup" class="popup-overlay hidden" style="position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.8);z-index:10001;display:flex;align-items:center;justify-content:center;">
+        <div class="popup-content" style="background:#1E222D;padding:20px;border-radius:12px;min-width:300px;text-align:center;box-shadow:0 10px 30px rgba(0,0,0,0.5);">
+            <h3 id="popupChannelName" style="margin-top:0;margin-bottom:20px;color:#fff;">Channel Name</h3>
+            <div style="display:flex;flex-direction:column;gap:10px;">
+                <button id="popupToggleFav" class="popup-btn" data-focus-zone="POPUP" tabindex="0" style="padding:15px;background:#2B313D;border:none;border-radius:8px;color:#fff;font-size:16px;cursor:pointer;">Add to Favorites</button>
+                <button id="popupMove" class="popup-btn" data-focus-zone="POPUP" tabindex="0" style="padding:15px;background:#2B313D;border:none;border-radius:8px;color:#fff;font-size:16px;cursor:pointer;">Move Channel</button>
+            </div>
+        </div>
+    </div>
+    
+    <script src="js/channelsDB.js"></script>
+    <script src="js/app.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                .catch((err) => console.log('ServiceWorker error:', err));
+            });
+        }
+    </script>
+</body>
+</html>
