@@ -2228,6 +2228,34 @@
   ],
   "Test Channels": [
     {
+      "name": "Mohanlal Movies",
+      "logo": "https://i.imgur.com/8mEWpZm.png",
+      "cat": "Test Channels",
+      "stream": "http://fastshare1.com/live/25711345/late8airline/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Mammootty Movies",
+      "logo": "https://i.imgur.com/8mEWpZm.png",
+      "cat": "Test Channels",
+      "stream": "http://fastshare1.com/live/25711345/late8airline/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Suresh Gopi Movies",
+      "logo": "https://i.imgur.com/8mEWpZm.png",
+      "cat": "Test Channels",
+      "stream": "http://fastshare1.com/live/25711345/late8airline/index.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Dileep Movies",
+      "logo": "https://i.imgur.com/8mEWpZm.png",
+      "cat": "Test Channels",
+      "stream": "http://fastshare1.com/live/25711345/late8airline/index.m3u8",
+      "yt": null
+    },
+    {
       "name": "IN: Asianet HD",
       "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/08bc2d3365bf4d2a63baee707fb7d929.png",
       "cat": "Test Channels",
