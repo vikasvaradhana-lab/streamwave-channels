@@ -2229,30 +2229,72 @@
   "Test Channels": [
     {
       "name": "Mohanlal Movies",
-      "logo": "https://i.imgur.com/8mEWpZm.png",
+      "logo": "http://greenpa1.com/24x7.png",
       "cat": "Test Channels",
-      "stream": "http://fastshare1.com/live/25711345/late8airline/index.m3u8",
+      "stream": "http://fastshare1.com:80/live/25711345/late8airline/135574.ts",
       "yt": null
     },
     {
       "name": "Mammootty Movies",
-      "logo": "https://i.imgur.com/8mEWpZm.png",
+      "logo": "http://greenpa1.com/24x7.png",
       "cat": "Test Channels",
-      "stream": "http://fastshare1.com/live/25711345/late8airline/index.m3u8",
+      "stream": "http://fastshare1.com:80/live/25711345/late8airline/135576.ts",
       "yt": null
     },
     {
       "name": "Suresh Gopi Movies",
-      "logo": "https://i.imgur.com/8mEWpZm.png",
+      "logo": "http://greenpa1.com/24x7.png",
       "cat": "Test Channels",
-      "stream": "http://fastshare1.com/live/25711345/late8airline/index.m3u8",
+      "stream": "http://fastshare1.com:80/live/25711345/late8airline/135570.ts",
       "yt": null
     },
     {
       "name": "Dileep Movies",
+      "logo": "http://greenpa1.com/24x7.png",
+      "cat": "Test Channels",
+      "stream": "http://fastshare1.com:80/live/25711345/late8airline/135578.ts",
+      "yt": null
+    },
+    {
+      "name": "HBO HD",
       "logo": "https://i.imgur.com/8mEWpZm.png",
       "cat": "Test Channels",
-      "stream": "http://fastshare1.com/live/25711345/late8airline/index.m3u8",
+      "stream": "http://fastshare1.com:80/live/25711345/late8airline/1007.ts",
+      "yt": null
+    },
+    {
+      "name": "HBO West",
+      "logo": "https://i.imgur.com/8mEWpZm.png",
+      "cat": "Test Channels",
+      "stream": "http://fastshare1.com:80/live/25711345/late8airline/3354.ts",
+      "yt": null
+    },
+    {
+      "name": "Sony Pix",
+      "logo": "https://i.ibb.co/p4knk5y/images-4.png",
+      "cat": "Test Channels",
+      "stream": "http://fastshare1.com:80/live/25711345/late8airline/98846.ts",
+      "yt": null
+    },
+    {
+      "name": "MN+",
+      "logo": "https://i.ibb.co/p4knk5y/images-4.png",
+      "cat": "Test Channels",
+      "stream": "http://fastshare1.com:80/live/25711345/late8airline/98847.ts",
+      "yt": null
+    },
+    {
+      "name": "Asianet Plus",
+      "logo": "http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Plus.png",
+      "cat": "Test Channels",
+      "stream": "http://fastshare1.com:80/live/25711345/late8airline/9027.ts",
+      "yt": null
+    },
+    {
+      "name": "Times Now",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png",
+      "cat": "Test Channels",
+      "stream": "http://fastshare1.com:80/live/25711345/late8airline/7370.ts",
       "yt": null
     },
     {
