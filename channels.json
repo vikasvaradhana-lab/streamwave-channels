@@ -336,6 +336,14 @@
       "stream": "https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJUZmo1SURodVEwYTZhMzE2NlRYV2FBIiwiayI6InhmeXFqZlZtTTJYWk9LVUpoX2NiaEEifV19"
+    },
+    {
+      "name": "Times NOW (JioTV)",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png",
+      "cat": "News",
+      "stream": "https://jiotvmblive.cdn.jio.com/bpk-tv/Times_NOW_MOB/WDVLive/index.mpd",
+      "yt": null,
+      "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiI5SE9GRzRsRlcxT3BqM1AyV1MxandnIiwiayI6Ik1ZWEpEajhybWtreVpFeXRTbkRhdEEifV19"
     }
   ],
   "Entertainment": [
@@ -2288,13 +2296,6 @@
       "logo": "http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Plus.png",
       "cat": "Test Channels",
       "stream": "http://fastshare1.com:80/live/25711345/late8airline/9027.ts",
-      "yt": null
-    },
-    {
-      "name": "Times Now",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png",
-      "cat": "Test Channels",
-      "stream": "http://fastshare1.com:80/live/25711345/late8airline/7370.ts",
       "yt": null
     },
     {

@@ -263,6 +263,13 @@
     "yt": null
   },
   {
+    "name": "Times NOW (JioTV)",
+    "country": "IN",
+    "stream": "https://jiotvmblive.cdn.jio.com/bpk-tv/Times_NOW_MOB/WDVLive/index.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiI5SE9GRzRsRlcxT3BqM1AyV1MxandnIiwiayI6Ik1ZWEpEajhybWtreVpFeXRTbkRhdEEifV19"
+  },
+  {
     "name": "Mirror Now (720p)",
     "country": "IN",
     "stream": "https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8",
@@ -316,12 +323,6 @@
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png",
     "stream": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
     "yt": null
-  },
-  {
-    "name": "Times Now Navbharat",
-    "country": "IN",
-    "stream": "https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8",
-    "yt": "77qMaUtV030"
   },
   {
     "name": "News Nation",
