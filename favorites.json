@@ -160,7 +160,7 @@
     "cat": "Music",
     "stream": "https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd",
     "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJKYUhTcE1QNFNMR3UyUkd0YVJfaU1nIiwiayI6IlBJc3MtR0VjTkQ1cUl4dHFuSHlMV0EifV19"
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJKYUhTcE1QNFNMR3UyUkd0YVJfaU1nIiwiayI6IlBJc3MtR0VjTkQ1cUl4dHFuSHlMV0EifV19"
   },
   {
     "name": "KITE Victers (Kerala)",
@@ -183,36 +183,36 @@
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "https://xfireflix.my.id/nefl.php?id=955660.m3u8",
-    "yt": null
+    "stream": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJsbDNDM2JIWVVUaXRlSG1acF9NTXBRIiwiayI6ImhaYVZCMjVuX3BZWU5yVmsyMjFvbkEifV19"
   },
   {
     "name": "Star Sports 2 HD (1080p)",
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "https://xfireflix.my.id/nefl.php?id=955661.m3u8",
-    "yt": null
+    "stream": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJsRmZya0JLVVZ2cU9xVjRRdWtyRkhnIiwiayI6IjVpQ3BjTTZrZE1TUnJIaXVjYVRYWkEifV19"
   },
   {
     "name": "Sony Ten 1 HD (JioTV)",
     "country": "IN",
     "cat": "Sports",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "stream": "https://alex4528.site/jplus/LIOLlOI1oiOLiiiLlOio/manifest.mpd",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xvYVc1cGFRIiwiayI6IlVyUE9wRFh0SmRSRi1lcmtpRHh3QVEifV19"
+    "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%201%20HD.m3u8",
+    "yt": null
   },
   {
     "name": "Sony Ten 5 HD (JioTV)",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
     "cat": "Sports",
-    "stream": "https://alex4528.site/jplus/O1i1ioI0oOOLiio1LIO0/manifest.mpd",
+    "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%205%20HD.m3u8",
     "yt": null,
     "m3u_source": null,
     "m3u_match": null,
-    "m3u_referer": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscGFXcHBhV2xwYVdscGFHbHBhUSIsICJrIjogIk93QUdHRU5mY0MyMzJaRU5nbVZZU2cifV19"
+    "m3u_referer": null
   },
   {
     "name": "Star Movies HD (JioTV)",
