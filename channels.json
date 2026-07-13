@@ -611,21 +611,21 @@
       "name": "SET HD",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SET_HD.png",
       "cat": "Entertainment",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=st=1783962438~exp=1783962738~acl=*~id=4a9c256b-d887-483e-932f-2d5c93958e9d~hmac=9abfb7dc7cf3a1bf9f336860e65877190c38116ffc8e12f9a35e206760b9cb59",
+      "stream": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=st=1783969979~exp=1783970279~acl=*~id=f73eb2b1-8351-4583-a018-b0c3bf5e8672~hmac=8bea719395da3f68e7fd4d201c4da5421d9ce6e38d78c0160fc006874acc96e9",
       "yt": null
     },
     {
       "name": "SAB HD",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
       "cat": "Entertainment",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1783962438~exp=1783962738~acl=*~id=4a9c256b-d887-483e-932f-2d5c93958e9d~hmac=9abfb7dc7cf3a1bf9f336860e65877190c38116ffc8e12f9a35e206760b9cb59",
+      "stream": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1783969979~exp=1783970279~acl=*~id=f73eb2b1-8351-4583-a018-b0c3bf5e8672~hmac=8bea719395da3f68e7fd4d201c4da5421d9ce6e38d78c0160fc006874acc96e9",
       "yt": null
     },
     {
       "name": "Sony Pal",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
       "cat": "Entertainment",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=st=1783962438~exp=1783962738~acl=*~id=4a9c256b-d887-483e-932f-2d5c93958e9d~hmac=9abfb7dc7cf3a1bf9f336860e65877190c38116ffc8e12f9a35e206760b9cb59",
+      "stream": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=st=1783969979~exp=1783970279~acl=*~id=f73eb2b1-8351-4583-a018-b0c3bf5e8672~hmac=8bea719395da3f68e7fd4d201c4da5421d9ce6e38d78c0160fc006874acc96e9",
       "yt": null
     }
   ],
@@ -795,14 +795,14 @@
       "name": "Sony Max HD",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
       "cat": "Movies",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=st=1783962438~exp=1783962738~acl=*~id=4a9c256b-d887-483e-932f-2d5c93958e9d~hmac=9abfb7dc7cf3a1bf9f336860e65877190c38116ffc8e12f9a35e206760b9cb59",
+      "stream": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=st=1783969979~exp=1783970279~acl=*~id=f73eb2b1-8351-4583-a018-b0c3bf5e8672~hmac=8bea719395da3f68e7fd4d201c4da5421d9ce6e38d78c0160fc006874acc96e9",
       "yt": null
     },
     {
       "name": "MAX 2",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max2.png",
       "cat": "Movies",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=st=1783962438~exp=1783962738~acl=*~id=4a9c256b-d887-483e-932f-2d5c93958e9d~hmac=9abfb7dc7cf3a1bf9f336860e65877190c38116ffc8e12f9a35e206760b9cb59",
+      "stream": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=st=1783969979~exp=1783970279~acl=*~id=f73eb2b1-8351-4583-a018-b0c3bf5e8672~hmac=8bea719395da3f68e7fd4d201c4da5421d9ce6e38d78c0160fc006874acc96e9",
       "yt": null
     }
   ],
@@ -1031,7 +1031,7 @@
       "name": "Sony Wah",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
       "cat": "Music",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=st=1783962438~exp=1783962738~acl=*~id=4a9c256b-d887-483e-932f-2d5c93958e9d~hmac=9abfb7dc7cf3a1bf9f336860e65877190c38116ffc8e12f9a35e206760b9cb59",
+      "stream": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=st=1783969979~exp=1783970279~acl=*~id=f73eb2b1-8351-4583-a018-b0c3bf5e8672~hmac=8bea719395da3f68e7fd4d201c4da5421d9ce6e38d78c0160fc006874acc96e9",
       "yt": null
     }
   ],
@@ -1396,7 +1396,7 @@
       "name": "Sony Yay",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_YAY.png",
       "cat": "Kids",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=st=1783962438~exp=1783962738~acl=*~id=4a9c256b-d887-483e-932f-2d5c93958e9d~hmac=9abfb7dc7cf3a1bf9f336860e65877190c38116ffc8e12f9a35e206760b9cb59",
+      "stream": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=st=1783969979~exp=1783970279~acl=*~id=f73eb2b1-8351-4583-a018-b0c3bf5e8672~hmac=8bea719395da3f68e7fd4d201c4da5421d9ce6e38d78c0160fc006874acc96e9",
       "yt": null
     }
   ],
