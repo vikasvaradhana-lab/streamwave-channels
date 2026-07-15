@@ -1,20 +1,22 @@
 [
   {
-    "name": "TV5MONDE Chefs (1080p)",
-    "country": "FR",
-    "stream": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
-    "yt": null
-  },
-  {
-    "name": "Wild Earth",
-    "country": "UK",
-    "stream": "https://wildearth-plex.amagi.tv/master.m3u8",
-    "yt": null
-  },
-  {
-    "name": "Discovery_Asia HD",
+    "name": "TravelXP 4K HDR",
     "country": "IN",
-    "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",
+    "stream": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+    "yt": null
+  },
+  {
+    "name": "REAL WILD 🇬🇧",
+    "country": "UK",
+    "logo": "https://i.ibb.co/sRhcqHT/realwild.png",
+    "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Tastemade (1080p)",
+    "country": "US",
+    "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
     "yt": null
   },
   {
@@ -367,10 +369,9 @@
     "yt": null
   },
   {
-    "name": "TravelXP 4K HDR",
+    "name": "Discovery_Asia HD",
     "country": "IN",
-    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",
-    "stream": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+    "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
     "yt": null
   },
   {
@@ -386,10 +387,9 @@
     "yt": null
   },
   {
-    "name": "REAL WILD 🇬🇧",
+    "name": "Wild Earth",
     "country": "UK",
-    "logo": "https://i.ibb.co/sRhcqHT/realwild.png",
-    "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8",
+    "stream": "https://wildearth-plex.amagi.tv/master.m3u8",
     "yt": null
   },
   {
@@ -576,9 +576,9 @@
     "m3u_referer": null
   },
   {
-    "name": "Tastemade (1080p)",
-    "country": "US",
-    "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
+    "name": "TV5MONDE Chefs (1080p)",
+    "country": "FR",
+    "stream": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
     "yt": null
   },
   {
