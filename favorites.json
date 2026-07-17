@@ -1,22 +1,20 @@
 [
   {
-    "name": "TravelXP 4K HDR",
-    "country": "IN",
-    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",
-    "stream": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
-    "yt": null
-  },
-  {
-    "name": "REAL WILD 🇬🇧",
-    "country": "UK",
-    "logo": "https://i.ibb.co/sRhcqHT/realwild.png",
-    "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8",
-    "yt": null
-  },
-  {
-    "name": "Tastemade (1080p)",
+    "name": "In the Kitchen (720p)",
     "country": "US",
-    "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
+    "stream": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "INWILD (1080p)",
+    "country": "UK",
+    "stream": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "China Travel (1080p)",
+    "country": "CN",
+    "stream": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
     "yt": null
   },
   {
@@ -381,9 +379,10 @@
     "yt": null
   },
   {
-    "name": "INWILD (1080p)",
+    "name": "REAL WILD 🇬🇧",
     "country": "UK",
-    "stream": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+    "logo": "https://i.ibb.co/sRhcqHT/realwild.png",
+    "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8",
     "yt": null
   },
   {
@@ -413,9 +412,9 @@
     "yt": null
   },
   {
-    "name": "China Travel (1080p)",
-    "country": "CN",
-    "stream": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+    "name": "Tastemade (1080p)",
+    "country": "US",
+    "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
     "yt": null
   },
   {
@@ -582,9 +581,10 @@
     "yt": null
   },
   {
-    "name": "In the Kitchen (720p)",
-    "country": "US",
-    "stream": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8",
+    "name": "TravelXP 4K HDR",
+    "country": "IN",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",
+    "stream": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
     "yt": null
   },
   {
@@ -646,7 +646,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SET_HD.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=st=1784284216~exp=1784284516~acl=*~id=80e17346-7049-4d56-a842-93347a94a557~hmac=139174cd75bdb6331730ab1f0a28bb7ac8b73846bb3f77c2d6975e29872439e0",
+    "stream": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=st=1784121219~exp=1784121519~acl=*~id=9df315d6-eb15-49af-8aac-06f23696352c~hmac=d4a74254aa336c59b86d8ec011e1005f37f31bac3b80a191f97497cc9befcfc9",
     "yt": null
   },
   {
@@ -654,7 +654,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1784284216~exp=1784284516~acl=*~id=80e17346-7049-4d56-a842-93347a94a557~hmac=139174cd75bdb6331730ab1f0a28bb7ac8b73846bb3f77c2d6975e29872439e0",
+    "stream": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1784121219~exp=1784121519~acl=*~id=9df315d6-eb15-49af-8aac-06f23696352c~hmac=d4a74254aa336c59b86d8ec011e1005f37f31bac3b80a191f97497cc9befcfc9",
     "yt": null
   },
   {
@@ -662,7 +662,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=st=1784284216~exp=1784284516~acl=*~id=80e17346-7049-4d56-a842-93347a94a557~hmac=139174cd75bdb6331730ab1f0a28bb7ac8b73846bb3f77c2d6975e29872439e0",
+    "stream": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=st=1784121219~exp=1784121519~acl=*~id=9df315d6-eb15-49af-8aac-06f23696352c~hmac=d4a74254aa336c59b86d8ec011e1005f37f31bac3b80a191f97497cc9befcfc9",
     "yt": null
   },
   {
@@ -670,7 +670,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max2.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=st=1784284216~exp=1784284516~acl=*~id=80e17346-7049-4d56-a842-93347a94a557~hmac=139174cd75bdb6331730ab1f0a28bb7ac8b73846bb3f77c2d6975e29872439e0",
+    "stream": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=st=1784121219~exp=1784121519~acl=*~id=9df315d6-eb15-49af-8aac-06f23696352c~hmac=d4a74254aa336c59b86d8ec011e1005f37f31bac3b80a191f97497cc9befcfc9",
     "yt": null
   },
   {
@@ -678,7 +678,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=st=1784284216~exp=1784284516~acl=*~id=80e17346-7049-4d56-a842-93347a94a557~hmac=139174cd75bdb6331730ab1f0a28bb7ac8b73846bb3f77c2d6975e29872439e0",
+    "stream": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=st=1784121219~exp=1784121519~acl=*~id=9df315d6-eb15-49af-8aac-06f23696352c~hmac=d4a74254aa336c59b86d8ec011e1005f37f31bac3b80a191f97497cc9befcfc9",
     "yt": null
   },
   {
@@ -686,7 +686,7 @@
     "country": "IN",
     "cat": "Kids",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_YAY.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=st=1784284216~exp=1784284516~acl=*~id=80e17346-7049-4d56-a842-93347a94a557~hmac=139174cd75bdb6331730ab1f0a28bb7ac8b73846bb3f77c2d6975e29872439e0",
+    "stream": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=st=1784121219~exp=1784121519~acl=*~id=9df315d6-eb15-49af-8aac-06f23696352c~hmac=d4a74254aa336c59b86d8ec011e1005f37f31bac3b80a191f97497cc9befcfc9",
     "yt": null
   },
   {
@@ -694,7 +694,7 @@
     "country": "IN",
     "cat": "Music",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=st=1784284216~exp=1784284516~acl=*~id=80e17346-7049-4d56-a842-93347a94a557~hmac=139174cd75bdb6331730ab1f0a28bb7ac8b73846bb3f77c2d6975e29872439e0",
+    "stream": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=st=1784121219~exp=1784121519~acl=*~id=9df315d6-eb15-49af-8aac-06f23696352c~hmac=d4a74254aa336c59b86d8ec011e1005f37f31bac3b80a191f97497cc9befcfc9",
     "yt": null
   }
 ]
