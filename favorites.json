@@ -1,18 +1,18 @@
 [
   {
-    "name": "In the Kitchen (720p)",
+    "name": "In the Kitchen",
     "country": "US",
     "stream": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8",
     "yt": null
   },
   {
-    "name": "INWILD (1080p)",
+    "name": "INWILD",
     "country": "UK",
     "stream": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
     "yt": null
   },
   {
-    "name": "China Travel (1080p)",
+    "name": "China Travel",
     "country": "CN",
     "stream": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
     "yt": null
@@ -20,7 +20,7 @@
   {
     "name": "Kochu TV",
     "country": "IN",
-    "stream": "http://103.180.212.191:3500/live/556.m3u8",
+    "stream": "https://youmad.shop/mc.php?id=373401.m3u8",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",
     "yt": null
   },
@@ -33,20 +33,20 @@
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhMmU4enZjQ1R5MmltMExoRGNFX2lRIiwiayI6IkxvUmd4SDBfQVdrLUdUMjZXV09sNFEifV19"
   },
   {
-    "name": "Asianet Movies SD (JioTV)",
+    "name": "Asianet Movies",
     "country": "IN",
     "cat": "Movies",
     "logo": "https://i.imgur.com/cps67hs.png",
-    "stream": "https://alex4528.site/jplus/LIlll0OLlOlliiL1LIi1lO/manifest.mpd",
+    "stream": "https://youmad.shop/mc.php?id=373397.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhYmxwYVdscGFXbHBhV2xwYVdscGFRIiwiayI6IjFaSlNEdW8yRlFlbVBKU185NW5mdGcifV19"
   },
   {
-    "name": "Asianet Plus SD (JioTV)",
+    "name": "Asianet Plus",
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
-    "stream": "https://alex4528.site/jplus/lOllOOOilOi1iiL1lO0I0i/manifest.mpd",
+    "stream": "https://youmad.shop/mc.php?id=373396.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFlbHBhV2xwYVdscGFRIiwiayI6IlRMdVZTUzU3TkNwM0tJUHlJU1F4SncifV19"
   },
@@ -59,11 +59,11 @@
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJFVlk3QUtSclFfS2ctQTdQUXFUN2R3IiwiayI6Im02MG9yVzhqMjdrWHhqN21nUFpxSHcifV19"
   },
   {
-    "name": "Asianet SD (JioTV)",
+    "name": "Asianet",
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://i.imgur.com/Wv7MOzg.png",
-    "stream": "https://alex4528.site/jplus/LI1iLILolOlliiL1lOi1io/manifest.mpd",
+    "stream": "https://youmad.shop/mc.php?id=373404.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdocGFhbHBhV2xwYVdscGFRIiwiayI6Ing3ak9Ham9rNHZtMDBTU2RCQlZjU1EifV19"
   },
@@ -82,13 +82,13 @@
     "yt": null
   },
   {
-    "name": "Mazhavil Manorama HD (1080p)",
+    "name": "Mazhavil Manorama HD",
     "country": "IN",
     "stream": "https://cdn-7.pishow.tv/live/1129/master.m3u8",
     "yt": null
   },
   {
-    "name": "Safari TV (480p) [Not 24/7]",
+    "name": "Safari TV [Not 24/7]",
     "country": "IN",
     "stream": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png",
@@ -97,11 +97,11 @@
   {
     "name": "Asianet News",
     "country": "IN",
-    "stream": "https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8",
+    "stream": "https://youmad.shop/mc.php?id=373392.m3u8",
     "yt": "s0LLVQeMmtU"
   },
   {
-    "name": "Big TV 24x7 (576i)",
+    "name": "Big TV 24x7",
     "country": "IN",
     "stream": "https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8",
     "yt": null
@@ -169,7 +169,7 @@
     "yt": null
   },
   {
-    "name": "Willow Plus (HLS)",
+    "name": "Willow Plus",
     "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WILLOW_2023_Primary-Stacked.png",
     "cat": "Sports",
     "stream": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
@@ -179,79 +179,79 @@
     "m3u_referer": null
   },
   {
-    "name": "Star Sports 1 HD (1080p)",
+    "name": "Star Sports 1 HD",
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
+    "stream": "https://youmad.shop/mc.php?id=809383.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJsbDNDM2JIWVVUaXRlSG1acF9NTXBRIiwiayI6ImhaYVZCMjVuX3BZWU5yVmsyMjFvbkEifV19"
   },
   {
-    "name": "Star Sports 2 HD (1080p)",
+    "name": "Star Sports 2 HD",
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
+    "stream": "https://youmad.shop/mc.php?id=373204.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJsRmZya0JLVVZ2cU9xVjRRdWtyRkhnIiwiayI6IjVpQ3BjTTZrZE1TUnJIaXVjYVRYWkEifV19"
   },
   {
-    "name": "Sony Ten 1 HD (JioTV)",
+    "name": "Sony Ten 1 HD",
     "country": "IN",
     "cat": "Sports",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%201%20HD.m3u8",
+    "stream": "https://youmad.shop/mc.php?id=373200.m3u8",
     "yt": null
   },
   {
-    "name": "Sony Ten 5 HD (JioTV)",
+    "name": "Sony Ten 5 HD",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
     "cat": "Sports",
-    "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%205%20HD.m3u8",
+    "stream": "https://youmad.shop/mc.php?id=373196.m3u8",
     "yt": null,
     "m3u_source": null,
     "m3u_match": null,
     "m3u_referer": null
   },
   {
-    "name": "Star Movies HD (JioTV)",
+    "name": "Star Movies HD",
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
-    "stream": "https://alex4528.site/jplus/oiIOlO0ILIOLiiL1lOllO0/manifest.mpd",
+    "stream": "https://youmad.shop/mc.php?id=373304.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFHbHBhV2xwYVdscGFRIiwiayI6IjgyNWMxSUpTdk5EODJpdi1JZld6WlEifV19"
   },
   {
-    "name": "Star Movies Select HD (JioTV)",
+    "name": "Star Movies Select HD",
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
-    "stream": "https://alex4528.site/jplus/oOOLLOOLlOOLiiL1lOi1il/manifest.mpd",
+    "stream": "https://youmad.shop/mc.php?id=373320.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYTJscGFRIiwiayI6ImF4YU50SkpCcDR3YlFqcTVvcFFKN3cifV19"
   },
   {
-    "name": "Nat Geo Wild HD (JioTV)",
+    "name": "Nat Geo Wild HD",
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
-    "stream": "https://alex4528.site/jplus/O1lloi0IlOllii0IlO0Ioo/manifest.mpd",
+    "stream": "https://youmad.shop/mc.php?id=373325.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2hwYVc1cGFXbHBhV2xwYVdscGFRIiwiayI6IndtZDhoMGlHNTQwa3NfdGxiRmMwNEEifV19"
   },
   {
-    "name": "Animal Planet HD English (JioTV)",
+    "name": "Animal Planet HD",
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
-    "stream": "https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetHDEng_MOB/WDVLive/index.mpd",
+    "stream": "https://youmad.shop/mc.php?id=373327.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJxdjBHZnB3LVVNU3lYQ09UYzdraEF3IiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
   },
   {
-    "name": "BBC Earth (1080p)",
+    "name": "BBC Earth",
     "country": "UK",
     "stream": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
     "yt": null
@@ -269,19 +269,19 @@
     "yt": null
   },
   {
-    "name": "Mirror Now (720p)",
+    "name": "Mirror Now",
     "country": "IN",
     "stream": "https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8",
     "yt": null
   },
   {
-    "name": "India Today (720p)",
+    "name": "India Today",
     "country": "IN",
     "stream": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
     "yt": null
   },
   {
-    "name": "NDTV 24x7 (720p)",
+    "name": "NDTV 24x7",
     "country": "IN",
     "stream": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8",
     "yt": null
@@ -317,7 +317,7 @@
     "yt": null
   },
   {
-    "name": "Aaj Tak HD (1080p)",
+    "name": "Aaj Tak HD",
     "country": "IN",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png",
     "stream": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
@@ -330,19 +330,19 @@
     "yt": null
   },
   {
-    "name": "Zee News (1080p)",
+    "name": "Zee News",
     "country": "IN",
     "stream": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
     "yt": null
   },
   {
-    "name": "Zee Business (720p)",
+    "name": "Zee Business",
     "country": "IN",
     "stream": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
     "yt": null
   },
   {
-    "name": "DD India (1080p)",
+    "name": "DD India",
     "country": "IN",
     "stream": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8",
     "yt": null
@@ -372,7 +372,7 @@
     "yt": null
   },
   {
-    "name": "Authentic Travel (1080p)",
+    "name": "Authentic Travel",
     "country": "DE",
     "stream": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
     "yt": null
@@ -391,7 +391,7 @@
     "yt": null
   },
   {
-    "name": "Adventure Earth (1080p)",
+    "name": "Adventure Earth",
     "country": "DE",
     "stream": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
     "yt": null
@@ -411,25 +411,25 @@
     "yt": null
   },
   {
-    "name": "Tastemade (1080p)",
+    "name": "Tastemade",
     "country": "US",
     "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
     "yt": null
   },
   {
-    "name": "Beach TV Key West & Florida Keys (720p)",
+    "name": "Beach TV Key West & Florida Keys",
     "country": "US",
     "stream": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
     "yt": null
   },
   {
-    "name": "Schladming-Dachstein TV (720p)",
+    "name": "Schladming-Dachstein TV",
     "country": "AT",
     "stream": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
     "yt": null
   },
   {
-    "name": "Disney XD (720p)",
+    "name": "Disney XD",
     "country": "US",
     "stream": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
     "yt": null
@@ -477,13 +477,13 @@
     "yt": null
   },
   {
-    "name": "Mr. Bean Anime (1080p)",
+    "name": "Mr. Bean Anime",
     "country": "UK",
     "stream": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
     "yt": null
   },
   {
-    "name": "Kartoon Channel (1080p)",
+    "name": "Kartoon Channel",
     "country": "US",
     "stream": "https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8",
     "yt": null
@@ -495,13 +495,13 @@
     "yt": null
   },
   {
-    "name": "ToonGoggles (720p)",
+    "name": "ToonGoggles",
     "country": "US",
     "stream": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
     "yt": null
   },
   {
-    "name": "ducktv (720p)",
+    "name": "ducktv",
     "country": "US",
     "stream": "https://jmp2.uk/stvp-ESBC4700001GR",
     "yt": null
@@ -574,7 +574,7 @@
     "m3u_referer": null
   },
   {
-    "name": "TV5MONDE Chefs (1080p)",
+    "name": "TV5MONDE Chefs",
     "country": "FR",
     "stream": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
     "yt": null
@@ -587,13 +587,13 @@
     "yt": null
   },
   {
-    "name": "Maldives TV (720p)",
+    "name": "Maldives TV",
     "country": "MV",
     "stream": "https://lana.psm.mv/live/mtv.m3u8",
     "yt": null
   },
   {
-    "name": "Zee Comedy Nation (1080p)",
+    "name": "Zee Comedy Nation",
     "country": "IN",
     "stream": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
     "yt": null
@@ -645,7 +645,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SET_HD.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+    "stream": "https://youmad.shop/mc.php?id=943926.m3u8",
     "yt": null
   },
   {
@@ -653,7 +653,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+    "stream": "https://youmad.shop/mc.php?id=944604.m3u8",
     "yt": null
   },
   {
@@ -661,7 +661,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+    "stream": "https://youmad.shop/mc.php?id=373074.m3u8",
     "yt": null
   },
   {
@@ -677,7 +677,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+    "stream": "https://youmad.shop/mc.php?id=373069.m3u8",
     "yt": null
   },
   {
@@ -685,7 +685,7 @@
     "country": "IN",
     "cat": "Kids",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_YAY.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+    "stream": "https://youmad.shop/mc.php?id=373067.m3u8",
     "yt": null
   },
   {
@@ -693,7 +693,7 @@
     "country": "IN",
     "cat": "Music",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+    "stream": "https://youmad.shop/mc.php?id=944607.m3u8",
     "yt": null
   }
 ]

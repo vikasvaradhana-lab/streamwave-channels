@@ -11,7 +11,7 @@
       "name": "Asianet News (1080p)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_NEWS/images/LOGO_HD/image.png",
       "cat": "News",
-      "stream": "https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=373392.m3u8",
       "yt": null
     },
     {
@@ -351,7 +351,7 @@
       "name": "Asianet SD (JioTV)",
       "logo": "https://i.imgur.com/Wv7MOzg.png",
       "cat": "Entertainment",
-      "stream": "https://alex4528.site/jplus/LI1iLILolOlliiL1lOi1io/manifest.mpd",
+      "stream": "https://youmad.shop/mc.php?id=373404.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdocGFhbHBhV2xwYVdscGFRIiwiayI6Ing3ak9Ham9rNHZtMDBTU2RCQlZjU1EifV19"
     },
@@ -359,7 +359,7 @@
       "name": "Asianet Plus SD (JioTV)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
       "cat": "Entertainment",
-      "stream": "https://alex4528.site/jplus/lOllOOOilOi1iiL1lO0I0i/manifest.mpd",
+      "stream": "https://youmad.shop/mc.php?id=373396.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFlbHBhV2xwYVdscGFRIiwiayI6IlRMdVZTUzU3TkNwM0tJUHlJU1F4SncifV19"
     },
@@ -374,7 +374,7 @@
       "name": "Asianet (576p)",
       "logo": "https://i.imgur.com/Wv7MOzg.png",
       "cat": "Entertainment",
-      "stream": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=373404.m3u8",
       "yt": null
     },
     {
@@ -388,7 +388,7 @@
       "name": "Asianet Plus (396p)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
       "cat": "Entertainment",
-      "stream": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=373396.m3u8",
       "yt": null
     },
     {
@@ -611,21 +611,21 @@
       "name": "SET HD",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SET_HD.png",
       "cat": "Entertainment",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+      "stream": "https://youmad.shop/mc.php?id=943926.m3u8",
       "yt": null
     },
     {
       "name": "SAB HD",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
       "cat": "Entertainment",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+      "stream": "https://youmad.shop/mc.php?id=944604.m3u8",
       "yt": null
     },
     {
       "name": "Sony Pal",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
       "cat": "Entertainment",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+      "stream": "https://youmad.shop/mc.php?id=373069.m3u8",
       "yt": null
     }
   ],
@@ -634,7 +634,7 @@
       "name": "Asianet Movies SD (JioTV)",
       "logo": "https://i.imgur.com/cps67hs.png",
       "cat": "Movies",
-      "stream": "https://alex4528.site/jplus/LIlll0OLlOlliiL1LIi1lO/manifest.mpd",
+      "stream": "https://youmad.shop/mc.php?id=373397.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhYmxwYVdscGFXbHBhV2xwYVdscGFRIiwiayI6IjFaSlNEdW8yRlFlbVBKU185NW5mdGcifV19"
     },
@@ -642,14 +642,14 @@
       "name": "Asianet Movies (576p)",
       "logo": "https://i.imgur.com/cps67hs.png",
       "cat": "Movies",
-      "stream": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=373397.m3u8",
       "yt": null
     },
     {
       "name": "Asianet Movies HD (1080p)",
       "logo": "https://i.imgur.com/cps67hs.png",
       "cat": "Movies",
-      "stream": "http://149.71.34.166:8000/play/a06e/index.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=373397.m3u8",
       "yt": null
     },
     {
@@ -779,7 +779,7 @@
       "name": "Star Movies HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
       "cat": "Movies",
-      "stream": "https://alex4528.site/jplus/oiIOlO0ILIOLiiL1lOllO0/manifest.mpd",
+      "stream": "https://youmad.shop/mc.php?id=373304.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFHbHBhV2xwYVdscGFRIiwiayI6IjgyNWMxSUpTdk5EODJpdi1JZld6WlEifV19"
     },
@@ -787,7 +787,7 @@
       "name": "Star Movies Select HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
       "cat": "Movies",
-      "stream": "https://alex4528.site/jplus/oOOLLOOLlOOLiiL1lOi1il/manifest.mpd",
+      "stream": "https://youmad.shop/mc.php?id=373320.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYTJscGFRIiwiayI6ImF4YU50SkpCcDR3YlFqcTVvcFFKN3cifV19"
     },
@@ -795,7 +795,7 @@
       "name": "Sony Max HD",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
       "cat": "Movies",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+      "stream": "https://youmad.shop/mc.php?id=373074.m3u8",
       "yt": null
     },
     {
@@ -1031,7 +1031,7 @@
       "name": "Sony Wah",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
       "cat": "Music",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+      "stream": "https://youmad.shop/mc.php?id=944607.m3u8",
       "yt": null
     }
   ],
@@ -1224,7 +1224,7 @@
       "name": "Nat Geo Wild HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
       "cat": "Documentary",
-      "stream": "https://alex4528.site/jplus/O1lloi0IlOllii0IlO0Ioo/manifest.mpd",
+      "stream": "https://youmad.shop/mc.php?id=373325.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2hwYVc1cGFXbHBhV2xwYVdscGFRIiwiayI6IndtZDhoMGlHNTQwa3NfdGxiRmMwNEEifV19"
     },
@@ -1232,7 +1232,7 @@
       "name": "Animal Planet HD English (JioTV)",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
       "cat": "Documentary",
-      "stream": "https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetHDEng_MOB/WDVLive/index.mpd",
+      "stream": "https://youmad.shop/mc.php?id=373327.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJxdjBHZnB3LVVNU3lYQ09UYzdraEF3IiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
     }
@@ -1340,7 +1340,7 @@
       "name": "Kochu TV",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",
       "cat": "Kids",
-      "stream": "http://103.180.212.191:3500/live/556.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=373401.m3u8",
       "yt": null
     },
     {
@@ -1396,7 +1396,7 @@
       "name": "Sony Yay",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_YAY.png",
       "cat": "Kids",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+      "stream": "https://youmad.shop/mc.php?id=373067.m3u8",
       "yt": null
     }
   ],
@@ -1451,7 +1451,7 @@
       "name": "Sony Sports 1 HD 🇮🇳",
       "logo": "",
       "cat": "Sports",
-      "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=373200.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -1631,7 +1631,7 @@
       "name": "Star Sports 1 HD (1080p)",
       "logo": null,
       "cat": "Sports",
-      "stream": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
+      "stream": "https://youmad.shop/mc.php?id=809383.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -1642,7 +1642,7 @@
       "name": "Star Sports 2 HD (1080p)",
       "logo": null,
       "cat": "Sports",
-      "stream": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
+      "stream": "https://youmad.shop/mc.php?id=373204.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -1653,7 +1653,7 @@
       "name": "Sony Sports 2 HD 🇮🇳",
       "logo": null,
       "cat": "Sports",
-      "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=373199.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -1663,7 +1663,7 @@
       "name": "Sony Sports 5 HD 🇮🇳",
       "logo": null,
       "cat": "Sports",
-      "stream": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=373196.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -2165,7 +2165,7 @@
       "name": "Sony Sports 3 HD",
       "logo": null,
       "cat": "Sports",
-      "stream": "http://140.245.252.161:3000/channel/Sony%20Sports3.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=373198.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -2225,14 +2225,14 @@
       "name": "Sony Ten 1 HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
       "cat": "Sports",
-      "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%201%20HD.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=373200.m3u8",
       "yt": null
     },
     {
       "name": "Sony Ten 5 HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
       "cat": "Sports",
-      "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%205%20HD.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=373196.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -2286,136 +2286,143 @@
   "Test Channels": [
     {
       "name": "Mohanlal Movies",
-      "logo": "http://greenpa1.com/24x7.png",
+      "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/MOHANLAL HD.png",
       "cat": "Test Channels",
-      "stream": "http://fastshare1.com:80/live/25711345/late8airline/135574.ts",
+      "stream": "https://youmad.shop/mc.php?id=734198.m3u8",
       "yt": null
     },
     {
       "name": "Mammootty Movies",
-      "logo": "http://greenpa1.com/24x7.png",
+      "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/MAMMOOTHY HD.png",
       "cat": "Test Channels",
-      "stream": "http://fastshare1.com:80/live/25711345/late8airline/135576.ts",
+      "stream": "https://youmad.shop/mc.php?id=734196.m3u8",
       "yt": null
     },
     {
       "name": "Suresh Gopi Movies",
-      "logo": "http://greenpa1.com/24x7.png",
+      "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SURESH GOPI HD.png",
       "cat": "Test Channels",
-      "stream": "http://fastshare1.com:80/live/25711345/late8airline/135570.ts",
+      "stream": "https://youmad.shop/mc.php?id=734193.m3u8",
       "yt": null
     },
     {
-      "name": "Dileep Movies",
-      "logo": "http://greenpa1.com/24x7.png",
+      "name": "AND FLIX HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/flix-logo_2.png.png",
       "cat": "Test Channels",
-      "stream": "http://fastshare1.com:80/live/25711345/late8airline/135578.ts",
+      "stream": "https://youmad.shop/mc.php?id=373343.m3u8",
       "yt": null
     },
     {
-      "name": "HBO HD",
-      "logo": "https://i.imgur.com/8mEWpZm.png",
+      "name": "HBO INDIA HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/HBO_logo.svg.png",
       "cat": "Test Channels",
-      "stream": "http://fastshare1.com:80/live/25711345/late8airline/1007.ts",
+      "stream": "https://youmad.shop/mc.php?id=373332.m3u8",
       "yt": null
     },
     {
-      "name": "HBO West",
-      "logo": "https://i.imgur.com/8mEWpZm.png",
+      "name": "MNX HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/MNX_new_logo.png",
       "cat": "Test Channels",
-      "stream": "http://fastshare1.com:80/live/25711345/late8airline/3354.ts",
+      "stream": "https://youmad.shop/mc.php?id=373329.m3u8",
       "yt": null
     },
     {
-      "name": "Sony Pix",
-      "logo": "https://i.ibb.co/p4knk5y/images-4.png",
+      "name": "MOVIES NOW HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Movies_Now_HD.png",
       "cat": "Test Channels",
-      "stream": "http://fastshare1.com:80/live/25711345/late8airline/98846.ts",
+      "stream": "https://youmad.shop/mc.php?id=373328.m3u8",
       "yt": null
     },
     {
-      "name": "MN+",
-      "logo": "https://i.ibb.co/p4knk5y/images-4.png",
+      "name": "WARNER BROS",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Warner_TV.png",
       "cat": "Test Channels",
-      "stream": "http://fastshare1.com:80/live/25711345/late8airline/98847.ts",
+      "stream": "https://youmad.shop/mc.php?id=373313.m3u8",
       "yt": null
     },
     {
-      "name": "Asianet Plus",
-      "logo": "http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Plus.png",
+      "name": "WARNERTV",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/800px-Warner2018LA.png",
       "cat": "Test Channels",
-      "stream": "http://fastshare1.com:80/live/25711345/late8airline/9027.ts",
+      "stream": "https://youmad.shop/mc.php?id=383028.m3u8",
       "yt": null
     },
     {
-      "name": "IN: Asianet HD",
-      "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/08bc2d3365bf4d2a63baee707fb7d929.png",
+      "name": "HBO",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/HBO_logo.svg.png",
       "cat": "Test Channels",
-      "stream": "https://xfireflix.my.id/nefl.php?id=499607.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=383026.m3u8",
       "yt": null
     },
     {
-      "name": "IN: Asianet Movies HD",
-      "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/40dc04d8126e441dff6e15e17312b881.png",
+      "name": "HBO RED",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/HBOred.png",
       "cat": "Test Channels",
-      "stream": "https://xfireflix.my.id/nefl.php?id=499608.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=383025.m3u8",
       "yt": null
     },
     {
-      "name": "Asianet HD( J+ IND)",
-      "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/08bc2d3365bf4d2a63baee707fb7d929.png",
+      "name": "TVN MOVIES",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/tvnmovies.png",
       "cat": "Test Channels",
-      "stream": "https://alex4528.site/jplus/oiOLLO0LlO0IO0I1lOIo/manifest.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscGFXbHBhV2xyYVdscHFXbHBhUSIsICJrIjogIml2a0QyMVBudHA1dUhKb0VjUjY5WWcifV19"
+      "stream": "https://youmad.shop/mc.php?id=383024.m3u8",
+      "yt": null
     },
     {
-      "name": "Asianet Movies HD( J+ IND)",
-      "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/40dc04d8126e441dff6e15e17312b881.png",
+      "name": "AXN HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/AXN HD.png",
       "cat": "Test Channels",
-      "stream": "https://alex4528.site/jplus/LI1iiilolOi1O0o1O1O0/manifest.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscGFXbHBhV2xxYVdscGFibHBhUSIsICJrIjogIndHWlNycFBCYUJUYTF3Q09oTWNYSFEifV19"
+      "stream": "https://youmad.shop/mc.php?id=901326.m3u8",
+      "yt": null
     },
     {
-      "name": "Asianet Plus( J+ IND)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
+      "name": "CINEMA ONE GLOBAL",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/CINEMA ONE GLOBAL.png",
       "cat": "Test Channels",
-      "stream": "https://alex4528.site/jplus/lOllOOOilOi1iiL1lO0I0i/manifest.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscGFXbHBhZWxwYVdscGFXbHBhUSIsICJrIjogIlRMdVZTUzU3TkNwM0tJUHlJU1F4SncifV19"
+      "stream": "https://youmad.shop/mc.php?id=901329.m3u8",
+      "yt": null
     },
     {
-      "name": "Asianet( J+ IND)",
-      "logo": "https://i.imgur.com/Wv7MOzg.png",
+      "name": "HITS Movies",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/HITS Movies.png",
       "cat": "Test Channels",
-      "stream": "https://alex4528.site/jplus/LI1iLILolOlliiL1lOi1io/manifest.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscGFXaHBhYWxwYVdscGFXbHBhUSIsICJrIjogIng3ak9Ham9rNHZtMDBTU2RCQlZjU1EifV19"
+      "stream": "https://youmad.shop/mc.php?id=901313.m3u8",
+      "yt": null
     },
     {
-      "name": "Asianet Movies( J+ IND)",
-      "logo": "https://i.imgur.com/cps67hs.png",
+      "name": "KIX HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/KIX HD.png",
       "cat": "Test Channels",
-      "stream": "https://alex4528.site/jplus/LIlll0OLlOlliiL1LIi1lO/manifest.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYWJscGFXbHBhV2xwYVdscGFXbHBhUSIsICJrIjogIjFaSlNEdW8yRlFlbVBKU185NW5mdGcifV19"
+      "stream": "https://youmad.shop/mc.php?id=901310.m3u8",
+      "yt": null
     },
     {
-      "name": "Star Sports 1 HD( J+ IND)",
-      "logo": null,
+      "name": "TAP ACTION FLIX HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/TAP ACTION FLIX HD.png",
       "cat": "Test Channels",
-      "stream": "https://alex4528.site/jplus/oiIOO0iLlOlliiL1lOlloi/manifest.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVd0cGFXbHBhV2xyYVdscGFXbHBhUSIsICJrIjogImhaYVZCMjVuX3BZWU5yVmsyMjFvbkEifV19"
+      "stream": "https://youmad.shop/mc.php?id=901294.m3u8",
+      "yt": null
     },
     {
-      "name": "Star Sports 2 HD( J+ IND)",
-      "logo": null,
+      "name": "TAP MOVIES HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/TAP MOVIES HD.png",
       "cat": "Test Channels",
-      "stream": "https://alex4528.site/jplus/lOLLl0OLLIlliiloO1llO0/manifest.mpd",
-      "yt": null,
-      "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYVdscWFXbHBhV2xwNldscGFXbHBhUSIsICJrIjogIjlYOGl5Nk1uT2M1NzZ4LXJQejBHQ3cifV19"
+      "stream": "https://youmad.shop/mc.php?id=901292.m3u8",
+      "yt": null
+    },
+    {
+      "name": "VIVA CINEMA HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/VIVA CINEMA HD.png",
+      "cat": "Test Channels",
+      "stream": "https://youmad.shop/mc.php?id=901283.m3u8",
+      "yt": null
+    },
+    {
+      "name": "ZEE CINEMA",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/SINGAPORE/ZEE CINEMA.png",
+      "cat": "Test Channels",
+      "stream": "https://youmad.shop/mc.php?id=383538.m3u8",
+      "yt": null
     }
   ]
 }
