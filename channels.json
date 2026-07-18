@@ -2285,38 +2285,10 @@
   ],
   "Test Channels": [
     {
-      "name": "Mohanlal Movies",
-      "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/MOHANLAL HD.png",
-      "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=734198.m3u8",
-      "yt": null
-    },
-    {
-      "name": "Mammootty Movies",
-      "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/MAMMOOTHY HD.png",
-      "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=734196.m3u8",
-      "yt": null
-    },
-    {
-      "name": "Suresh Gopi Movies",
-      "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SURESH GOPI HD.png",
-      "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=734193.m3u8",
-      "yt": null
-    },
-    {
       "name": "AND FLIX HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/flix-logo_2.png.png",
       "cat": "Test Channels",
       "stream": "https://youmad.shop/mc.php?id=373343.m3u8",
-      "yt": null
-    },
-    {
-      "name": "HBO INDIA HD",
-      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/HBO_logo.svg.png",
-      "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=373332.m3u8",
       "yt": null
     },
     {
@@ -2331,41 +2303,6 @@
       "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Movies_Now_HD.png",
       "cat": "Test Channels",
       "stream": "https://youmad.shop/mc.php?id=373328.m3u8",
-      "yt": null
-    },
-    {
-      "name": "WARNER BROS",
-      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Warner_TV.png",
-      "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=373313.m3u8",
-      "yt": null
-    },
-    {
-      "name": "WARNERTV",
-      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/800px-Warner2018LA.png",
-      "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=383028.m3u8",
-      "yt": null
-    },
-    {
-      "name": "HBO",
-      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/HBO_logo.svg.png",
-      "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=383026.m3u8",
-      "yt": null
-    },
-    {
-      "name": "HBO RED",
-      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/HBOred.png",
-      "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=383025.m3u8",
-      "yt": null
-    },
-    {
-      "name": "TVN MOVIES",
-      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/tvnmovies.png",
-      "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=383024.m3u8",
       "yt": null
     },
     {
@@ -2390,13 +2327,6 @@
       "yt": null
     },
     {
-      "name": "KIX HD",
-      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/KIX HD.png",
-      "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=901310.m3u8",
-      "yt": null
-    },
-    {
       "name": "TAP ACTION FLIX HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/TAP ACTION FLIX HD.png",
       "cat": "Test Channels",
@@ -2404,24 +2334,59 @@
       "yt": null
     },
     {
-      "name": "TAP MOVIES HD",
-      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/TAP MOVIES HD.png",
+      "name": "Tamil Classic Cinema HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/CLASSIC CINEMA.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=901292.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=734182.m3u8",
       "yt": null
     },
     {
-      "name": "VIVA CINEMA HD",
-      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/VIVA CINEMA HD.png",
+      "name": "Tamil Top 250 Movies HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/TOP 250 MOVIES.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=901283.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=734186.m3u8",
       "yt": null
     },
     {
-      "name": "ZEE CINEMA",
-      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/SINGAPORE/ZEE CINEMA.png",
+      "name": "Tamil Comedy Cinema HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/COMEDY CINEMA 3.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=383538.m3u8",
+      "stream": "https://youmad.shop/mc.php?id=734167.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Hindi Classic Cinema HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/CINEMA.png",
+      "cat": "Test Channels",
+      "stream": "https://youmad.shop/mc.php?id=733731.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Hindi Movie Cinema HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/CINEMA.png",
+      "cat": "Test Channels",
+      "stream": "https://youmad.shop/mc.php?id=733660.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Hindi Horror Cinema HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/CINEMA.png",
+      "cat": "Test Channels",
+      "stream": "https://youmad.shop/mc.php?id=733676.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Hindi Dubbed Movies HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/DUBBED 1 HD.png",
+      "cat": "Test Channels",
+      "stream": "https://youmad.shop/mc.php?id=734222.m3u8",
+      "yt": null
+    },
+    {
+      "name": "Animated Cinema HD",
+      "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/CINEMA.png",
+      "cat": "Test Channels",
+      "stream": "https://youmad.shop/mc.php?id=733677.m3u8",
       "yt": null
     }
   ]
