@@ -137,7 +137,7 @@
       "name": "BBC News",
       "logo": "",
       "cat": "News",
-      "stream": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
+      "stream": "https://playztvapps.shop/nefl.php?id=901242.m3u8",
       "yt": null
     },
     {
@@ -228,7 +228,7 @@
       "name": "News Max 2",
       "logo": "",
       "cat": "News",
-      "stream": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=372689.m3u8",
       "yt": null
     },
     {
@@ -803,7 +803,7 @@
       "name": "Star Movies HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
       "cat": "Movies",
-      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281644&extension=m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=373304.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFHbHBhV2xwYVdscGFRIiwiayI6IjgyNWMxSUpTdk5EODJpdi1JZld6WlEifV19"
     },
@@ -811,7 +811,7 @@
       "name": "Star Movies Select HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
       "cat": "Movies",
-      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281644&extension=m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=373320.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYTJscGFRIiwiayI6ImF4YU50SkpCcDR3YlFqcTVvcFFKN3cifV19"
     },
@@ -826,7 +826,7 @@
       "name": "MAX 2",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max2.png",
       "cat": "Movies",
-      "stream": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+      "stream": "https://playztvapps.shop/nefl.php?id=372689.m3u8",
       "yt": null
     }
   ],
@@ -1248,7 +1248,7 @@
       "name": "Nat Geo Wild HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
       "cat": "Documentary",
-      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281340&extension=m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=373018.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2hwYVc1cGFXbHBhV2xwYVdscGFRIiwiayI6IndtZDhoMGlHNTQwa3NfdGxiRmMwNEEifV19"
     },
@@ -1256,7 +1256,7 @@
       "name": "Animal Planet HD English (JioTV)",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
       "cat": "Documentary",
-      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281315&extension=m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=944624.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJxdjBHZnB3LVVNU3lYQ09UYzdraEF3IiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
     }
@@ -1420,7 +1420,7 @@
       "name": "Sony Yay",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_YAY.png",
       "cat": "Kids",
-      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281301&extension=m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=373067.m3u8",
       "yt": null
     }
   ],
@@ -1655,7 +1655,7 @@
       "name": "Star Sports 1 HD (1080p)",
       "logo": null,
       "cat": "Sports",
-      "stream": "http://starhub.pro:80/live/farhat-3379/67897-913379/148.ts",
+      "stream": "https://playztvapps.shop/nefl.php?id=373207.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -1663,10 +1663,10 @@
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJsbDNDM2JIWVVUaXRlSG1acF9NTXBRIiwiayI6ImhaYVZCMjVuX3BZWU5yVmsyMjFvbkEifV19"
     },
     {
-      "name": "Star Sports 2 HD (1080p)",
+      "name": "Ten Sports HD",
       "logo": null,
       "cat": "Sports",
-      "stream": "http://starhub.pro:80/live/farhat-3379/67897-913379/239.ts",
+      "stream": "https://playztvapps.shop/nefl.php?id=809396.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -1727,7 +1727,7 @@
       "name": "beIN Max 2 (HLS)",
       "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
       "cat": "Sports",
-      "stream": "https://tmaxapp.site/beinmax2.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=372689.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -2249,7 +2249,7 @@
       "name": "Sony Ten 1 HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
       "cat": "Sports",
-      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=807928&extension=m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=373200.m3u8",
       "yt": null
     },
     {
@@ -2263,50 +2263,7 @@
       "m3u_referer": null
     }
   ],
-  "Malayalam": [
-    {
-      "name": "Pogo Malayalam",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",
-      "cat": "Malayalam",
-      "stream": "http://103.180.212.191:3500/live/3033.m3u8",
-      "yt": null
-    },
-    {
-      "name": "Cartoon Network Malayalam",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",
-      "cat": "Malayalam",
-      "stream": "http://103.180.212.191:3500/live/3036.m3u8",
-      "yt": null
-    },
-    {
-      "name": "Discovery Kids Malayalam",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",
-      "cat": "Malayalam",
-      "stream": "http://103.180.212.191:3500/live/3448.m3u8",
-      "yt": null
-    },
-    {
-      "name": "Nick Malayalam",
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Malayalam.png",
-      "cat": "Malayalam",
-      "stream": "http://103.180.212.191:3500/live/1340.m3u8",
-      "yt": null
-    },
-    {
-      "name": "Sonic Malayalam",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png",
-      "cat": "Malayalam",
-      "stream": "http://103.180.212.191:3500/live/1344.m3u8",
-      "yt": null
-    },
-    {
-      "name": "Discovery HD Malayalam",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDMal.png",
-      "cat": "Malayalam",
-      "stream": "http://103.180.212.191:3500/live/3431.m3u8",
-      "yt": null
-    }
-  ],
+  "Malayalam": [],
   "Test Channels": [
     {
       "name": "AND FLIX HD",

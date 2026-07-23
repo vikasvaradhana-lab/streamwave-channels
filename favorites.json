@@ -1,26 +1,22 @@
 [
   {
-    "name": "Malayalam TS Cinema",
+    "name": "Sony Max HD",
     "country": "IN",
     "cat": "Movies",
-    "logo": "http://picon.tivi-ott.net:25461/picon/MALAYALAM/1200px-Asianet_Logo.svg.png",
-    "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=1118178&extension=m3u8|user-agent=andriod",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+    "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20Max%20HD.m3u8",
     "yt": null
   },
   {
-    "name": "Hotstar",
-    "country": "IN",
-    "cat": "Entertainment",
-    "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png",
-    "stream": "https://playztvapps.shop/nefl.php?id=734049.m3u8",
+    "name": "BBC Earth",
+    "country": "UK",
+    "stream": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
     "yt": null
   },
   {
-    "name": "SRK Movies",
-    "country": "IN",
-    "cat": "Movies",
-    "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SHAHRUKH KHAN HD.png",
-    "stream": "https://playztvapps.shop/nefl.php?id=733947.m3u8",
+    "name": "Tastemade",
+    "country": "US",
+    "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
     "yt": null
   },
   {
@@ -189,16 +185,16 @@
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "http://starhub.pro:80/live/farhat-3379/67897-913379/148.ts",
+    "stream": "https://playztvapps.shop/nefl.php?id=373207.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJsbDNDM2JIWVVUaXRlSG1acF9NTXBRIiwiayI6ImhaYVZCMjVuX3BZWU5yVmsyMjFvbkEifV19"
   },
   {
-    "name": "Star Sports 2 HD",
+    "name": "Ten Sports HD",
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "http://starhub.pro:80/live/farhat-3379/67897-913379/239.ts",
+    "stream": "https://playztvapps.shop/nefl.php?id=809396.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJsRmZya0JLVVZ2cU9xVjRRdWtyRkhnIiwiayI6IjVpQ3BjTTZrZE1TUnJIaXVjYVRYWkEifV19"
   },
@@ -207,7 +203,7 @@
     "country": "IN",
     "cat": "Sports",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=807928&extension=m3u8",
+    "stream": "https://playztvapps.shop/nefl.php?id=373200.m3u8",
     "yt": null
   },
   {
@@ -225,7 +221,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
-    "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281644&extension=m3u8",
+    "stream": "https://playztvapps.shop/nefl.php?id=373304.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFHbHBhV2xwYVdscGFRIiwiayI6IjgyNWMxSUpTdk5EODJpdi1JZld6WlEifV19"
   },
@@ -234,7 +230,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
-    "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281644&extension=m3u8",
+    "stream": "https://playztvapps.shop/nefl.php?id=373320.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYTJscGFRIiwiayI6ImF4YU50SkpCcDR3YlFqcTVvcFFKN3cifV19"
   },
@@ -243,7 +239,7 @@
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
-    "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281340&extension=m3u8",
+    "stream": "https://playztvapps.shop/nefl.php?id=373018.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2hwYVc1cGFXbHBhV2xwYVdscGFRIiwiayI6IndtZDhoMGlHNTQwa3NfdGxiRmMwNEEifV19"
   },
@@ -252,15 +248,9 @@
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
-    "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281315&extension=m3u8",
+    "stream": "https://playztvapps.shop/nefl.php?id=944624.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJxdjBHZnB3LVVNU3lYQ09UYzdraEF3IiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
-  },
-  {
-    "name": "BBC Earth",
-    "country": "UK",
-    "stream": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
-    "yt": null
   },
   {
     "name": "Republic World",
@@ -354,9 +344,15 @@
     "yt": null
   },
   {
+    "name": "Discovery_Asia HD",
+    "country": "IN",
+    "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
+    "yt": null
+  },
+  {
     "name": "BBC News",
     "country": "UK",
-    "stream": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
+    "stream": "https://playztvapps.shop/nefl.php?id=901242.m3u8",
     "yt": null
   },
   {
@@ -369,12 +365,6 @@
     "name": "Sky News",
     "country": "UK",
     "stream": "https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8",
-    "yt": null
-  },
-  {
-    "name": "Discovery_Asia HD",
-    "country": "IN",
-    "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
     "yt": null
   },
   {
@@ -420,12 +410,6 @@
     "country": "US",
     "logo": "https://business.insight.tv/wp-content/uploads/7521/01/Insight-TV-Logo-small-150x150.png",
     "stream": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
-    "yt": null
-  },
-  {
-    "name": "Tastemade",
-    "country": "US",
-    "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
     "yt": null
   },
   {
@@ -623,48 +607,6 @@
     "yt": null
   },
   {
-    "name": "Pogo Malayalam",
-    "country": "IN",
-    "stream": "http://103.180.212.191:3500/live/3033.m3u8",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",
-    "yt": null
-  },
-  {
-    "name": "Cartoon Network Malayalam",
-    "country": "IN",
-    "stream": "http://103.180.212.191:3500/live/3036.m3u8",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",
-    "yt": null
-  },
-  {
-    "name": "Discovery Kids Malayalam",
-    "country": "IN",
-    "stream": "http://103.180.212.191:3500/live/3448.m3u8",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",
-    "yt": null
-  },
-  {
-    "name": "Nick Malayalam",
-    "country": "IN",
-    "stream": "http://103.180.212.191:3500/live/1340.m3u8",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Malayalam.png",
-    "yt": null
-  },
-  {
-    "name": "Sonic Malayalam",
-    "country": "IN",
-    "stream": "http://103.180.212.191:3500/live/1344.m3u8",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png",
-    "yt": null
-  },
-  {
-    "name": "Discovery HD Malayalam",
-    "country": "IN",
-    "stream": "http://103.180.212.191:3500/live/3431.m3u8",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDMal.png",
-    "yt": null
-  },
-  {
     "name": "SET HD",
     "country": "IN",
     "cat": "Entertainment",
@@ -681,19 +623,11 @@
     "yt": null
   },
   {
-    "name": "Sony Max HD",
-    "country": "IN",
-    "cat": "Movies",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
-    "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20Max%20HD.m3u8",
-    "yt": null
-  },
-  {
     "name": "MAX 2",
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max2.png",
-    "stream": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=st=1784369415~exp=1784369715~acl=*~id=84ab6ddc-57c7-4ad0-9a8e-b17a572e413d~hmac=447940a83e2d6c56e2cd8df96650bff6ae636cb03c0c53eb3fc36387bd8f3d31",
+    "stream": "https://playztvapps.shop/nefl.php?id=372689.m3u8",
     "yt": null
   },
   {
@@ -709,7 +643,7 @@
     "country": "IN",
     "cat": "Kids",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_YAY.png",
-    "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281301&extension=m3u8",
+    "stream": "https://playztvapps.shop/nefl.php?id=373067.m3u8",
     "yt": null
   },
   {
