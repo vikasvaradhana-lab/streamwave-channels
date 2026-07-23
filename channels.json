@@ -639,11 +639,11 @@
   ],
   "Movies": [
     {
-      "name": "Tata Sky Cinema",
+      "name": "Malayalam TS Cinema",
       "country": "IN",
       "cat": "Movies",
       "logo": "http://picon.tivi-ott.net:25461/picon/MALAYALAM/1200px-Asianet_Logo.svg.png",
-      "stream": "https://playztvapps.shop/nefl.php?id=734186.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=1118178&extension=m3u8|user-agent=andriod",
       "yt": null
     },
     {
@@ -1475,7 +1475,7 @@
       "name": "Sony Sports 1 HD 🇮🇳",
       "logo": "",
       "cat": "Sports",
-      "stream": "https://youmad.shop/mc.php?id=373200.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=373200.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -1677,7 +1677,7 @@
       "name": "Sony Sports 2 HD 🇮🇳",
       "logo": null,
       "cat": "Sports",
-      "stream": "https://youmad.shop/mc.php?id=373199.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=373199.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -1687,7 +1687,7 @@
       "name": "Sony Sports 5 HD 🇮🇳",
       "logo": null,
       "cat": "Sports",
-      "stream": "https://youmad.shop/mc.php?id=373196.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=373196.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -2189,7 +2189,7 @@
       "name": "Sony Sports 3 HD",
       "logo": null,
       "cat": "Sports",
-      "stream": "https://youmad.shop/mc.php?id=373198.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=373198.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -2256,7 +2256,7 @@
       "name": "Sony Ten 5 HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
       "cat": "Sports",
-      "stream": "https://youmad.shop/mc.php?id=373196.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=373196.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -2312,105 +2312,105 @@
       "name": "AND FLIX HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/flix-logo_2.png.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=373343.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=373343.m3u8",
       "yt": null
     },
     {
       "name": "MNX HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/MNX_new_logo.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=373329.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=373329.m3u8",
       "yt": null
     },
     {
       "name": "MOVIES NOW HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Movies_Now_HD.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=373328.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=373328.m3u8",
       "yt": null
     },
     {
       "name": "AXN HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/AXN HD.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=901326.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=901326.m3u8",
       "yt": null
     },
     {
       "name": "CINEMA ONE GLOBAL",
       "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/CINEMA ONE GLOBAL.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=901329.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=901329.m3u8",
       "yt": null
     },
     {
       "name": "HITS Movies",
       "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/HITS Movies.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=901313.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=901313.m3u8",
       "yt": null
     },
     {
       "name": "TAP ACTION FLIX HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/TAP ACTION FLIX HD.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=901294.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=901294.m3u8",
       "yt": null
     },
     {
       "name": "Tamil Classic Cinema HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/CLASSIC CINEMA.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=734182.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=734182.m3u8",
       "yt": null
     },
     {
       "name": "Tamil Top 250 Movies HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/TOP 250 MOVIES.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=734186.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=734186.m3u8",
       "yt": null
     },
     {
       "name": "Tamil Comedy Cinema HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/COMEDY CINEMA 3.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=734167.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=734167.m3u8",
       "yt": null
     },
     {
       "name": "Hindi Classic Cinema HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/CINEMA.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=733731.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=733731.m3u8",
       "yt": null
     },
     {
       "name": "Hindi Movie Cinema HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/CINEMA.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=733660.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=733660.m3u8",
       "yt": null
     },
     {
       "name": "Hindi Horror Cinema HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/CINEMA.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=733676.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=733676.m3u8",
       "yt": null
     },
     {
       "name": "Hindi Dubbed Movies HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/DUBBED 1 HD.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=734222.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=734222.m3u8",
       "yt": null
     },
     {
       "name": "Animated Cinema HD",
       "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/CINEMA.png",
       "cat": "Test Channels",
-      "stream": "https://youmad.shop/mc.php?id=733677.m3u8",
+      "stream": "https://playztvapps.shop/nefl.php?id=733677.m3u8",
       "yt": null
     }
   ]
