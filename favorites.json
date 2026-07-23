@@ -4,7 +4,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "http://picon.tivi-ott.net:25461/picon/MALAYALAM/1200px-Asianet_Logo.svg.png",
-    "stream": "https://ads-27727.icu/sf/play.php?id=119",
+    "stream": "http://103.175.73.12:8080/live/271/master.m3u8",
     "yt": null
   },
   {
@@ -12,7 +12,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png",
-    "stream": "https://ads-27727.icu/sf/play.php?id=102",
+    "stream": "https://cdn-7.pishow.tv/live/1129/master.m3u8",
     "yt": null
   },
   {
@@ -20,13 +20,13 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SHAHRUKH KHAN HD.png",
-    "stream": "https://ads-27727.icu/sf/play.php?id=147",
+    "stream": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
     "yt": null
   },
   {
     "name": "Kochu TV",
     "country": "IN",
-    "stream": "https://ads-27727.icu/sf/play.php?id=12731",
+    "stream": "http://103.175.73.12:8080/live/697/master.m3u8",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",
     "yt": null
   },
@@ -43,7 +43,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://i.imgur.com/cps67hs.png",
-    "stream": "https://ads-27727.icu/sf/play.php?id=12731",
+    "stream": "http://103.175.73.12:8080/live/697/master.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhYmxwYVdscGFXbHBhV2xwYVdscGFRIiwiayI6IjFaSlNEdW8yRlFlbVBKU185NW5mdGcifV19"
   },
@@ -69,7 +69,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://i.imgur.com/Wv7MOzg.png",
-    "stream": "https://ads-27727.icu/sf/play.php?id=997",
+    "stream": "http://103.175.73.12:8080/live/697/master.m3u8",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdocGFhbHBhV2xwYVdscGFRIiwiayI6Ing3ak9Ham9rNHZtMDBTU2RCQlZjU1EifV19"
   },
