@@ -1,20 +1,26 @@
 [
   {
-    "name": "In the Kitchen",
-    "country": "US",
-    "stream": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8",
+    "name": "Tata Sky Cinema",
+    "country": "IN",
+    "cat": "Movies",
+    "logo": "http://picon.tivi-ott.net:25461/picon/MALAYALAM/1200px-Asianet_Logo.svg.png",
+    "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=734186&extension=m3u8",
     "yt": null
   },
   {
-    "name": "INWILD",
-    "country": "UK",
-    "stream": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+    "name": "Hotstar",
+    "country": "IN",
+    "cat": "Entertainment",
+    "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png",
+    "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=734049&extension=m3u8",
     "yt": null
   },
   {
-    "name": "China Travel",
-    "country": "CN",
-    "stream": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+    "name": "SRK Movies",
+    "country": "IN",
+    "cat": "Movies",
+    "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SHAHRUKH KHAN HD.png",
+    "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=733947&extension=m3u8",
     "yt": null
   },
   {
@@ -391,6 +397,12 @@
     "yt": null
   },
   {
+    "name": "INWILD",
+    "country": "UK",
+    "stream": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+    "yt": null
+  },
+  {
     "name": "Adventure Earth",
     "country": "DE",
     "stream": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
@@ -414,6 +426,12 @@
     "name": "Tastemade",
     "country": "US",
     "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "In the Kitchen",
+    "country": "US",
+    "stream": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8",
     "yt": null
   },
   {
@@ -584,6 +602,12 @@
     "country": "IN",
     "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",
     "stream": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+    "yt": null
+  },
+  {
+    "name": "China Travel",
+    "country": "CN",
+    "stream": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
     "yt": null
   },
   {

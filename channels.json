@@ -348,6 +348,14 @@
   ],
   "Entertainment": [
     {
+      "name": "Hotstar",
+      "country": "IN",
+      "cat": "Entertainment",
+      "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SERIES.png",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=734049&extension=m3u8",
+      "yt": null
+    },
+    {
       "name": "Asianet SD (JioTV)",
       "logo": "https://i.imgur.com/Wv7MOzg.png",
       "cat": "Entertainment",
@@ -630,6 +638,22 @@
     }
   ],
   "Movies": [
+    {
+      "name": "Tata Sky Cinema",
+      "country": "IN",
+      "cat": "Movies",
+      "logo": "http://picon.tivi-ott.net:25461/picon/MALAYALAM/1200px-Asianet_Logo.svg.png",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=734186&extension=m3u8",
+      "yt": null
+    },
+    {
+      "name": "SRK Movies",
+      "country": "IN",
+      "cat": "Movies",
+      "logo": "http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA PREMIUM/SHAHRUKH KHAN HD.png",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=733947&extension=m3u8",
+      "yt": null
+    },
     {
       "name": "Asianet Movies SD (JioTV)",
       "logo": "https://i.imgur.com/cps67hs.png",
