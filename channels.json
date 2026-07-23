@@ -351,7 +351,7 @@
       "name": "Asianet SD (JioTV)",
       "logo": "https://i.imgur.com/Wv7MOzg.png",
       "cat": "Entertainment",
-      "stream": "https://youmad.shop/mc.php?id=373404.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281732&extension=m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdocGFhbHBhV2xwYVdscGFRIiwiayI6Ing3ak9Ham9rNHZtMDBTU2RCQlZjU1EifV19"
     },
@@ -359,7 +359,7 @@
       "name": "Asianet Plus SD (JioTV)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
       "cat": "Entertainment",
-      "stream": "https://youmad.shop/mc.php?id=373396.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281735&extension=m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFlbHBhV2xwYVdscGFRIiwiayI6IlRMdVZTUzU3TkNwM0tJUHlJU1F4SncifV19"
     },
@@ -611,21 +611,21 @@
       "name": "SET HD",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SET_HD.png",
       "cat": "Entertainment",
-      "stream": "https://youmad.shop/mc.php?id=943926.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=882210&extension=m3u8",
       "yt": null
     },
     {
       "name": "SAB HD",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
       "cat": "Entertainment",
-      "stream": "https://youmad.shop/mc.php?id=944604.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281265&extension=m3u8",
       "yt": null
     },
     {
       "name": "Sony Pal",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
       "cat": "Entertainment",
-      "stream": "https://youmad.shop/mc.php?id=373069.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281299&extension=m3u8",
       "yt": null
     }
   ],
@@ -779,7 +779,7 @@
       "name": "Star Movies HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
       "cat": "Movies",
-      "stream": "https://youmad.shop/mc.php?id=373304.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281644&extension=m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFHbHBhV2xwYVdscGFRIiwiayI6IjgyNWMxSUpTdk5EODJpdi1JZld6WlEifV19"
     },
@@ -787,7 +787,7 @@
       "name": "Star Movies Select HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
       "cat": "Movies",
-      "stream": "https://youmad.shop/mc.php?id=373320.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281644&extension=m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYTJscGFRIiwiayI6ImF4YU50SkpCcDR3YlFqcTVvcFFKN3cifV19"
     },
@@ -795,7 +795,7 @@
       "name": "Sony Max HD",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
       "cat": "Movies",
-      "stream": "https://youmad.shop/mc.php?id=373074.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281263&extension=m3u8",
       "yt": null
     },
     {
@@ -1031,7 +1031,7 @@
       "name": "Sony Wah",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
       "cat": "Music",
-      "stream": "https://youmad.shop/mc.php?id=944607.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281300&extension=m3u8",
       "yt": null
     }
   ],
@@ -1224,7 +1224,7 @@
       "name": "Nat Geo Wild HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
       "cat": "Documentary",
-      "stream": "https://youmad.shop/mc.php?id=373325.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281340&extension=m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2hwYVc1cGFXbHBhV2xwYVdscGFRIiwiayI6IndtZDhoMGlHNTQwa3NfdGxiRmMwNEEifV19"
     },
@@ -1232,7 +1232,7 @@
       "name": "Animal Planet HD English (JioTV)",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
       "cat": "Documentary",
-      "stream": "https://youmad.shop/mc.php?id=373327.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281315&extension=m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJxdjBHZnB3LVVNU3lYQ09UYzdraEF3IiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
     }
@@ -1340,7 +1340,7 @@
       "name": "Kochu TV",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",
       "cat": "Kids",
-      "stream": "https://youmad.shop/mc.php?id=373401.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281745&extension=m3u8",
       "yt": null
     },
     {
@@ -1396,7 +1396,7 @@
       "name": "Sony Yay",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_YAY.png",
       "cat": "Kids",
-      "stream": "https://youmad.shop/mc.php?id=373067.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=281301&extension=m3u8",
       "yt": null
     }
   ],
@@ -2225,7 +2225,7 @@
       "name": "Sony Ten 1 HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
       "cat": "Sports",
-      "stream": "https://youmad.shop/mc.php?id=373200.m3u8",
+      "stream": "http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=807928&extension=m3u8",
       "yt": null
     },
     {
