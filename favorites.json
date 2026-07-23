@@ -199,11 +199,11 @@
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJsRmZya0JLVVZ2cU9xVjRRdWtyRkhnIiwiayI6IjVpQ3BjTTZrZE1TUnJIaXVjYVRYWkEifV19"
   },
   {
-    "name": "Sony Ten 1 HD",
+    "name": "Unite8 Sports 1 HD",
     "country": "IN",
     "cat": "Sports",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "stream": "https://playztvapps.shop/nefl.php?id=373200.m3u8",
+    "stream": "http://starhub.pro:80/live/farhat-3379/67897-913379/741567.ts",
     "yt": null
   },
   {
