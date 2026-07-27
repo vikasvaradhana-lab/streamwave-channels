@@ -22,7 +22,7 @@
   {
     "name": "Kochu TV",
     "country": "IN",
-    "stream": "https://ads-27727.icu/un.php?id=373401.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=373401.m3u8|user-agent=andriod",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",
     "yt": null
   },
@@ -39,7 +39,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://i.imgur.com/cps67hs.png",
-    "stream": "https://ads-27727.icu/un.php?id=373397.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=373397.m3u8|user-agent=andriod",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhYmxwYVdscGFXbHBhV2xwYVdscGFRIiwiayI6IjFaSlNEdW8yRlFlbVBKU185NW5mdGcifV19"
   },
@@ -48,7 +48,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
-    "stream": "https://ads-27727.icu/un.php?id=373396.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=373396.m3u8|user-agent=andriod",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFlbHBhV2xwYVdscGFRIiwiayI6IlRMdVZTUzU3TkNwM0tJUHlJU1F4SncifV19"
   },
@@ -65,7 +65,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://i.imgur.com/Wv7MOzg.png",
-    "stream": "https://ads-27727.icu/un.php?id=373404.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=373404.m3u8|user-agent=andriod",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdocGFhbHBhV2xwYVdscGFRIiwiayI6Ing3ak9Ham9rNHZtMDBTU2RCQlZjU1EifV19"
   },
@@ -185,7 +185,7 @@
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "https://ads-27727.icu/un.php?id=373207.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=373207.m3u8|user-agent=andriod",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJsbDNDM2JIWVVUaXRlSG1acF9NTXBRIiwiayI6ImhaYVZCMjVuX3BZWU5yVmsyMjFvbkEifV19"
   },
@@ -194,7 +194,7 @@
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "https://ads-27727.icu/un.php?id=809396.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=809396.m3u8|user-agent=andriod",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJsRmZya0JLVVZ2cU9xVjRRdWtyRkhnIiwiayI6IjVpQ3BjTTZrZE1TUnJIaXVjYVRYWkEifV19"
   },
@@ -203,12 +203,12 @@
     "country": "IN",
     "cat": "Sports",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "stream": "https://ads-27727.icu/un.php?id=809383.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=809383.m3u8|user-agent=andriod",
     "yt": null
   },
   {
     "name": "Unite8 Sports 2 HD",
-    "stream": "https://ads-27727.icu/un.php?id=809384.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=809384.m3u8|user-agent=andriod",
     "cat": "Sports",
     "country": "IN"
   },
@@ -216,7 +216,7 @@
     "name": "Sony Ten 5 HD",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
     "cat": "Sports",
-    "stream": "https://ads-27727.icu/un.php?id=373196.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=373196.m3u8|user-agent=andriod",
     "yt": null,
     "m3u_source": null,
     "m3u_match": null,
@@ -227,7 +227,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
-    "stream": "https://ads-27727.icu/un.php?id=373304.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=373304.m3u8|user-agent=andriod",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFHbHBhV2xwYVdscGFRIiwiayI6IjgyNWMxSUpTdk5EODJpdi1JZld6WlEifV19"
   },
@@ -236,7 +236,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
-    "stream": "https://ads-27727.icu/un.php?id=373320.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=373320.m3u8|user-agent=andriod",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYTJscGFRIiwiayI6ImF4YU50SkpCcDR3YlFqcTVvcFFKN3cifV19"
   },
@@ -245,7 +245,7 @@
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
-    "stream": "https://ads-27727.icu/un.php?id=373018.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=373018.m3u8|user-agent=andriod",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2hwYVc1cGFXbHBhV2xwYVdscGFRIiwiayI6IndtZDhoMGlHNTQwa3NfdGxiRmMwNEEifV19"
   },
@@ -254,7 +254,7 @@
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
-    "stream": "https://ads-27727.icu/un.php?id=944624.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=944624.m3u8|user-agent=andriod",
     "yt": null,
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJxdjBHZnB3LVVNU3lYQ09UYzdraEF3IiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
   },
@@ -358,7 +358,7 @@
   {
     "name": "BBC News",
     "country": "UK",
-    "stream": "https://ads-27727.icu/un.php?id=901242.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=901242.m3u8|user-agent=andriod",
     "yt": null
   },
   {
@@ -530,7 +530,7 @@
   {
     "name": "YTV",
     "country": "CA",
-    "stream": "https://ads-27727.icu/un.php?id=1646811.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=1646811.m3u8|user-agent=andriod",
     "yt": null
   },
   {
@@ -633,7 +633,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max2.png",
-    "stream": "https://ads-27727.icu/un.php?id=372689.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=372689.m3u8|user-agent=andriod",
     "yt": null
   },
   {
@@ -649,7 +649,7 @@
     "country": "IN",
     "cat": "Kids",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_YAY.png",
-    "stream": "https://ads-27727.icu/un.php?id=373067.m3u8",
+    "stream": "https://ads-27727.icu/un.php?id=373067.m3u8|user-agent=andriod",
     "yt": null
   },
   {
