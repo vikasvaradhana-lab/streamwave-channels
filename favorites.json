@@ -199,24 +199,24 @@
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJsRmZya0JLVVZ2cU9xVjRRdWtyRkhnIiwiayI6IjVpQ3BjTTZrZE1TUnJIaXVjYVRYWkEifV19"
   },
   {
-    "name": "Unite8 Sports 1 HD",
+    "name": "Willow TV HD",
     "country": "IN",
     "cat": "Sports",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "stream": "https://ads-27727.icu/un.php?id=809383.m3u8|user-agent=andriod",
+    "stream": "https://ads-27727.icu/un.php?id=809386.m3u8|user-agent=andriod",
     "yt": null
   },
   {
-    "name": "Unite8 Sports 2 HD",
+    "name": "Star Sports 2 HD",
     "stream": "https://ads-27727.icu/un.php?id=809384.m3u8|user-agent=andriod",
     "cat": "Sports",
     "country": "IN"
   },
   {
-    "name": "Sony Ten 5 HD",
+    "name": "Willow 2 HD",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
     "cat": "Sports",
-    "stream": "https://ads-27727.icu/un.php?id=373196.m3u8|user-agent=andriod",
+    "stream": "https://ads-27727.icu/un.php?id=809387.m3u8|user-agent=andriod",
     "yt": null,
     "m3u_source": null,
     "m3u_match": null,
