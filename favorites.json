@@ -661,48 +661,21 @@
     "yt": null
   },
   {
-    "name": "ZDF",
-    "country": "DE",
-    "cat": "German",
-    "folder": "German",
-    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZDFHD.png",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125735|user-agent=andriod",
-    "yt": null
-  },
-  {
-    "name": "ZDF Info",
-    "country": "DE",
-    "cat": "German",
-    "folder": "German",
-    "logo": null,
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125736|user-agent=andriod",
-    "yt": null
-  },
-  {
-    "name": "ZDF Neo",
-    "country": "DE",
-    "cat": "German",
-    "folder": "German",
-    "logo": null,
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125737|user-agent=andriod",
-    "yt": null
-  },
-  {
     "name": "KiKa",
     "country": "DE",
     "cat": "German",
     "folder": "German",
     "logo": "http://picon.tivi-ott.net:25461/picon/GERMANY/KIKA.png",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125670|user-agent=andriod",
+    "stream": "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
     "yt": null
   },
   {
-    "name": "ARD Alpha",
+    "name": "Das Erste",
     "country": "DE",
     "cat": "German",
     "folder": "German",
     "logo": null,
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125680|user-agent=andriod",
+    "stream": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
     "yt": null
   },
   {
@@ -784,6 +757,78 @@
     "folder": "German",
     "logo": null,
     "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125649|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "ZDF",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZDFHD.png",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125735|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "ZDF Info",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125736|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "ZDF Neo",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125737|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "ARD Alpha",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125680|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "ZDF (subtitles)",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZDFHD.png",
+    "stream": "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "ZDF Info (subtitles)",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "ZDF Neo (subtitles)",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "ARD Alpha (subtitles)",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
     "yt": null
   }
 ]
