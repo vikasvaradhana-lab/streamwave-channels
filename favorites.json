@@ -661,6 +661,51 @@
     "yt": null
   },
   {
+    "name": "ZDF",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZDFHD.png",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125735|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "ZDF Info",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125736|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "ZDF Neo",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125737|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "KiKa",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": "http://picon.tivi-ott.net:25461/picon/GERMANY/KIKA.png",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125670|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "ARD Alpha",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125680|user-agent=andriod",
+    "yt": null
+  },
+  {
     "name": "News Channel DE",
     "country": "DE",
     "cat": "German",
