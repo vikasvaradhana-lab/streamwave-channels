@@ -661,6 +661,15 @@
     "yt": null
   },
   {
+    "name": "News Channel DE",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125746|user-agent=andriod",
+    "yt": null
+  },
+  {
     "name": "Cartoon Network DE",
     "country": "DE",
     "cat": "German",
@@ -676,6 +685,60 @@
     "folder": "German",
     "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/CNHD.png",
     "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125665|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "Nickelodeon DE",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/NICKHD.png",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125672|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "Disney HD",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/DISNEYHD.png",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125667|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "Kinowelt HD",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125748|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "Max Select",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125749|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "Max Select 2",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125750|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "Sky Sports DE",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125649|user-agent=andriod",
     "yt": null
   }
 ]
