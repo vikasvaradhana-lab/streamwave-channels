@@ -259,12 +259,6 @@
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJxdjBHZnB3LVVNU3lYQ09UYzdraEF3IiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
   },
   {
-    "name": "Discovery_Asia HD",
-    "country": "IN",
-    "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
-    "yt": null
-  },
-  {
     "name": "Republic World",
     "country": "IN",
     "stream": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8",
@@ -396,6 +390,12 @@
     "name": "INWILD",
     "country": "UK",
     "stream": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Discovery_Asia HD",
+    "country": "IN",
+    "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
     "yt": null
   },
   {
