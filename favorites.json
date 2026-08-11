@@ -1,10 +1,10 @@
 [
   {
-    "name": "Sony Max HD",
+    "name": "Zee Cinema HD",
     "country": "IN",
     "cat": "Movies",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
-    "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20Max%20HD.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
+    "stream": "https://xfireflix.my.id/fm.php?id=735399.m3u8|user-agent=andriod",
     "yt": null
   },
   {
