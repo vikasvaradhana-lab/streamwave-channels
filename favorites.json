@@ -259,6 +259,12 @@
     "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJxdjBHZnB3LVVNU3lYQ09UYzdraEF3IiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
   },
   {
+    "name": "Discovery_Asia HD",
+    "country": "IN",
+    "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
+    "yt": null
+  },
+  {
     "name": "Republic World",
     "country": "IN",
     "stream": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8",
@@ -347,12 +353,6 @@
     "name": "DD India",
     "country": "IN",
     "stream": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8",
-    "yt": null
-  },
-  {
-    "name": "Discovery_Asia HD",
-    "country": "IN",
-    "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
     "yt": null
   },
   {
@@ -658,6 +658,51 @@
     "cat": "Music",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
     "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20Wah.m3u8",
+    "yt": null
+  },
+  {
+    "name": "SR Fernsehen",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8",
+    "yt": null
+  },
+  {
+    "name": "BR Fernsehen Süd",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "WDR Fernsehen",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "ARD-alpha",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
+    "yt": null
+  },
+  {
+    "name": "NDR Fernsehen International",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": null,
+    "stream": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
     "yt": null
   },
   {
