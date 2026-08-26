@@ -1,23 +1,29 @@
 [
   {
-    "name": "Zee Cinema HD",
+    "name": "KTV HD",
     "country": "IN",
     "cat": "Movies",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-    "stream": "https://alex4528.site/zee5/zee-cinema-hd/manifest.m3u8|user-agent=andriod",
+    "logo": "https://sund-images.sunnxt.com/194405/640x360_KTVHD_194405_3c6880f0-468e-48f4-b09a-89fd5fed775d.jpg",
+    "stream": "https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJOUjVVYzVHN1JjdXnadExMbnNEQ2xBIiwiayI6Ik85WkdkVDlKQS03anRBUmtiSGdaMHcifV19"
+  },
+  {
+    "name": "Hindi Movies 3",
+    "country": "IN",
+    "cat": "Movies",
+    "logo": "",
+    "stream": "https://vods2.aynaott.com/hindimovies/index.m3u8",
     "yt": null
   },
   {
-    "name": "BBC Earth",
-    "country": "UK",
-    "stream": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
-    "yt": null
-  },
-  {
-    "name": "Tastemade",
-    "country": "US",
-    "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
-    "yt": null
+    "name": "Udaya Movies",
+    "country": "IN",
+    "cat": "Movies",
+    "logo": "https://sund-images.sunnxt.com/194386/640x360_UdayaMovies_194386_429c7b3b-44a9-4328-8be3-645621c6e167.jpg",
+    "stream": "https://livestream.sunnxt.com/1c02547243c041eea5dab1c343018e90/UdayaMoviesB_IN_index.mpd",
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJ0TnZfdFJlQ1J6S3BWY29DM1dxczJRIiwiayI6Imc4S3FLVVpETHgzdGZBU2Vfbm4tN3cifV19"
   },
   {
     "name": "Kochu TV",
@@ -393,6 +399,12 @@
     "yt": null
   },
   {
+    "name": "BBC Earth",
+    "country": "UK",
+    "stream": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+    "yt": null
+  },
+  {
     "name": "Discovery_Asia HD",
     "country": "IN",
     "stream": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8",
@@ -416,6 +428,12 @@
     "country": "US",
     "logo": "https://business.insight.tv/wp-content/uploads/7521/01/Insight-TV-Logo-small-150x150.png",
     "stream": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Tastemade",
+    "country": "US",
+    "stream": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
     "yt": null
   },
   {
