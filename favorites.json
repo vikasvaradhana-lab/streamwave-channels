@@ -781,21 +781,12 @@
     "yt": null
   },
   {
-    "name": "ZDF",
-    "country": "DE",
-    "cat": "German",
-    "folder": "German",
-    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZDFHD.png",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125735|user-agent=andriod",
-    "yt": null
-  },
-  {
     "name": "ZDF Info",
     "country": "DE",
     "cat": "German",
     "folder": "German",
-    "logo": null,
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125736|user-agent=andriod",
+    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZDFinfoHD.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=15375.m3u8|user-agent=andriod",
     "yt": null
   },
   {
@@ -803,35 +794,44 @@
     "country": "DE",
     "cat": "German",
     "folder": "German",
-    "logo": null,
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125737|user-agent=andriod",
+    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZDF_neoHD.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=15374.m3u8|user-agent=andriod",
     "yt": null
   },
   {
-    "name": "ARD Alpha",
+    "name": "Warner TV Film HD",
     "country": "DE",
     "cat": "German",
     "folder": "German",
-    "logo": null,
-    "stream": "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Warner_TV_Film_logo.svg/320px-Warner_TV_Film_logo.svg.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=416.m3u8|user-agent=andriod",
     "yt": null
   },
   {
-    "name": "Max Select",
+    "name": "Warner TV Comedy HD",
     "country": "DE",
     "cat": "German",
     "folder": "German",
-    "logo": null,
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125749|user-agent=andriod",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Warner_TV_Comedy_logo.svg/320px-Warner_TV_Comedy_logo.svg.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=415.m3u8|user-agent=andriod",
     "yt": null
   },
   {
-    "name": "Max Select 2",
+    "name": "13th Street HD",
     "country": "DE",
     "cat": "German",
     "folder": "German",
-    "logo": null,
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125750|user-agent=andriod",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/13th_Street_Universal_2018.svg/320px-13th_Street_Universal_2018.svg.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=15392.m3u8|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "Syfy HD",
+    "country": "DE",
+    "cat": "German",
+    "folder": "German",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Syfy_2017.svg/320px-Syfy_2017.svg.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=412.m3u8|user-agent=andriod",
     "yt": null
   },
   {
@@ -839,62 +839,62 @@
     "country": "DE",
     "cat": "German",
     "folder": "German",
-    "logo": "http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/cartoon-network5254.png",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125664|user-agent=andriod",
+    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/CartoonNetwork.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=15384.m3u8|user-agent=andriod",
     "yt": null
   },
   {
-    "name": "Cartoonito DE",
+    "name": "Disney Channel HD",
     "country": "DE",
     "cat": "German",
     "folder": "German",
-    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/CNHD.png",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125665|user-agent=andriod",
+    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/DisneyChannelHD.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=398.m3u8|user-agent=andriod",
     "yt": null
   },
   {
-    "name": "Super RTL DE",
+    "name": "Super RTL / Toggo HD",
     "country": "DE",
     "cat": "German",
     "folder": "German",
-    "logo": null,
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125670|user-agent=andriod",
+    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/SuperRTLHD.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=390.m3u8|user-agent=andriod",
     "yt": null
   },
   {
-    "name": "Nickelodeon DE",
+    "name": "Comedy Central DE",
     "country": "DE",
     "cat": "German",
     "folder": "German",
-    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/NICKHD.png",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125672|user-agent=andriod",
+    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/ComedyCentralDEHD.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=399.m3u8|user-agent=andriod",
     "yt": null
   },
   {
-    "name": "Disney HD",
+    "name": "RTL Crime HD",
     "country": "DE",
     "cat": "German",
     "folder": "German",
-    "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/DISNEYHD.png",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125667|user-agent=andriod",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/RTL_Crime_2022.svg/320px-RTL_Crime_2022.svg.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=422.m3u8|user-agent=andriod",
     "yt": null
   },
   {
-    "name": "Kinowelt HD",
+    "name": "RTL Living HD",
     "country": "DE",
     "cat": "German",
     "folder": "German",
-    "logo": null,
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125748|user-agent=andriod",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/RTL_Living_2022.svg/320px-RTL_Living_2022.svg.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=15373.m3u8|user-agent=andriod",
     "yt": null
   },
   {
-    "name": "Sky Sports DE",
+    "name": "Welt HD",
     "country": "DE",
     "cat": "German",
     "folder": "German",
-    "logo": null,
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125649|user-agent=andriod",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Welt_Fernsehen_2018.svg/320px-Welt_Fernsehen_2018.svg.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=15379.m3u8|user-agent=andriod",
     "yt": null
   },
   {
