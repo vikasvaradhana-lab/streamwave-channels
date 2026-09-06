@@ -639,6 +639,14 @@
   ],
   "Movies": [
     {
+      "name": "Zee Cinema HD",
+      "country": "IN",
+      "cat": "Movies",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
+      "stream": "https://hoast-plm.shop/mc.php?id=735399.m3u8|user-agent=andriod",
+      "yt": null
+    },
+    {
       "name": "Malayalam TS Cinema",
       "country": "IN",
       "cat": "Movies",
