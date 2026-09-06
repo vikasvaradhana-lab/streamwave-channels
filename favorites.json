@@ -201,8 +201,15 @@
     "cat": "Sports",
     "logo": null,
     "stream": "https://hoast-plm.shop/mc.php?id=809396.m3u8|user-agent=andriod",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJsRmZya0JLVVZ2cU9xVjRRdWtyRkhnIiwiayI6IjVpQ3BjTTZrZE1TUnJIaXVjYVRYWkEifV19"
+    "yt": null
+  },
+  {
+    "name": "Sony Ten 1 HD",
+    "country": "IN",
+    "cat": "Sports",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=373200.m3u8|user-agent=andriod",
+    "yt": null
   },
   {
     "name": "Willow TV HD",
@@ -402,6 +409,14 @@
     "name": "BBC Earth",
     "country": "UK",
     "stream": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Sony BBC Earth HD",
+    "country": "IN",
+    "cat": "Documentary",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=373071.m3u8|user-agent=andriod",
     "yt": null
   },
   {
@@ -635,7 +650,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SET_HD.png",
-    "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/SET%20HD.m3u8",
+    "stream": "https://hoast-plm.shop/mc.php?id=943926.m3u8|user-agent=andriod",
     "yt": null
   },
   {
@@ -643,7 +658,15 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
-    "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20Sab%20HD.m3u8",
+    "stream": "https://hoast-plm.shop/mc.php?id=944604.m3u8|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "Sony MAX HD",
+    "country": "IN",
+    "cat": "Movies",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=373074.m3u8|user-agent=andriod",
     "yt": null
   },
   {
@@ -655,11 +678,19 @@
     "yt": null
   },
   {
+    "name": "Sony PIX HD",
+    "country": "IN",
+    "cat": "Movies",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=943971.m3u8|user-agent=andriod",
+    "yt": null
+  },
+  {
     "name": "Sony Pal",
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
-    "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20Pal.m3u8",
+    "stream": "https://hoast-plm.shop/mc.php?id=373069.m3u8|user-agent=andriod",
     "yt": null
   },
   {
@@ -675,7 +706,7 @@
     "country": "IN",
     "cat": "Music",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
-    "stream": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20Wah.m3u8",
+    "stream": "https://hoast-plm.shop/mc.php?id=944607.m3u8|user-agent=andriod",
     "yt": null
   },
   {
