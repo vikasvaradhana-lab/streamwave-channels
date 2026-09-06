@@ -91,7 +91,7 @@
   {
     "name": "Mazhavil Manorama HD",
     "country": "IN",
-    "stream": "https://cdn-7.pishow.tv/live/1129/master.m3u8",
+    "stream": "https://mumt07.tangotv.in/zHjX9OFlMAZHAVILMANORAMAHD/index.m3u8",
     "yt": null
   },
   {
@@ -158,7 +158,7 @@
   {
     "name": "MediaoneTV Live",
     "country": "IN",
-    "stream": "https://cdn-3.pishow.tv/live/1481/master.m3u8",
+    "stream": "https://streams.tangotv.in/MEDIAONETV/ORIGIN/index.m3u8",
     "yt": null
   },
   {
@@ -208,14 +208,6 @@
     "cat": "Sports",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
     "stream": "https://hoast-plm.shop/mc.php?id=373200.m3u8|user-agent=andriod",
-    "yt": null
-  },
-  {
-    "name": "Willow TV HD",
-    "country": "IN",
-    "cat": "Sports",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=809386.m3u8|user-agent=andriod",
     "yt": null
   },
   {
@@ -523,6 +515,12 @@
     "yt": null
   },
   {
+    "name": "Tom & Jerry TV",
+    "country": "US",
+    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8",
+    "yt": null
+  },
+  {
     "name": "Kartoon Channel",
     "country": "US",
     "stream": "https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8",
@@ -538,12 +536,6 @@
     "name": "ToonGoggles",
     "country": "US",
     "stream": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
-    "yt": null
-  },
-  {
-    "name": "Tom & Jerry TV",
-    "country": "US",
-    "stream": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8",
     "yt": null
   },
   {
@@ -587,6 +579,14 @@
     "name": "Bantul The Great",
     "country": "IN",
     "stream": "https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Willow TV HD",
+    "country": "IN",
+    "cat": "Sports",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=809386.m3u8|user-agent=andriod",
     "yt": null
   },
   {
