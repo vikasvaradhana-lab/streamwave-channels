@@ -27,7 +27,7 @@
   {
     "name": "Kochu TV",
     "country": "IN",
-    "stream": "https://hoast-plm.shop/mc.php?id=373401.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=89979|user-agent=andriod",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",
     "yt": null
   },
@@ -44,18 +44,16 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://i.imgur.com/cps67hs.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=373397.m3u8|user-agent=andriod",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhYmxwYVdscGFXbHBhV2xwYVdscGFRIiwiayI6IjFaSlNEdW8yRlFlbVBKU185NW5mdGcifV19"
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=43470|user-agent=andriod",
+    "yt": null
   },
   {
     "name": "Asianet Plus",
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=373396.m3u8|user-agent=andriod",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFlbHBhV2xwYVdscGFRIiwiayI6IlRMdVZTUzU3TkNwM0tJUHlJU1F4SncifV19"
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=43472|user-agent=andriod",
+    "yt": null
   },
   {
     "name": "Surya Comedy",
@@ -70,9 +68,8 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://i.imgur.com/Wv7MOzg.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=373404.m3u8|user-agent=andriod",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdocGFhbHBhV2xwYVdscGFRIiwiayI6Ing3ak9Ham9rNHZtMDBTU2RCQlZjU1EifV19"
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=43469|user-agent=andriod",
+    "yt": null
   },
   {
     "name": "Surya HD",
@@ -190,29 +187,28 @@
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "https://hoast-plm.shop/mc.php?id=373206.m3u8|user-agent=andriod",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJsbDNDM2JIWVVUaXRlSG1acF9NTXBRIiwiayI6ImhaYVZCMjVuX3BZWU5yVmsyMjFvbkEifV19"
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=293|user-agent=andriod",
+    "yt": null
   },
   {
     "name": "Ten Sports HD",
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "https://hoast-plm.shop/mc.php?id=809396.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=132249|user-agent=andriod",
     "yt": null
   },
   {
-    "name": "Sony Ten 1 HD",
+    "name": "TNT Sports 2",
     "country": "IN",
     "cat": "Sports",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=373200.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=268|user-agent=andriod",
     "yt": null
   },
   {
     "name": "Star Sports 2 HD",
-    "stream": "https://hoast-plm.shop/mc.php?id=809384.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=298|user-agent=andriod",
     "cat": "Sports",
     "country": "IN"
   },
@@ -220,7 +216,7 @@
     "name": "Willow 2 HD",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
     "cat": "Sports",
-    "stream": "https://hoast-plm.shop/mc.php?id=809387.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=287|user-agent=andriod",
     "yt": null,
     "m3u_source": null,
     "m3u_match": null,
@@ -231,36 +227,32 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=373304.m3u8|user-agent=andriod",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFHbHBhV2xwYVdscGFRIiwiayI6IjgyNWMxSUpTdk5EODJpdi1JZld6WlEifV19"
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=198|user-agent=andriod",
+    "yt": null
   },
   {
     "name": "Star Movies Select HD",
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=373320.m3u8|user-agent=andriod",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYTJscGFRIiwiayI6ImF4YU50SkpCcDR3YlFqcTVvcFFKN3cifV19"
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=199|user-agent=andriod",
+    "yt": null
   },
   {
     "name": "Nat Geo Wild HD",
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=373018.m3u8|user-agent=andriod",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2hwYVc1cGFXbHBhV2xwYVdscGFRIiwiayI6IndtZDhoMGlHNTQwa3NfdGxiRmMwNEEifV19"
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=4237|user-agent=andriod",
+    "yt": null
   },
   {
     "name": "Animal Planet HD",
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=944624.m3u8|user-agent=andriod",
-    "yt": null,
-    "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJxdjBHZnB3LVVNU3lYQ09UYzdraEF3IiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=4212|user-agent=andriod",
+    "yt": null
   },
   {
     "name": "Republic World",
@@ -407,7 +399,7 @@
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=373071.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=12366|user-agent=andriod",
     "yt": null
   },
   {
@@ -586,7 +578,7 @@
     "country": "IN",
     "cat": "Sports",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=809386.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=40481|user-agent=andriod",
     "yt": null
   },
   {
@@ -649,7 +641,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SET_HD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=943926.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=193|user-agent=andriod",
     "yt": null
   },
   {
@@ -657,7 +649,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=944604.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=191|user-agent=andriod",
     "yt": null
   },
   {
@@ -665,7 +657,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=373074.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=184|user-agent=andriod",
     "yt": null
   },
   {
@@ -673,15 +665,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max2.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=372689.m3u8|user-agent=andriod",
-    "yt": null
-  },
-  {
-    "name": "Sony PIX HD",
-    "country": "IN",
-    "cat": "Movies",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=943971.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=183|user-agent=andriod",
     "yt": null
   },
   {
@@ -689,23 +673,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=373069.m3u8|user-agent=andriod",
-    "yt": null
-  },
-  {
-    "name": "Sony Yay",
-    "country": "IN",
-    "cat": "Kids",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_YAY.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=373067.m3u8|user-agent=andriod",
-    "yt": null
-  },
-  {
-    "name": "Sony Wah",
-    "country": "IN",
-    "cat": "Music",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=944607.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=188|user-agent=andriod",
     "yt": null
   },
   {
@@ -759,7 +727,7 @@
     "cat": "German",
     "folder": "German",
     "logo": "http://picon.tivi-ott.net:25461/picon/GERMANY/KIKA.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=15387.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125670|user-agent=andriod",
     "yt": null
   },
   {
