@@ -27,9 +27,10 @@
   {
     "name": "Kochu TV",
     "country": "IN",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=89979|user-agent=andriod",
+    "stream": "https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",
-    "yt": null
+    "yt": null,
+    "license_key": "data:application/json;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJraWQiOiAiYzFUN016c01RVm04YkVNOFRiRTlEdyIsICJrIjogIi1faTBvUl9yOTlMdTBpZ3dCcGVSZGcifV19"
   },
   {
     "name": "Surya Movies",
