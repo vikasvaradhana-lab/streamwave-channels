@@ -4,7 +4,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=213|user-agent=andriod",
+    "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/playlist.m3u8",
     "yt": null
   },
   {
@@ -44,7 +44,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://i.imgur.com/cps67hs.png",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=43470|user-agent=andriod",
+    "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8",
     "yt": null
   },
   {
@@ -68,7 +68,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://i.imgur.com/Wv7MOzg.png",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=43469|user-agent=andriod",
+    "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/playlist.m3u8",
     "yt": null
   },
   {
@@ -227,7 +227,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=198|user-agent=andriod",
+    "stream": "http://66.102.126.10:8000/play/a021/index.m3u8",
     "yt": null
   },
   {
@@ -235,7 +235,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=199|user-agent=andriod",
+    "stream": "http://66.102.126.10:8000/play/a020/index.m3u8",
     "yt": null
   },
   {
@@ -835,7 +835,7 @@
     "cat": "German",
     "folder": "German",
     "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/ComedyCentralDEHD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=399.m3u8|user-agent=andriod",
+    "stream": "https://ma.anixa.tv/clips/stream/comedy_central/playlist.php",
     "yt": null
   },
   {

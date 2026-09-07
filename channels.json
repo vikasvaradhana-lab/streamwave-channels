@@ -359,7 +359,7 @@
       "name": "Asianet SD (JioTV)",
       "logo": "https://i.imgur.com/Wv7MOzg.png",
       "cat": "Entertainment",
-      "stream": "https://hoast-plm.shop/mc.php?id=373404.m3u8|user-agent=andriod",
+      "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/playlist.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdocGFhbHBhV2xwYVdscGFRIiwiayI6Ing3ak9Ham9rNHZtMDBTU2RCQlZjU1EifV19"
     },
@@ -382,14 +382,14 @@
       "name": "Asianet (576p)",
       "logo": "https://i.imgur.com/Wv7MOzg.png",
       "cat": "Entertainment",
-      "stream": "https://hoast-plm.shop/mc.php?id=373404.m3u8|user-agent=andriod",
+      "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/playlist.m3u8",
       "yt": null
     },
     {
       "name": "Asianet Middle East (576p)",
       "logo": "https://i.imgur.com/du9iZ0s.png",
       "cat": "Entertainment",
-      "stream": "https://hoast-plm.shop/mc.php?id=373404.m3u8|user-agent=andriod",
+      "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/playlist.m3u8",
       "yt": null
     },
     {
@@ -643,7 +643,7 @@
       "country": "IN",
       "cat": "Movies",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-      "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=213|user-agent=andriod",
+      "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/playlist.m3u8",
       "yt": null
     },
     {
@@ -666,7 +666,7 @@
       "name": "Asianet Movies SD (JioTV)",
       "logo": "https://i.imgur.com/cps67hs.png",
       "cat": "Movies",
-      "stream": "https://hoast-plm.shop/mc.php?id=373397.m3u8|user-agent=andriod",
+      "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhYmxwYVdscGFXbHBhV2xwYVdscGFRIiwiayI6IjFaSlNEdW8yRlFlbVBKU185NW5mdGcifV19"
     },
@@ -674,14 +674,14 @@
       "name": "Asianet Movies (576p)",
       "logo": "https://i.imgur.com/cps67hs.png",
       "cat": "Movies",
-      "stream": "https://hoast-plm.shop/mc.php?id=373397.m3u8|user-agent=andriod",
+      "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8",
       "yt": null
     },
     {
       "name": "Asianet Movies HD (1080p)",
       "logo": "https://i.imgur.com/cps67hs.png",
       "cat": "Movies",
-      "stream": "https://hoast-plm.shop/mc.php?id=373397.m3u8|user-agent=andriod",
+      "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8",
       "yt": null
     },
     {
@@ -811,7 +811,7 @@
       "name": "Star Movies HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
       "cat": "Movies",
-      "stream": "https://hoast-plm.shop/mc.php?id=373304.m3u8|user-agent=andriod",
+      "stream": "http://66.102.126.10:8000/play/a021/index.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFHbHBhV2xwYVdscGFRIiwiayI6IjgyNWMxSUpTdk5EODJpdi1JZld6WlEifV19"
     },
@@ -819,7 +819,7 @@
       "name": "Star Movies Select HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
       "cat": "Movies",
-      "stream": "https://hoast-plm.shop/mc.php?id=373320.m3u8|user-agent=andriod",
+      "stream": "http://66.102.126.10:8000/play/a020/index.m3u8",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYTJscGFRIiwiayI6ImF4YU50SkpCcDR3YlFqcTVvcFFKN3cifV19"
     },
