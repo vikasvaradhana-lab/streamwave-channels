@@ -81,14 +81,14 @@
       "name": "News Malayalam 24x7 (1080p)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_MALAYALAM_24X7/images/LOGO_HD/image.png",
       "cat": "News",
-      "stream": "https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8",
+      "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=89967|user-agent=andriod",
       "yt": null
     },
     {
       "name": "Raj News Malayalam (576p)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_MALAYALAM/images/LOGO_HD/image.png",
       "cat": "News",
-      "stream": "https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8",
+      "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=89967|user-agent=andriod",
       "yt": null
     },
     {
@@ -367,7 +367,7 @@
       "name": "Asianet Plus SD (JioTV)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
       "cat": "Entertainment",
-      "stream": "https://hoast-plm.shop/mc.php?id=373396.m3u8|user-agent=andriod",
+      "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=43472|user-agent=andriod",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFlbHBhV2xwYVdscGFRIiwiayI6IlRMdVZTUzU3TkNwM0tJUHlJU1F4SncifV19"
     },
@@ -396,7 +396,7 @@
       "name": "Asianet Plus (396p)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
       "cat": "Entertainment",
-      "stream": "https://hoast-plm.shop/mc.php?id=373396.m3u8|user-agent=andriod",
+      "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=43472|user-agent=andriod",
       "yt": null
     },
     {
@@ -643,7 +643,7 @@
       "country": "IN",
       "cat": "Movies",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-      "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/playlist.m3u8",
+      "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=213|user-agent=andriod",
       "yt": null
     },
     {
@@ -811,7 +811,7 @@
       "name": "Star Movies HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
       "cat": "Movies",
-      "stream": "http://66.102.126.10:8000/play/a021/index.m3u8",
+      "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=198|user-agent=andriod",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFHbHBhV2xwYVdscGFRIiwiayI6IjgyNWMxSUpTdk5EODJpdi1JZld6WlEifV19"
     },
@@ -819,7 +819,7 @@
       "name": "Star Movies Select HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
       "cat": "Movies",
-      "stream": "http://66.102.126.10:8000/play/a020/index.m3u8",
+      "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=199|user-agent=andriod",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2xwYVdscGFXbHBhV2xwYTJscGFRIiwiayI6ImF4YU50SkpCcDR3YlFqcTVvcFFKN3cifV19"
     },
@@ -827,7 +827,7 @@
       "name": "Sony Max HD",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
       "cat": "Movies",
-      "stream": "https://hoast-plm.shop/mc.php?id=373074.m3u8|user-agent=andriod",
+      "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=184|user-agent=andriod",
       "yt": null
     },
     {
@@ -841,7 +841,7 @@
       "name": "Sony PIX HD",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
       "cat": "Movies",
-      "stream": "https://hoast-plm.shop/mc.php?id=943971.m3u8|user-agent=andriod",
+      "stream": "https://cloudplay-sonyliv.pages.dev/pixhd.m3u8",
       "yt": null
     }
   ],
@@ -1070,7 +1070,7 @@
       "name": "Sony Wah",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
       "cat": "Music",
-      "stream": "https://hoast-plm.shop/mc.php?id=944607.m3u8|user-agent=andriod",
+      "stream": "https://cloudplay-sonyliv.pages.dev/wah.m3u8",
       "yt": null
     }
   ],
@@ -1270,7 +1270,7 @@
       "name": "Nat Geo Wild HD (JioTV)",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
       "cat": "Documentary",
-      "stream": "http://mxonlive.xyz/live/xap/383183.m3u8?e=1788837719&token=b3d23ac683d2e3618ab1bfba43a82a8bdd1ee2a2a99fb3bacb6123a81110d429",
+      "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=4237|user-agent=andriod",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJhV2hwYVc1cGFXbHBhV2xwYVdscGFRIiwiayI6IndtZDhoMGlHNTQwa3NfdGxiRmMwNEEifV19"
     },
@@ -1278,7 +1278,7 @@
       "name": "Animal Planet HD English (JioTV)",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
       "cat": "Documentary",
-      "stream": "https://hoast-plm.shop/mc.php?id=944624.m3u8|user-agent=andriod",
+      "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=4212|user-agent=andriod",
       "yt": null,
       "license_key": "data:application/json;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJxdjBHZnB3LVVNU3lYQ09UYzdraEF3IiwiayI6IlNqRmk5bXlidGVKTkJZYzc5Nm9GOGcifV19"
     }
@@ -1443,7 +1443,7 @@
       "name": "Sony Yay",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_YAY.png",
       "cat": "Kids",
-      "stream": "https://hoast-plm.shop/mc.php?id=373067.m3u8|user-agent=andriod",
+      "stream": "https://cloudplay-sonyliv.pages.dev/yay.m3u8",
       "yt": null
     }
   ],
@@ -1699,7 +1699,7 @@
       "name": "Sony Sports Ten 1 HD",
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
       "cat": "Sports",
-      "stream": "https://hoast-plm.shop/mc.php?id=373200.m3u8|user-agent=andriod",
+      "stream": "https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,
@@ -2071,7 +2071,7 @@
       "name": "TNT Sports 2",
       "logo": null,
       "cat": "Sports",
-      "stream": "http://140.245.252.161:3000/channel/TNT%202.m3u8",
+      "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=268|user-agent=andriod",
       "yt": null,
       "m3u_source": null,
       "m3u_match": null,

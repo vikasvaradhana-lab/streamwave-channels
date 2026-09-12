@@ -4,7 +4,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-    "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/playlist.m3u8",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=213|user-agent=andriod",
     "yt": null
   },
   {
@@ -126,7 +126,7 @@
   {
     "name": "News Malayalam 24x7",
     "country": "IN",
-    "stream": "https://cdn-3.pishow.tv/live/1629/master.m3u8",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=89967|user-agent=andriod",
     "yt": null
   },
   {
@@ -228,7 +228,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
-    "stream": "http://66.102.126.10:8000/play/a021/index.m3u8",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=198|user-agent=andriod",
     "yt": null
   },
   {
@@ -236,7 +236,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
-    "stream": "http://66.102.126.10:8000/play/a020/index.m3u8",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=199|user-agent=andriod",
     "yt": null
   },
   {
@@ -244,7 +244,7 @@
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
-    "stream": "http://mxonlive.xyz/live/xap/383183.m3u8?e=1788837719&token=b3d23ac683d2e3618ab1bfba43a82a8bdd1ee2a2a99fb3bacb6123a81110d429",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=4237|user-agent=andriod",
     "yt": null
   },
   {
@@ -670,11 +670,35 @@
     "yt": null
   },
   {
+    "name": "Sony PIX HD",
+    "country": "IN",
+    "cat": "Movies",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+    "stream": "https://cloudplay-sonyliv.pages.dev/pixhd.m3u8",
+    "yt": null
+  },
+  {
     "name": "Sony Pal",
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
     "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=188|user-agent=andriod",
+    "yt": null
+  },
+  {
+    "name": "Sony Yay",
+    "country": "IN",
+    "cat": "Kids",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_YAY.png",
+    "stream": "https://cloudplay-sonyliv.pages.dev/yay.m3u8",
+    "yt": null
+  },
+  {
+    "name": "Sony Wah",
+    "country": "IN",
+    "cat": "Music",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
+    "stream": "https://cloudplay-sonyliv.pages.dev/wah.m3u8",
     "yt": null
   },
   {
@@ -755,7 +779,7 @@
     "cat": "German",
     "folder": "German",
     "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZDFinfoHD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=15375.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134111|user-agent=andriod",
     "yt": null
   },
   {
@@ -764,7 +788,7 @@
     "cat": "German",
     "folder": "German",
     "logo": "http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZDF_neoHD.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=15374.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125737|user-agent=andriod",
     "yt": null
   },
   {
@@ -773,7 +797,7 @@
     "cat": "German",
     "folder": "German",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Warner_TV_Film_logo.svg/320px-Warner_TV_Film_logo.svg.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=416.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125811|user-agent=andriod",
     "yt": null
   },
   {
@@ -782,7 +806,7 @@
     "cat": "German",
     "folder": "German",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Warner_TV_Comedy_logo.svg/320px-Warner_TV_Comedy_logo.svg.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=415.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125810|user-agent=andriod",
     "yt": null
   },
   {
@@ -791,7 +815,7 @@
     "cat": "German",
     "folder": "German",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/13th_Street_Universal_2018.svg/320px-13th_Street_Universal_2018.svg.png",
-    "stream": "https://hoast-plm.shop/mc.php?id=15392.m3u8|user-agent=andriod",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125742|user-agent=andriod",
     "yt": null
   },
   {
