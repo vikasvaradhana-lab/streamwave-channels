@@ -208,10 +208,12 @@
     "yt": null
   },
   {
-    "name": "Star Sports 2 HD",
-    "stream": "https://hoast-plm.shop/mc.php?id=809384.m3u8|user-agent=andriod",
+    "name": "Willow TV HD",
+    "country": "US",
     "cat": "Sports",
-    "country": "IN"
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WILLOW_2023_Primary-Stacked.png",
+    "stream": "https://hoast-plm.shop/mc.php?id=809386.m3u8|user-agent=andriod",
+    "yt": null
   },
   {
     "name": "Willow 2 HD",
