@@ -4,7 +4,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-    "stream": "https://z5.cply9.workers.dev/live-tv/0-9-zeecinemahd.m3u8|user-agent=andriod",
+    "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/playlist.m3u8",
     "yt": null
   },
   {
