@@ -639,6 +639,14 @@
   ],
   "Movies": [
     {
+      "name": "Charge! Movies HD",
+      "country": "US",
+      "cat": "Movies",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/0/09/Charge%21_network_logo.png",
+      "stream": "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8",
+      "yt": null
+    },
+    {
       "name": "Zee Cinema HD",
       "country": "IN",
       "cat": "Movies",
