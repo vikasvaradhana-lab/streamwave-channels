@@ -935,6 +935,14 @@
   ],
   "Religious": [
     {
+      "name": "Sanskar Digital",
+      "country": "IN",
+      "cat": "Religious",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png",
+      "stream": "https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8",
+      "yt": null
+    },
+    {
       "name": "Goodness TV (576p)",
       "logo": "https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540",
       "cat": "Religious",
