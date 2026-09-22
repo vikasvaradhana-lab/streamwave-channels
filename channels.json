@@ -771,9 +771,9 @@
     },
     {
       "name": "The Movie Club",
-      "logo": "",
+      "logo": "https://i.imgur.com/p16HNIM.png",
       "cat": "Movies",
-      "stream": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8",
+      "stream": "https://d2tiq0lnb179mp.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gp7rpz72nscfl/6c56939e-efec-4b8e-865d-6f72ba9de306/3.m3u8",
       "yt": null
     },
     {
@@ -851,6 +851,13 @@
       "cat": "Movies",
       "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=189|user-agent=andriod",
       "yt": null
+    },
+    {
+      "name": "The Movie Club 2",
+      "stream": "https://d3gnyty2vddhsg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/fa7c2ea2-4655-4229-96ff-cfa42eaa7c49/3.m3u8",
+      "logo": "https://i.imgur.com/p16HNIM.png",
+      "yt": null,
+      "cat": "Movies"
     }
   ],
   "Culture": [
