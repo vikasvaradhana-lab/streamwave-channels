@@ -182,12 +182,11 @@
     "m3u_referer": null
   },
   {
-    "name": "Star Sports 1 HD",
-    "country": "IN",
-    "cat": "Sports",
+    "name": "Star Sports 2 HD",
+    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=298|user-agent=andriod",
     "logo": null,
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=293|user-agent=andriod",
-    "yt": null
+    "yt": null,
+    "cat": "Sports"
   },
   {
     "name": "A Sports HD",
