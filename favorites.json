@@ -51,7 +51,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=373396&extension=m3u8",
+    "stream": "https://fta.ektv.in/live/697/master.m3u8",
     "yt": null
   },
   {
@@ -193,7 +193,7 @@
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=809390&extension=m3u8",
+    "stream": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
     "yt": null
   },
   {
