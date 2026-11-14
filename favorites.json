@@ -7,9 +7,9 @@
     "cat": "Movies"
   },
   {
-    "name": "Tata Sky Bollywood Premier HD",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=373006&extension=m3u8",
-    "logo": "https://i.imgur.com/scDKOLS.png",
+    "name": "Star Gold HD",
+    "stream": "https://livetv.shamon-cable.net:8443/StarGold/index.m3u8",
+    "logo": "https://livetv.shamon-cable.net/assets/images/stargoldhd_1788806906.png",
     "yt": null,
     "cat": "Movies"
   },
@@ -43,7 +43,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://i.imgur.com/cps67hs.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=373397&extension=m3u8",
+    "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8",
     "yt": null
   },
   {
@@ -100,7 +100,7 @@
   {
     "name": "Asianet News",
     "country": "IN",
-    "stream": "https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8",
+    "stream": "https://streams.tangotv.in/ASIANETNEWS/ORIGIN/index.m3u8",
     "yt": "null"
   },
   {
@@ -124,7 +124,7 @@
   {
     "name": "News Malayalam 24x7",
     "country": "IN",
-    "stream": "https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=89967|user-agent=andriod",
+    "stream": "https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8",
     "yt": null
   },
   {
@@ -175,7 +175,7 @@
     "name": "Willow Plus",
     "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WILLOW_2023_Primary-Stacked.png",
     "cat": "Sports",
-    "stream": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+    "stream": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8",
     "yt": null,
     "m3u_source": null,
     "m3u_match": null,
@@ -183,7 +183,7 @@
   },
   {
     "name": "Star Sports 2 HD",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=809384&extension=m3u8",
+    "stream": "https://livetv.shamon-cable.net:8443/Star-sports-2/index.m3u8",
     "logo": null,
     "yt": null,
     "cat": "Sports"
@@ -201,7 +201,7 @@
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=809396&extension=m3u8",
+    "stream": "https://livetv.shamon-cable.net:8443/TEN-SPORTS/index.m3u8",
     "yt": null
   },
   {
@@ -209,14 +209,14 @@
     "country": "US",
     "cat": "Sports",
     "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WILLOW_2023_Primary-Stacked.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=809386&extension=m3u8",
+    "stream": "https://livetv.shamon-cable.net:8443/Willow-TV/index.m3u8",
     "yt": null
   },
   {
     "name": "Willow 2 HD",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
     "cat": "Sports",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=809387&extension=m3u8",
+    "stream": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
     "yt": null,
     "m3u_source": null,
     "m3u_match": null,
@@ -227,7 +227,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=373304&extension=m3u8",
+    "stream": "https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8",
     "yt": null
   },
   {
@@ -235,7 +235,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=373320&extension=m3u8",
+    "stream": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
     "yt": null
   },
   {
@@ -243,7 +243,7 @@
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=373018&extension=m3u8",
+    "stream": "http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8",
     "yt": null
   },
   {
@@ -251,7 +251,7 @@
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=944624&extension=m3u8",
+    "stream": "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
     "yt": null
   },
   {
@@ -263,7 +263,7 @@
   {
     "name": "Times NOW",
     "country": "IN",
-    "stream": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
+    "stream": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8",
     "yt": null
   },
   {
@@ -578,7 +578,7 @@
     "country": "IN",
     "cat": "Sports",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=809386&extension=m3u8",
+    "stream": "https://livetv.shamon-cable.net:8443/Willow-TV/index.m3u8",
     "yt": null
   },
   {
@@ -635,7 +635,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=735399&extension=m3u8",
+    "stream": "https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8",
     "yt": null
   },
   {
@@ -643,7 +643,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SET_HD.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=943926&extension=m3u8",
+    "stream": "http://38.96.178.205/SONYHD/index.m3u8",
     "yt": null
   },
   {
@@ -651,7 +651,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=944604&extension=m3u8",
+    "stream": "https://livetv.shamon-cable.net/proxy/proxy.php?id=cff90bd28257734242f4b41309bfa85c3d86",
     "yt": null
   },
   {
@@ -659,7 +659,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=373074&extension=m3u8",
+    "stream": "https://livetv.shamon-cable.net/proxy/proxy.php?id=99013200692d25ae4c5d4c61c2fb461053ec",
     "yt": null
   },
   {
@@ -667,7 +667,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max2.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=372689&extension=m3u8",
+    "stream": "https://livetv.shamon-cable.net/proxy/proxy.php?id=80dc57525557cb32b9cf9d25c04722b28eb9",
     "yt": null
   },
   {
@@ -675,7 +675,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=943971&extension=m3u8",
+    "stream": "https://livetv.shamon-cable.net/proxy/proxy.php?id=22ab5c5dada35e382a1e48a58e2497537edd",
     "yt": null
   },
   {
@@ -691,7 +691,7 @@
     "country": "IN",
     "cat": "Kids",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_YAY.png",
-    "stream": "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=373067&extension=m3u8",
+    "stream": "https://livetv.shamon-cable.net/proxy/proxy.php?id=e0752eaee3ab9a43d6d2f030b3915db9c290",
     "yt": null
   },
   {
