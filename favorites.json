@@ -8,7 +8,7 @@
   },
   {
     "name": "Star Gold HD",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281281.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a12a/index.m3u8",
     "logo": "https://livetv.shamon-cable.net/assets/images/stargoldhd_1788806906.png",
     "yt": null,
     "cat": "Movies"
@@ -51,7 +51,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://i.imgur.com/du9iZ0s.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/839816.m3u8",
+    "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8",
     "yt": null
   },
   {
@@ -175,7 +175,7 @@
     "name": "Willow Plus",
     "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WILLOW_2023_Primary-Stacked.png",
     "cat": "Sports",
-    "stream": "https://baila-lentoo.pages.dev/asiann/741865.m3u8",
+    "stream": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
     "yt": null,
     "m3u_source": null,
     "m3u_match": null,
@@ -183,17 +183,17 @@
   },
   {
     "name": "Star Sports 2 HD",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281632.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a120/index.m3u8",
     "logo": null,
     "yt": null,
     "cat": "Sports"
   },
   {
-    "name": "Sky Cricket HD",
+    "name": "Star Sports 1 HD",
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "https://baila-lentoo.pages.dev/asiann/689573.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a11x/index.m3u8",
     "yt": null
   },
   {
@@ -201,22 +201,22 @@
     "country": "IN",
     "cat": "Sports",
     "logo": null,
-    "stream": "https://baila-lentoo.pages.dev/asiann/281638.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a117/index.m3u8",
     "yt": null
   },
   {
-    "name": "Willow TV HD",
+    "name": "Sony Ten 1 HD",
     "country": "US",
     "cat": "Sports",
     "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WILLOW_2023_Primary-Stacked.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/741862.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a11t/index.m3u8",
     "yt": null
   },
   {
-    "name": "Willow 2 HD",
+    "name": "Sony Ten 2 HD",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
     "cat": "Sports",
-    "stream": "https://baila-lentoo.pages.dev/asiann/689572.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a137/index.m3u8",
     "yt": null,
     "m3u_source": null,
     "m3u_match": null,
@@ -227,7 +227,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281643.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a13a/index.m3u8",
     "yt": null
   },
   {
@@ -235,7 +235,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281644.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a139/index.m3u8",
     "yt": null
   },
   {
@@ -243,7 +243,7 @@
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281340.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a11h/index.m3u8",
     "yt": null
   },
   {
@@ -251,7 +251,7 @@
     "country": "IN",
     "cat": "Documentary",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281315.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a11a/index.m3u8",
     "yt": null
   },
   {
@@ -263,8 +263,8 @@
   {
     "name": "Times NOW",
     "country": "IN",
-    "stream": "https://baila-lentoo.pages.dev/asiann/843902.m3u8",
-    "yt": null
+    "stream": null,
+    "yt": "smTzBfiohSI"
   },
   {
     "name": "Mirror Now",
@@ -467,7 +467,7 @@
   {
     "name": "Cartoon Network",
     "country": "US",
-    "stream": "https://baila-lentoo.pages.dev/asiann/841549.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a114/index.m3u8",
     "yt": null
   },
   {
@@ -491,8 +491,8 @@
   {
     "name": "Doraemon TV",
     "country": "JP",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281356.m3u8",
-    "yt": null
+    "stream": null,
+    "yt": "QxDsPEj5cLQ"
   },
   {
     "name": "Oggy and the Cockroaches",
@@ -635,7 +635,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281278.m3u8",
+    "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b2628000.m3u8",
     "yt": null
   },
   {
@@ -643,7 +643,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SET_HD.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281287.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a11u/index.m3u8",
     "yt": null
   },
   {
@@ -651,7 +651,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281293.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a128/index.m3u8",
     "yt": null
   },
   {
@@ -659,7 +659,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281290.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a123/index.m3u8",
     "yt": null
   },
   {
@@ -667,7 +667,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max2.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281292.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a131/index.m3u8",
     "yt": null
   },
   {
@@ -675,7 +675,7 @@
     "country": "IN",
     "cat": "Movies",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281296.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a138/index.m3u8",
     "yt": null
   },
   {
@@ -683,7 +683,7 @@
     "country": "IN",
     "cat": "Entertainment",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281299.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a11y/index.m3u8",
     "yt": null
   },
   {
@@ -691,7 +691,7 @@
     "country": "IN",
     "cat": "Kids",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_YAY.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281301.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a11j/index.m3u8",
     "yt": null
   },
   {
@@ -699,7 +699,7 @@
     "country": "IN",
     "cat": "Music",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
-    "stream": "https://baila-lentoo.pages.dev/asiann/281300.m3u8",
+    "stream": "http://116.90.120.149:8000/play/a11v/index.m3u8",
     "yt": null
   },
   {
