@@ -50,7 +50,7 @@
     "name": "Asianet Middle East",
     "country": "IN",
     "cat": "Entertainment",
-    "logo": "https://i.imgur.com/du9iZ0s.png",
+    "logo": "https://vikasvaradhana-lab.github.io/streamwave-channels/asianet_middle_east.jpg",
     "stream": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8",
     "yt": null
   },
@@ -263,8 +263,8 @@
   {
     "name": "Times NOW",
     "country": "IN",
-    "stream": null,
-    "yt": "smTzBfiohSI"
+    "stream": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8",
+    "yt": null
   },
   {
     "name": "Mirror Now",
